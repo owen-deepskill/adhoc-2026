@@ -1,0 +1,829 @@
+"Speaker Name","Start Time","End Time","Text"
+"","00:00:00:06","00:00:07:00","Today we are seeing teasing technical shift, especially, after the advent of the LLM."
+"","00:00:07:02","00:00:09:19","So many of us are struggling to find out what's the"
+"","00:00:09:19","00:00:13:03","right way to adapt ourselves to the technological changes."
+"","00:00:13:03","00:00:15:18","But at the same time, what’s more important is"
+"","00:00:15:18","00:00:19:01","What are changing. But maybe it's more important to"
+"","00:00:19:01","00:00:26:02","ask what are not changing.As a human, We have used our rules of the logic"
+"","00:00:26:02","00:00:29:14","persuade and to make a decision to"
+"","00:00:29:14","00:00:32:00","with a group of people. So we have been following"
+"","00:00:32:00","00:00:36:04","these rules, rules of the logic, for last, "
+"","00:00:36:04","00:00:40:03","last 2000 years. And I found that there is exactly at the intersection"
+"","00:00:40:03","00:00:42:20","of these two philosophical in the technological approach."
+"","00:00:43:00","00:00:44:18","We found that there is an academic field"
+"","00:00:44:18","00:00:49:09","called argumentation technology. And today we have the visionary,"
+"","00:00:49:11","00:00:53:18","scholar in this field of research who is kind of researching into this, "
+"","00:00:53:18","00:00:58:11","into intersection. So he had his vision is kind of provoke people's thoughts"
+"","00:00:58:11","00:01:03:08","and to kind of how to enhance their critical thinking skills with the right combination."
+"","00:01:03:08","00:01:08:02","So, we have Professor Chris Reed from the University of Dundee"
+"","00:01:08:02","00:01:12:09","Who is going to introduce his research and how we can accommodate this approach"
+"","00:01:12:09","00:01:15:09","into the real world application."
+"","00:01:15:11","00:01:20:05","Thank you very much for that warm introduction, and thank you for welcoming me here to"
+"","00:01:20:07","00:01:23:04","to join you."
+"","00:01:23:06","00:01:25:11","Perhaps we can start with your introduction."
+"","00:01:25:12","00:01:27:12","Just a brief introduction. What you have been working on"
+"","00:01:27:12","00:01:32:14","what you have in your research interest and why it matters these days."
+"","00:01:32:16","00:01:36:24","So, for the past, three decades, actually,"
+"","00:01:36:24","00:01:43:05","I've been working on, AI modeling with a specific focus on"
+"","00:01:43:05","00:01:48:08","argumentation and human reasoning. So trying to, understand the ways"
+"","00:01:48:08","00:01:54:23","in which people, produce well-reasoned, well-thought through,"
+"","00:01:54:23","00:02:00:03","pieces of linguistic material. And so the focus is"
+"","00:02:00:03","00:02:15:12","very much on the performance of argumentation and the reaching of solidly justified, decisions."
+"","00:02:15:14","00:02:17:09","with they express their disagreement and"
+"","00:02:17:09","00:02:19:22","they come into conflict. And when they try to resolve"
+"","00:02:19:22","00:02:26:10","those conflicts into, into agreed, ways forward. There are so many things in, in play."
+"","00:02:26:14","00:02:31:13","So you have to integrate the the kind of face work"
+"","00:02:31:13","00:02:34:09","and the politeness and all the social interaction material, "
+"","00:02:34:09","00:02:35:17","because conflict is hard"
+"","00:02:35:17","00:02:37:18","for people to manage."
+"","00:02:37:18","00:02:44:07","With, the need for evidence for scrutiny. And so a kind of objectivity,"
+"","00:02:44:13","00:02:49:09","reliability, and all of that then interacts with the rest of the world and the evidence"
+"","00:02:49:09","00:02:53:16","that's out there and the ability to test or not testing to refine"
+"","00:02:53:16","00:02:56:08","and so on. And so you have this,"
+"","00:02:56:08","00:03:00:20","this kind of nexus of all sorts of sophisticated human behavior."
+"","00:03:00:20","00:03:06:12","That, that kind of comes together. So there's a lot to handle if you want to be able to,"
+"","00:03:06:12","00:03:13:16","to model and then subsequently perhaps, critique or engage with or support that human reasoning."
+"","00:03:13:16","00:03:15:01","So that's been my focus for a long time."
+"","00:03:15:01","00:03:18:15","And there has been a lot to do."
+"","00:03:18:17","00:03:23:20","So, so yeah, so first of all, I mean, one of the initial problems"
+"","00:03:23:20","00:03:26:21","that we have is that although as you alluded to in your introduction,"
+"","00:03:26:21","00:03:28:14","argumentation theory as a discipline is"
+"","00:03:28:14","00:03:34:18","effectively more than 2000 year old, 2000 years old, stretching right the way back,"
+"","00:03:34:18","00:03:40:20","to Aristotle and beyond. But there's not a lot of what,"
+"","00:03:40:20","00:03:44:22","in the modern world, AI researchers would call data right?"
+"","00:03:44:22","00:03:47:14","There's not a lot of rule."
+"","00:03:47:14","00:03:51:14","Yeah. And this was a problem from very early on because there's a lot of,"
+"","00:03:51:14","00:03:57:03","kind of 20th century philosophy, focusing on the structure of argumentation."
+"","00:03:57:03","00:03:59:03","But most of that is conducted"
+"","00:03:59:03","00:04:03:12","in the analytical tradition of kind of reflecting on what must be true, "
+"","00:04:03:12","00:04:09:15","rather than going out and seeing what actually is true, what people actually argue."
+"","00:04:09:17","00:04:14:01","And that empirical term, is really only very, very recent."
+"","00:04:14:01","00:04:16:04","And so one of the things that"
+"","00:04:16:04","00:04:19:06","we had to do, beyond was to go look at"
+"","00:04:19:06","00:04:24:21","how pㅈople argue. And that sounds kind of trivial, but one of the, one of the challenges is"
+"","00:04:24:21","00:04:27:24","if you want to do that, particularly in a computational setting,"
+"","00:04:28:01","00:04:30:10","then you need tools. You need infrastructure."
+"","00:04:30:11","00:04:35:02","You need to be able to bring that data together, to analyze it, to annotate it."
+"","00:04:35:04","00:04:40:13","And none of that existed. Right. So so we kind of have to start from zero,"
+"","00:04:40:13","00:04:44:19","start to build up the tool sets. The analytical techniques,"
+"","00:04:44:19","00:04:48:12","the annotation guidelines drive all of that to the point"
+"","00:04:48:12","00:04:50:21","at which we’re able to start collecting the data."
+"","00:04:50:21","00:04:56:06","That took about a decade. And then and then indeed go out and"
+"","00:04:56:06","00:04:59:10","look at the way in which people argue in different domains,"
+"","00:04:59:10","00:05:03:07","because arguing is effectively ubiquitous across the human experience."
+"","00:05:03:07","00:05:06:03","Right? So, whether you're a lawyer"
+"","00:05:06:03","00:05:12:14","in the courtroom or, husband and wife at home arguing about who's going to do the dishes."
+"","00:05:12:19","00:05:15:15","You know, the processes that we go through are"
+"","00:05:15:15","00:05:19:03","very similar, right? There are commonalities"
+"","00:05:19:05","00:05:22:04","across all of these different domains of argumentation."
+"","00:05:22:06","00:05:25:05","But then at the same time, there are also subtleties,"
+"","00:05:25:07","00:05:28:05","of huge differences between how people argue"
+"","00:05:28:05","00:05:30:24","in the corporate boardroom as opposed to"
+"","00:05:31:03","00:05:35:06","trying to do. Yeah, exactly. So so we had to go and get a"
+"","00:05:35:06","00:05:38:05","lot of data from all these different domains."
+"","00:05:38:07","00:05:43:03","And apply consistent annotation techniques to be able to"
+"","00:05:43:03","00:05:51:00","build up large corpora and then start to build the systems, based on, those data sets. "
+"","00:05:51:00","00:05:53:20","And so effectively, what happened over the course of,"
+"","00:05:53:20","00:05:56:21","as I say, several decades, was this emergence of"
+"","00:05:56:21","00:06:01:19","an ecosystem of different tools and data sets and techniques of algorithms."
+"","00:06:01:19","00:06:06:18","And then about ten years ago, what happened was that we realized that"
+"","00:06:06:18","00:06:10:23","with the advent of new AI and subsequently, not long subsequently, "
+"","00:06:10:23","00:06:18:18","with large language models, that we start to have the techniques for being able to automatically recognize the"
+"","00:06:18:18","00:06:25:11","structured reasoning in natural text. So we also started developing rhythms "
+"","00:06:25:11","00:06:30:05","for that, driven in large part by those datasets."
+"","00:06:30:07","00:06:35:11","So the problem is that, as of today, at the beginning of 2026, "
+"","00:06:35:11","00:06:43:06","the state of the art is still not able  to cope with the sophistication"
+"","00:06:43:06","00:06:51:06","and the nuance, and the kind of mastery of human cognition that is embodied"
+"","00:06:51:06","00:06:55:06","in the process of argumentation. So LLM is out of the box."
+"","00:06:55:06","00:07:02:05","Are really so very poor at recognizing when people are giving, pieces of evidence"
+"","00:07:02:05","00:07:06:00","for their conclusions, how they, assemble"
+"","00:07:06:00","00:07:09:03","the chains of reasoning to be able to support"
+"","00:07:09:05","00:07:13:15","or dis confirm hypotheses.So, we had a very"
+"","00:07:13:15","00:07:18:20","interesting, turning point. So, that as there is this"
+"","00:07:18:20","00:07:25:13","kind of inexorable rise in the power and sophistication, of modern day,"
+"","00:07:25:14","00:07:28:12","I say formally, yeah. And more latterly,"
+"","00:07:28:14","00:07:34:14","large reasoning models, algorithms. There is a fundamental, limit."
+"","00:07:34:14","00:07:40:03","It seems to, the ability of these AI systems on their own "
+"","00:07:40:03","00:07:43:06","like that to be able to tackle. "
+"","00:07:43:06","00:07:47:04","So argument technology is, is now at this,"
+"","00:07:47:04","00:07:52:08","at this sort of fascinating, eye of the storm."
+"","00:07:52:10","00:08:00:23","In, in as much as, reasoning is being touted and seems indeed to be, of core importance and"
+"","00:08:00:23","00:08:04:18","fundamental importance to what AI is able to do."
+"","00:08:04:18","00:08:10:17","And yet even just the ability to measure the sophistication and"
+"","00:08:10:18","00:08:15:04","capability that LLM requires all of this argument technology"
+"","00:08:15:06","00:08:17:06","work that we'll be doing over the next few years."
+"","00:08:17:12","00:08:21:19","So it's a very exciting moment in time to be working on presenting these things."
+"","00:08:22:00","00:08:24:12","Yeah, precisely. Yeah. So before we kind of"
+"","00:08:24:12","00:08:28:14","diving into a bit more technical details, I just wonder, you mentioned briefly mentioned"
+"","00:08:28:14","00:08:31:20","about your work. Just wonder how your work"
+"","00:08:31:20","00:08:37:09","have been applied to the different projects like in public sector or any other sectors."
+"","00:08:37:11","00:08:42:09","And based on that in my sort of final question is why it matters,"
+"","00:08:42:09","00:08:45:03","to the human. So that's I mean, "
+"","00:08:45:03","00:08:47:13","I think that those two questions naturally go."
+"","00:08:47:13","00:08:51:22","So one of the things that I've been particularly interested in, is "
+"","00:08:51:22","00:08:57:19","how we can take, AI research into this kind of ubiquitous,"
+"","00:08:57:21","00:09:04:16","phenomenon of argumentation and apply it in different domains to have some kind of impact."
+"","00:09:04:16","00:09:06:15","Now, having an impact is always hard, right? "
+"","00:09:06:15","00:09:11:19","you have to have a lot of track record. Kind of perseverance to"
+"","00:09:11:19","00:09:15:12","be able to make a difference. But we've had at least some,"
+"","00:09:15:12","00:09:18:15","some kind of small successes, as you say."
+"","00:09:18:15","00:09:20:22","Some in the public sector and some elsewhere."
+"","00:09:21:03","00:09:24:10","So I can I can talk to you about a couple of examples."
+"","00:09:24:10","00:09:29:05","So we've had a long relationship, with the BBC and the UK,"
+"","00:09:29:05","00:09:34:13","which started off, in a collaboration with BBC radio four and"
+"","00:09:34:13","00:09:40:05","in particular the, production team, of a program called The Moral Maze,"
+"","00:09:40:08","00:09:47:00","which, if anyone is interested in, in reasoning and its applications in topical problems, "
+"","00:09:47:05","00:09:54:04","I thoroughly recommend the romance. And the set up there is a rather combative, "
+"","00:09:54:04","00:09:59:17","rather belligerent, interaction between four kind of regular panelists."
+"","00:09:59:17","00:10:08:24","Four witnesses who are experts on the theme of the week's show, which is drawn from recent news."
+"","00:10:09:01","00:10:13:01","And the idea is that the witnesses are cross-examined by the panelists."
+"","00:10:13:03","00:10:16:21","So it's a very nice, kind of set up for"
+"","00:10:16:21","00:10:21:14","exploring how people argue and how they express confidence and how they reach agreement. "
+"","00:10:21:14","00:10:28:00","So, we started working with them to try to understand just some of the basic"
+"","00:10:28:00","00:10:36:04","mechanisms of how, interactional argumentation, functions, how it was put together."
+"","00:10:36:06","00:10:41:12","So, we first of all, transcribed and then"
+"","00:10:41:12","00:10:47:01","analyzed, in total many of their programs."
+"","00:10:47:01","00:10:49:22","I mean, I think maybe 30 or 45 episodes."
+"","00:10:49:23","00:10:55:13","And a lot of that was preliminary work and try and just understand what it meant to"
+"","00:10:55:13","00:11:01:17","be able to annotate, and as we built up the data set,"
+"","00:11:01:17","00:11:07:02","we started to get fascinating insights into the ways in which the dynamics"
+"","00:11:07:02","00:11:13:13","of this kind of drive, are structured. So, for example, we were looking at the,"
+"","00:11:13:14","00:11:17:05","the ways in which, turn taking interacts"
+"","00:11:17:05","00:11:23:06","with the presentation of ideas, how questioning, sets up themes"
+"","00:11:23:06","00:11:26:12","that then run through the remainder of the program and so on and so forth."
+"","00:11:26:14","00:11:28:19","And one of the things that we realized very"
+"","00:11:28:19","00:11:32:04","early on was that there is just a lot of data,"
+"","00:11:32:06","00:11:35:11","right? So, you know, in 45 minutes of program,"
+"","00:11:35:11","00:11:37:03","you've got maybe 10,000 words."
+"","00:11:37:03","00:11:40:00","You've got, I don't know, 500 terms yet."
+"","00:11:40:00","00:11:45:17","So you've got a lot of kind of very complicated linguistic material that would interacting and,"
+"","00:11:45:17","00:11:48:19","you know, beloved of people who work in argumentation theory of"
+"","00:11:48:19","00:11:51:10","these kind of box and arrow diagrams that connect up"
+"","00:11:51:15","00:11:54:19","premises and conclusions. And they are certainly very"
+"","00:11:54:19","00:11:57:22","useful and very informative. But when, when you've got like"
+"","00:11:57:22","00:12:00:21","thousands of boxes of arrows, it just turns into complete spaghetti."
+"","00:12:00:21","00:12:04:03","So you need other ways of kind of"
+"","00:12:04:03","00:12:06:24","presenting that information. So we started to develop a"
+"","00:12:06:24","00:12:12:03","series of analytics that give you insight into that abstraction through different"
+"","00:12:12:03","00:12:17:16","kind of abstraction mechanisms. And so being able to show,"
+"","00:12:17:16","00:12:19:23","for example, where there are kind of conflict"
+"","00:12:19:23","00:12:25:11","hotspots and how those interact on the turn that"
+"","00:12:25:13","00:12:27:02","Exactly, exactly."
+"","00:12:27:04","00:12:29:24","And so, you know, the lessons that we learned there, "
+"","00:12:29:24","00:12:33:14","we were then able to take back to the production team and say"
+"","00:12:33:14","00:12:35:16","look, we we've got these, these kinds of"
+"","00:12:35:16","00:12:39:21","observations about what's going on. And they said, that's cool."
+"","00:12:39:21","00:12:42:21","How can we how can we get that to our audience?"
+"","00:12:42:21","00:12:46:24","Right? How can we get that insight into understanding the discussion?"
+"","00:12:47:01","00:12:50:04","And it's not just about, you know, who's winning, but rather about"
+"","00:12:50:04","00:12:53:11","who's presenting arguments that are well defended."
+"","00:12:53:11","00:12:59:16","And who's able to to dig down the position, and defend it against all comers as opposed"
+"","00:12:59:16","00:13:03:09","to capitulate or indeed, who's got the best brass"
+"","00:13:03:10","00:13:07:21","or in these kinds of rather soft, notions? Yeah."
+"","00:13:07:22","00:13:10:16","Can now be, evidence drawn. "
+"","00:13:10:16","00:13:14:12","Data driven? Yeah. And so we worked with them,"
+"","00:13:14:12","00:13:19:18","to produce these analytics, live with the program"
+"","00:13:19:18","00:13:22:13","so that they were... Exactly."
+"","00:13:22:17","00:13:25:22","And all of those analytics are at least at the moment."
+"","00:13:25:24","00:13:31:03","Or by saying it's website and we got huge amounts of positive feedback from listeners and"
+"","00:13:31:05","00:13:34:05","kind of fascinated to kind of compare"
+"","00:13:34:06","00:13:40:02","this sort of very detailed data driven analysis of the discussion,"
+"","00:13:40:04","00:13:45:05","with what was going on in the program and that those, those feedback comments"
+"","00:13:45:06","00:13:52:04","in led us to perform a similar exercise with the US presidential debates in 2016"
+"","00:13:52:06","00:13:57:22","where we could, pin down on the kind of punditry"
+"","00:13:57:22","00:14:04:17","that you get from the newspapers talking about, you know, Trump was very, evasive or, or Clinton was"
+"","00:14:04:17","00:14:09:05","focusing on the wrong issues, and we can pin that down in the data."
+"","00:14:09:11","00:14:16:01","And that was kind of, fascinating. So to be able to to give people that sort of insight,"
+"","00:14:16:01","00:14:22:12","but it also laid the foundation for then subsequently further work with the BBC,"
+"","00:14:22:12","00:14:26:10","in the educational right arena."
+"","00:14:26:12","00:14:29:21","Where we worked with BBC, School Report and this was"
+"","00:14:29:21","00:14:34:00","and they have a mission to kind of improve"
+"","00:14:34:00","00:14:40:01","media literacy. And in that year. I think it was 2018,"
+"","00:14:40:01","00:14:44:08","if I remember correctly. We were commissioned to"
+"","00:14:44:08","00:14:50:04","produce software that would help schoolchildren,identify fake news."
+"","00:14:50:06","00:14:55:12","And the idea that I was to look and exploit the similarity between,"
+"","00:14:55:12","00:14:58:04","on the one hand, poor quality journalism"
+"","00:14:58:06","00:15:00:14","and on the other hand, poor quality reasoning"
+"","00:15:00:16","00:15:06:13","and use the same tools and to be able to uncover those weaknesses that suggest, "
+"","00:15:06:13","00:15:11:24","like maybe some reporting I see is fake. Yeah. And this was deployed into, "
+"","00:15:11:24","00:15:14:21","Every secondary school in the UK."
+"","00:15:14:21","00:15:18:23","And it was a tough user group, right? This 16 to 18 year olds."
+"","00:15:19:02","00:15:24:17","And yet we had incredibly positive feed, right?"
+"","00:15:24:17","00:15:27:17","So more than two thirds of the kids said it really did help"
+"","00:15:27:17","00:15:34:11","them to identify fake news at a while. So this was extremely positive again in a kind of."
+"","00:15:34:11","00:15:42:03","Educational arena. And has I suppose spurred us on to"
+"","00:15:42:03","00:15:44:05","other areas of application. And I mean just sort of to"
+"","00:15:44:05","00:15:46:01","other areas of application. And I mean just sort of to"
+"","00:15:46:01","00:15:48:20","mention a few, we've been looking at,"
+"","00:15:48:20","00:15:52:07","how you can surface the dynamics of discussion."
+"","00:15:52:13","00:15:59:04","To improve the quality of discussion in public deliberation, particular in citizen assemblies."
+"","00:15:59:06","00:16:02:13","We've also been looking at, in kind of a completely"
+"","00:16:02:13","00:16:07:16","different, setting, the ways in which intelligence analysts"
+"","00:16:07:16","00:16:11:18","who are often using very sophisticated reasoning techniques"
+"","00:16:11:18","00:16:15:23","running intense time pressures on matters that really matter"
+"","00:16:15:23","00:16:22:21","and, providing tools to help them come to better decisions proficiently."
+"","00:16:22:21","00:16:26:13","And we've also been working at"
+"","00:16:26:13","00:16:29:24","the other end of the spectrum entirely, with mediators."
+"","00:16:29:24","00:16:34:13","And so both corporate mediators, but also just like couples media"
+"","00:16:34:15","00:16:42:01","where the argumentation in some of the most sophisticated but at the same."
+"","00:16:42:03","00:16:47:02","So, there's this still logical structure, but there's also a lot of very sophistication of linguistic"
+"","00:16:47:02","00:16:50:23","and instrument maneuvering. And so we've we've kind of"
+"","00:16:50:23","00:16:57:22","looked at how those dynamics, are put together. I learned a lot about one of the key techniques,"
+"","00:16:57:22","00:17:00:10","reframing, which it turns out plays"
+"","00:17:00:10","00:17:02:10","a critical role in all kinds of argumentation"
+"","00:17:02:10","00:17:06:20","and not just in mediation. And so we've been extending our"
+"","00:17:06:20","00:17:13:24","models to account for those kinds of that mix and to provide tools to help actually train mediators. "
+"","00:17:13:24","00:17:18:02","With new ideas. So this there's a full spectrum"
+"","00:17:18:02","00:17:22:11","of kind of potential applications, as you would expect."
+"","00:17:22:13","00:17:29:03","And I think it speaks to the ubiquitynot just of argumentation but to the"
+"","00:17:29:03","00:17:33:19","applicability of argumentation. "
+"","00:17:33:21","00:17:36:23","When I was kind of describing your BBC project,"
+"","00:17:36:23","00:17:41:07","I was picturing, like, playing sports game highlights."
+"","00:17:41:07","00:17:45:02","Exactly like."
+"","00:17:45:02","00:17:47:11","But that's exactly right. And I think it's I find it"
+"","00:17:47:11","00:17:50:23","interesting that, you know, we've become very accustomed"
+"","00:17:51:00","00:17:55:03","to that kind of data driven, analysis of sports games."
+"","00:17:55:05","00:17:56:17","Right? In fact, we would kind of feel"
+"","00:17:56:17","00:17:59:20","almost cheated if it were absent. You know, we want the batting"
+"","00:17:59:20","00:18:02:00","averages and everything else, right? We want we want to be able to have"
+"","00:18:02:00","00:18:05:19","that information at our fingertips. And it's fun. It it it kind of empowers us."
+"","00:18:05:19","00:18:11:10","And yet so things that I don't no matter even more, who's going to"
+"","00:18:11:10","00:18:17:06","be the president and or whatever. We kind of don't have that expectation."
+"","00:18:17:06","00:18:20:01","We're just accustomed to punditry"
+"","00:18:20:01","00:18:23:15","Rather than have data driven."
+"","00:18:23:15","00:18:26:24","Kind of this is what actually happens. "
+"","00:18:26:24","00:18:30:22","And I think that perfectly answers my previous second question,"
+"","00:18:30:22","00:18:33:17","which is why it matters. These days we're seeing"
+"","00:18:33:17","00:18:35:23","like abundant information flowing through the everyday life."
+"","00:18:35:23","00:18:40:07","And, even more important, having our own gut, to decide"
+"","00:18:40:07","00:18:43:18","based on that last examination is your thought might be sort"
+"","00:18:43:18","00:18:49:12","of be flooded by those or information that. So I think the importance of this,"
+"","00:18:49:14","00:18:51:16","critical thinking skills is important these days."
+"","00:18:51:18","00:18:53:13","That's right. I mean, I think there's been"
+"","00:18:53:13","00:18:57:03","quite a lot of discussion quite recently around critical thinking skills."
+"","00:18:57:03","00:19:04:17","As people start to, understand some of the challenges of modern I, and"
+"","00:19:04:17","00:19:08:07","in particular, I mean, you know, it's hugely powerful and hugely"
+"","00:19:08:07","00:19:11:07","appealing to all of us, right? I mean, we all use AI in one way"
+"","00:19:11:07","00:19:14:12","or the other. Yeah. And and yet there are,"
+"","00:19:14:12","00:19:19:08","there are voices expressing some concern, particularly in the educational space, but"
+"","00:19:19:10","00:19:25:08","not only, in the, you know, over, use of AI."
+"","00:19:25:09","00:19:30:11","has this tendency to dull things, those skills."
+"","00:19:30:11","00:19:33:04","And that, you know, we need we need to kind of rethink."
+"","00:19:33:04","00:19:36:05","Reframe how are we using AI?"
+"","00:19:36:05","00:19:41:05","And I find this fascinating because, you know, AI is an amazing tool."
+"","00:19:41:06","00:19:47:12","I mean, modern LLM are an amazing tool for being able to, partner,"
+"","00:19:47:14","00:19:50:15","the, the kind of traditional. Good old fashioned."
+"","00:19:50:16","00:19:57:14","reasoning techniques, with, with human performance."
+"","00:19:57:16","00:20:01:20","And, you know, there's a lot of kind of concern that AI is"
+"","00:20:01:20","00:20:06:14","usurping, kind of pursuing human, processing."
+"","00:20:06:16","00:20:11:24","And that just seems to me to be completely wrong, that we should be seeing this as a, as an"
+"","00:20:11:24","00:20:14:21","opportunity for collaboration."
+"","00:20:14:21","00:20:18:03","And I'm particularly interested in that mean that these things"
+"","00:20:18:03","00:20:23:19","have various names in different domains, but human machine teaming or collaborative"
+"","00:20:23:19","00:20:31:15","working, human agent collectives. I've seen also where AI is basically"
+"","00:20:31:15","00:20:36:06","given a seat at the table. So in very many domains, if you're"
+"","00:20:36:06","00:20:40:14","trying to come to a robust decision, you will have input from a number of"
+"","00:20:40:14","00:20:44:07","different perspectives and departments or areas."
+"","00:20:44:09","00:20:49:02","And people will kind of thrash it out. Offering, contributions."
+"","00:20:49:02","00:20:56:18","Reasoning for that perspective. And I can provide one or perhaps more"
+"","00:20:56:18","00:21:02:08","voices at that table, offering insight, offering critique, offering push back,"
+"","00:21:02:08","00:21:06:03","offering support, basically leveling the playing field."
+"","00:21:06:03","00:21:11:05","Between humans and machines, and to be able to reduce as many"
+"","00:21:11:05","00:21:13:11","different perspectives as possible to improve"
+"","00:21:13:11","00:21:22:14","the quality or so that that kind of, shift from seeing, AI is either the enemy or a threat."
+"","00:21:22:14","00:21:24:18","To seeing it as part of the team."
+"","00:21:24:22","00:21:29:08","As the, as the kind of collaborative environment. I think that's, that's going"
+"","00:21:29:08","00:21:31:21","to be a really cool opportunity."
+"","00:21:31:23","00:21:34:07","Very soon. I definitely. Agree. And actually,"
+"","00:21:34:07","00:21:37:05","it reminds of a recent article by the Harvard Business Review. "
+"","00:21:37:05","00:21:40:15","So if they want to view the post of McKinsey and company."
+"","00:21:40:17","00:21:45:15","So they, they said McKinsey post, they said they change the way they"
+"","00:21:45:15","00:21:49:23","recruit the, candidates like previously, what they call this case interview."
+"","00:21:50:00","00:21:55:20","It's kind of the young seen in, contesting the candidates sort of structure, thinking"
+"","00:21:55:20","00:21:57:23","how to come up with the right logical structure."
+"","00:21:58:02","00:22:00:18","The problem is, AI is even better than"
+"","00:22:00:20","00:22:03:09","that of junior. Yeah, yeah. So they kind of change the"
+"","00:22:03:09","00:22:06:16","way of, interaction. They are freely used to it."
+"","00:22:06:16","00:22:09:23","Use the AI and get a lot of information from the AI."
+"","00:22:10:04","00:22:15:20","But you need to sort of be critically assess what, what's coming from the AI that way and what"
+"","00:22:15:20","00:22:17:16","what they're especially looking at is kind of a"
+"","00:22:17:16","00:22:22:08","non-linear thinking because, you know, AI is kind of they're very good at linear"
+"","00:22:22:08","00:22:26:14","to very straightforward thinking, whereas very non-linear kind of"
+"","00:22:26:14","00:22:29:10","creativity that's not easily coming from the AI."
+"","00:22:29:11","00:22:33:14","So that seems to be one picture of how AI human can elaborate."
+"","00:22:33:14","00:22:35:23","I think that's I think that's a perfect example."
+"","00:22:35:23","00:22:39:18","And so, so encouraging the, the challenge or"
+"","00:22:39:18","00:22:46:12","the, the test or the evaluation candidate. To be not on reaching the decision, but,"
+"","00:22:46:14","00:22:53:19","effectively the process by which the decision is, it arrived at I think that's crucial in"
+"","00:22:53:19","00:22:58:13","I mean, to be honest, I kind of think that, that"
+"","00:22:58:13","00:23:02:08","that's good even without the challenge of.But nonetheless, that nailed it."
+"","00:23:02:08","00:23:08:03","AI has kind of forced our hand.And I think that, encouraging"
+"","00:23:08:03","00:23:13:13","that focus on the on the critiquing process, on the ability to assess and judge and"
+"","00:23:13:13","00:23:18:14","integrate other perspectives, and kind of challenge against"
+"","00:23:18:16","00:23:26:01","I think that's, uniquely encouraging these critical thinkers."
+"","00:23:26:01","00:23:29:00","Yes. Makes a lot of sense.And it seems to be kind of the"
+"","00:23:29:02","00:23:31:20","kind of core skills needed for the future, I believe."
+"","00:23:31:20","00:23:34:16","Yeah, absolutely. Yes. That makes sense."
+"","00:23:34:16","00:23:37:01","Now so you mentioned, like a limitation of the open."
+"","00:23:37:01","00:23:41:15","You look like a leader in the past.Just wanted to elaborate further."
+"","00:23:41:15","00:23:45:06","So I just wonder, whether you have a clear evidence"
+"","00:23:45:06","00:23:48:18","of the where the evidence limitationis there because somebody in Chile"
+"","00:23:48:18","00:23:54:11","said what you're saying can be actually and at last can be solved by if you kind"
+"","00:23:54:11","00:23:57:05","of challenge like that. What you kind of. Okay."
+"","00:23:57:05","00:24:00:01","Yeah. So that's I mean obviously this is, this is basically I was"
+"","00:24:00:01","00:24:05:05","going to say the $64,000 question I think is what, like $1 billion question?"
+"","00:24:05:07","00:24:10:09","But it's this is definitely where everything that is exciting, in AI,"
+"","00:24:10:09","00:24:12:04","a lot of it is sitting around these questions"
+"","00:24:12:04","00:24:14:18","of reasoning and of course, you know, trying to define"
+"","00:24:14:18","00:24:17:11","what constitutes reasoning has been exercising philosophers"
+"","00:24:17:15","00:24:20:03","for the last 2000 years. Right. So, so being able"
+"","00:24:20:03","00:24:23:00","to pin down precisely what we mean is not a task that,"
+"","00:24:23:00","00:24:28:00","I’m going to take on. But it certainly seems to be the case"
+"","00:24:28:00","00:24:32:06","as though there are some kinds of, activities that"
+"","00:24:32:06","00:24:36:12","we would naturally and intuitively, intuitively recognize as reasoning,"
+"","00:24:36:14","00:24:40:05","that LLMs are currently unable to, to emulate."
+"","00:24:40:07","00:24:42:06","And I can unpack that a little bit and"
+"","00:24:42:06","00:24:45:16","give you a few examples. Let me start with an example."
+"","00:24:45:16","00:24:48:21","From now, about 18 months ago"
+"","00:24:48:21","00:24:50:04","that got quite a lot of air time."
+"","00:24:50:04","00:24:54:09","So people who, may, may very well be familiar with this."
+"","00:24:54:09","00:24:58:23","So you may have encountered those kind of, little, sort of riddles"
+"","00:24:58:23","00:25:01:23","that you give kids, about, having to measure"
+"","00:25:01:23","00:25:06:18","out to a particular volume of liquid using two jugs and fixed sizes."
+"","00:25:06:18","00:25:09:01","So, you know, the SA1 is you've got a jug of five."
+"","00:25:09:01","00:25:15:05","five liters of a jug, the whole seven."
+"","00:25:15:07","00:25:18:15","So that's all kind of straightforward. And obviously they're all around the"
+"","00:25:18:15","00:25:21:02","internet and therefore I'm not"
+"","00:25:21:02","00:25:26:05","right he way through the training data that these are used, and, you know,"
+"","00:25:26:05","00:25:29:04","it used to be the case, as I say, about 18 months ago, that if you,"
+"","00:25:29:04","00:25:35:21","if you asked, GPT four, you know, you've got a seven liter jug and"
+"","00:25:35:21","00:25:41:10","you've got a five liter jug. How do you measure out seven liters."
+"","00:25:41:10","00:25:44:10","54 would say, well,"
+"","00:25:44:10","00:25:47:18","you fill a five liter jockey, pour the five liter dog into the 72 jug."
+"","00:25:47:18","00:25:49:21","You brother, five liter again. And then you pull that in and then you're"
+"","00:25:49:21","00:25:52:17","left with three and you empty this one. You pull this and it's like "
+"","00:25:52:17","00:25:54:24","that's not the right answer. Right? "
+"","00:25:54:24","00:25:57:20","And what was happening. Y"
+"","00:25:57:20","00:26:01:05","machine was generating something that looked a lot like an answer"
+"","00:26:01:05","00:26:02:23","to that kind of question. Right. Because that's how"
+"","00:26:02:23","00:26:06:06","they did it. But, you know, the look of confusion on your"
+"","00:26:06:06","00:26:09:00","face speaks precisely to the fact that"
+"","00:26:09:00","00:26:12:18","there is an easy answer to this question. Right? Yeah. So so the machine wasn't"
+"","00:26:12:18","00:26:15:21","really providing an answer, wasn't really reasoning was"
+"","00:26:15:21","00:26:20:13","just producing something looks nice. now, this problem was solved,"
+"","00:26:20:16","00:26:23:20","right? And you can see because of the triviality of the setting"
+"","00:26:23:20","00:26:27:18","is actually not very difficult to solve. So that that no longer happens."
+"","00:26:27:20","00:26:34:00","But the phenomenon of, hello limbs and limbs producing material that looks like."
+"","00:26:34:00","00:26:39:16","Reasoning. But isn't. it is still very common."
+"","00:26:39:18","00:26:43:14","Now, one thing that we do have to mention, here is train of thought because train of"
+"","00:26:43:14","00:26:47:04","thought and it's, related. Yeah. Processes has become"
+"","00:26:47:04","00:26:53:15","very, popular. And train of thought is, I think, a rather different, phenomenon in the what"
+"","00:26:53:15","00:26:59:06","we're seeing is that by prompting for justification, you can get a better answer."
+"","00:26:59:06","00:27:03:12","And I think that that is true, and I think it's been demonstrated to be true."
+"","00:27:03:14","00:27:09:10","But the thing that people often miss is that, very often the conclusion of"
+"","00:27:09:10","00:27:12:03","the train of thought is different to the answer."
+"","00:27:12:03","00:27:15:06","Or yeah. The chain of reasoning"
+"","00:27:15:06","00:27:18:13","that leads you to the conclusion is inconsistent with the answer,"
+"","00:27:18:15","00:27:21:11","or the chain of thought that leads to a conclusion"
+"","00:27:21:11","00:27:24:24","is in itself inconsistent, or any other number of ways"
+"","00:27:24:24","00:27:30:10","in which we're not seeing real reasoning. So chain of thought, is very often not a"
+"","00:27:30:10","00:27:33:00","chain and certainly not thought."
+"","00:27:33:00","00:27:39:04","So I don't think it's a very good phrase. but is it, basically a prompting technique?"
+"","00:27:39:04","00:27:41:21","It does improve the quality of answers."
+"","00:27:41:21","00:27:46:01","But I don't think that constitutes reasoning.We've got lots of reasons why."
+"","00:27:46:01","00:27:49:23","So for real reasoning,"
+"","00:27:49:23","00:27:53:19","that is to say, reaching conclusions on the basis of evidence,"
+"","00:27:53:19","00:27:58:03","I think that, we've got several indications that something is"
+"","00:27:58:03","00:28:03:00","very significantly awry. Now, the first that I can mention,"
+"","00:28:03:00","00:28:06:23","was delivered in a keynote at ACL 2024."
+"","00:28:06:23","00:28:12:22","By rail company party. Who had I think he had"
+"","00:28:12:22","00:28:19:15","neat idea and a smart insight. So the neat idea, was rooted in"
+"","00:28:19:15","00:28:23:06","go find good old fashioned AI. So he, he used to work and so"
+"","00:28:23:07","00:28:25:22","does work, in an area known as planning."
+"","00:28:25:22","00:28:28:17","And planning has been a part of"
+"","00:28:28:17","00:28:36:04","AI since the 60s, as a way of, trying to kind of, challenge a particular kind"
+"","00:28:36:04","00:28:39:08","of reasoning. And this is sort of, action directed reasoning."
+"","00:28:39:09","00:28:42:09","A lot of it was done in a sort of"
+"","00:28:42:09","00:28:46:11","simulated world called blocks World. And in blocks world, you have blocks"
+"","00:28:46:11","00:28:48:03","of different colors, like a blue block and"
+"","00:28:48:03","00:28:51:17","a green block. And you have a goal state, right?"
+"","00:28:51:17","00:28:54:05","So let's say the green block is on top of the blue."
+"","00:28:54:05","00:28:55:08","And the goal is that it's the other way around."
+"","00:28:55:08","00:28:59:14","And the challenge is what do you do in the world in order to go"
+"","00:28:59:14","00:29:02:17","from the that to the goal state? And the answer in that case is you"
+"","00:29:02:17","00:29:05:15","pick the one up and then you put that one on the top right."
+"","00:29:05:15","00:29:10:02","So it's fairly straightforward. Now it turns out that classical planning in general,"
+"","00:29:10:02","00:29:13:10","is computationally very hard in the general case."
+"","00:29:13:10","00:29:18:06","Right. And therefore planners were basically trying to explore the search space in a way"
+"","00:29:18:06","00:29:20:20","that was efficient and would get you to the right answer."
+"","00:29:20:20","00:29:27:18","So, this is well known what happened in the, 80s mostly, was that there was"
+"","00:29:27:18","00:29:30:23","a shift towards some kind of commonality."
+"","00:29:30:23","00:29:32:19","They wanted to be able to test and challenge"
+"","00:29:32:19","00:29:35:06","these planning systems. So they came up with a"
+"","00:29:35:06","00:29:38:22","bunch of benchmark systems, benchmark problems."
+"","00:29:38:22","00:29:41:14","And there were around 600 in this sort of standard set."
+"","00:29:41:14","00:29:45:08","And so if you come up with a new planner, you can run it against these problems and see"
+"","00:29:45:08","00:29:54:09","whether it beats in the current school. Right. And so Rao's kind of, neat idea was I wonder"
+"","00:29:54:09","00:29:59:06","how the LLM do it. And so he just chopped the 600, right."
+"","00:29:59:08","00:30:01:19","I forget which one it was. Maybe Claude."
+"","00:30:01:21","00:30:03:21","Claude did pretty well. Yeah, but about half of them."
+"","00:30:03:21","00:30:06:13","Right. Just out of the box. "
+"","00:30:06:13","00:30:10:21","So elegance can, can easily can do planning layouts."
+"","00:30:10:23","00:30:13:19","And then the inside, the smart insight was,"
+"","00:30:13:19","00:30:17:04","well, hold on. These standard problems and indeed their answers are all over"
+"","00:30:17:04","00:30:18:21","the internet. So part of the trade right."
+"","00:30:18:21","00:30:22:21","I's not really fair to say it's kind of cheating."
+"","00:30:22:21","00:30:25:07","So okay let's take those problems."
+"","00:30:25:07","00:30:29:06","And just tweak the lexical presentation."
+"","00:30:29:08","00:30:31:15","So we keep the structure of the problem. Yeah."
+"","00:30:31:15","00:30:33:24","In the core. Exactly. And then you just said"
+"","00:30:33:24","00:30:39:06","rather than talking about colored blocks, you talk about forget animals with particular"
+"","00:30:39:06","00:30:41:03","emotions and. Something, but for the purpose."
+"","00:30:41:05","00:30:47:19","So it's isomorphic. But just the lexical stuff is different."
+"","00:30:47:19","00:30:53:20","And in the, the experimentation and that rather had done through 23 and 24,"
+"","00:30:53:22","00:30:56:13","performance dropped from about 300 of these"
+"","00:30:56:13","00:31:07:18","600 to wait for it. 000. So, so you've got no real"
+"","00:31:07:18","00:31:10:13","reason to reason whatsoever. "
+"","00:31:10:14","00:31:13:23","You've got an activity that looks like"
+"","00:31:13:23","00:31:16:21","credible reasoning. But if it were actually"
+"","00:31:16:21","00:31:19:10","reasoning right, then it doesn't makeany difference whether you're talking"
+"","00:31:19:10","00:31:23:23","about blocks or animals. Reasoning structure is identical of course."
+"","00:31:23:23","00:31:26:09"," And it wasn't just a drop off."
+"","00:31:26:09","00:31:28:22","It just it. Was actually to nothing. Right."
+"","00:31:29:02","00:31:31:20","I found that absolutely fascinating. Got shot."
+"","00:31:31:20","00:31:35:09","Okay. Now round proposes a number of ways of tackling this."
+"","00:31:35:09","00:31:37:06","And there's obviously more to the story."
+"","00:31:37:06","00:31:41:15","Right. But the the headline there I think is, is really,"
+"","00:31:41:17","00:31:44:20","fascinating. As a way"
+"","00:31:44:20","00:31:49:04","of understanding that, you know, this is, this is a very serious problem."
+"","00:31:49:04","00:31:53:01","It's not the problem of lens not being able to reason."
+"","00:31:53:02","00:31:56:03","It's the problem about the lens not being able to reason"
+"","00:31:56:03","00:31:59:23","but looking like they can. And then right for the people."
+"","00:31:59:23","00:32:02:07","Exactly. Can be right. Exactly."
+"","00:32:02:08","00:32:05:00","And so that's the real."
+"","00:32:05:02","00:32:07:17","That is presented by these."
+"","00:32:07:17","00:32:10:03","By the current. Version of the technologies."
+"","00:32:10:05","00:32:15:00","So one of the things that we did, on the inspired by, the work of"
+"","00:32:15:01","00:32:16:01","compatible, was to, to do a similar bit of, analysis on argumentation."
+"","00:32:16:01","00:32:21:24","compatible, was to, to do a similar bit of, analysis on argumentation."
+"","00:32:22:03","00:32:26:00","So a different kind of reasoning is not necessarily,"
+"","00:32:26:00","00:32:30:14"," practical reasoning, action oriented reasoning. But epistemic."
+"","00:32:30:16","00:32:33:02","We've used a number of different examples."
+"","00:32:33:02","00:32:37:12","So we did one set of experiments around, these kind of logic puzzles, you know,"
+"","00:32:37:12","00:32:41:02","where you, you've got, I don't know, you've got a white house, a blue house,"
+"","00:32:41:02","00:32:42:22","a red house, green house. You've got four."
+"","00:32:42:22","00:32:48:07","So if five scientists, you've got, Einstein owns a dog. "
+"","00:32:48:07","00:32:52:20","The person with the fish lives next door to the zebra, you know, that kind of things."
+"","00:32:52:20","00:32:57:18","And then you've got a question at the end, like, what's the name of Winston's dog?"
+"","00:32:57:20","00:33:01:20","So, the the there is always just enough information for"
+"","00:33:01:20","00:33:04:17","you to be able to solve this. What are interesting about this is that"
+"","00:33:04:17","00:33:09:00","you can very precisely calibrate, right, the challenge of these problems."
+"","00:33:09:00","00:33:12:18","Because you can change the number of variables, in each of the"
+"","00:33:12:18","00:33:18:07","different categories. And so we ran a bunch of experiments. "
+"","00:33:18:07","00:33:24:09","And to cut a very long story short, found a game that, LMS, appeared to do"
+"","00:33:24:09","00:33:29:06","very well in particularly, when the, the, the, question"
+"","00:33:29:06","00:33:32:18","is in their training data. But when you give them new problems,"
+"","00:33:32:18","00:33:37:00","particularly more challenging new problems, the failure is dry."
+"","00:33:37:00","00:33:42:22","Right? We've also, had a look recently at taking"
+"","00:33:42:22","00:33:46:01","real argumentation. And we were inspired"
+"","00:33:46:01","00:33:48:06","to basically say, okay, so we've got all this"
+"","00:33:48:06","00:33:50:12","argumentation structure and the, the data sentence"
+"","00:33:50:12","00:33:52:24","that I mentioned. So you know, let's "
+"","00:33:52:24","00:33:57:11","have a look at one of these and pick an argument with, say, I don't know,"
+"","00:33:57:13","00:34:00:22","a single premise that supports an intermediate conclusion to"
+"","00:34:00:22","00:34:05:15","support to find a solution. And then let's mask out that"
+"","00:34:05:15","00:34:09:24","intermediate. And so we say, we say to the other, here's a premise."
+"","00:34:09:24","00:34:12:04","Here's a final conclusion."
+"","00:34:12:04","00:34:16:12","And then, and then we pick a set of things, including the actual intermediate completion."
+"","00:34:16:17","00:34:19:03","And then three other things. rather similar thing at"
+"","00:34:19:03","00:34:23:08","the other end. So what should we middle. Right."
+"","00:34:23:10","00:34:26:19","And roughly they perform no better than chance."
+"","00:34:26:21","00:34:29:11","No better than, okay. Just so it's just running."
+"","00:34:29:16","00:34:33:10","Okay. And and so it seems with all of these different"
+"","00:34:33:12","00:34:35:01","kinds of reasoning, whether it's classical"
+"","00:34:35:01","00:34:40:16","planning or logical puzzles or humans on argumentation in each case, yeah,"
+"","00:34:40:16","00:34:46:03","there seems to be a fundamental limitation. It more or less could do."
+"","00:34:46:03","00:34:53:03","And I'm not able to sit here and say, you know, I will never be able to do them."
+"","00:34:53:07","00:34:58:20","Right. It's just that at the moment there is no evidence that the current techniques are"
+"","00:34:58:20","00:35:01:20","scaling in the direction of being right. Okay."
+"","00:35:01:20","00:35:05:01","Right. So maybe we can come up with something extra."
+"","00:35:05:02","00:35:09:06","Maybe the current techniques will just scale. But at the moment there's no evidence I can't."
+"","00:35:09:06","00:35:12:16","Stand it I get that. Yeah. So that limitation is quite"
+"","00:35:12:16","00:35:18:05","a meaningful finding because that gives kind of room for how to the AI and the"
+"","00:35:18:05","00:35:20:20","human need to collaborate. "
+"","00:35:20:20","00:35:28:15","So I think that that this, limitation in current land, technology represents"
+"","00:35:28:15","00:35:32:02","an opportunity both for the application of"
+"","00:35:32:02","00:35:40:23","LLM and also for the connection of lens to, other types of AI, which, you know, one"
+"","00:35:40:23","00:35:43:08","would be forgiven for thinking had completely vanished."
+"","00:35:43:08","00:35:47:01","But there is a lot of, valuable"
+"","00:35:47:01","00:35:56:09","other AI techniques and technology out there, which can be used in concert with, LLMs to be able to"
+"","00:35:56:09","00:35:59:20","to deliver value. And so I think that there is a"
+"","00:35:59:20","00:36:05:13","an opportunity on the horizon and indeed this has been discussed in a number of places,"
+"","00:36:05:13","00:36:13:03","including by, by our, our company party, that by combining, some aspects of"
+"","00:36:13:03","00:36:18:02","good old fashioned AI and, modern AI that's not, "
+"","00:36:18:02","00:36:21:18","statistical language, not right. There's there's maybe"
+"","00:36:21:18","00:36:25:16","new frontiers to be opened up. Yeah. And I think the, the reasoning is a"
+"","00:36:25:16","00:36:29:13","perfect example. Yeah. Because so much work in"
+"","00:36:29:13","00:36:33:15","AI, prior to 2017, had been focused on"
+"","00:36:33:15","00:36:36:11","developing models of reasoning rights or another way, whether"
+"","00:36:36:11","00:36:40:09","it's how to, maneuver in the world or how to,"
+"","00:36:40:11","00:36:46:19","conduct proofs and verifications, efficiently. Regardless of where you were in the space, "
+"","00:36:46:19","00:36:49:24","a lot of it was about, single or distributed reasoning."
+"","00:36:50:01","00:36:56:01","And so being able to find ways to, to, to have a lens interact"
+"","00:36:56:03","00:36:59:24","with these other technologies of how you do knowledge representation, knowledge"
+"","00:36:59:24","00:37:02:12","engineering, how you do inference against"
+"","00:37:02:12","00:37:07:07","these knowledge structures, and building the these kind"
+"","00:37:07:07","00:37:11:06","of deep connections between, our LLMs and LLMs on the one hand"
+"","00:37:11:06","00:37:13:24","and these other technologies on the other."
+"","00:37:13:24","00:37:16:14","I think is is currently"
+"","00:37:16:14","00:37:20:12","at least a wide open space. I see. So it's kind of the,"
+"","00:37:20:16","00:37:24:06","having that sort of the, the model three data driven approach to the"
+"","00:37:24:06","00:37:26:23","same time, having a excited approach. Exactly."
+"","00:37:26:23","00:37:28:14","What kind of called that as a kind of neural"
+"","00:37:28:14","00:37:31:02","symbolic, which is kind of neural. It's kind of. Yeah."
+"","00:37:31:02","00:37:33:16","So the data and symbolic is a kind of. I think."
+"","00:37:33:18","00:37:36:22","Exactly. Right. Yeah. For decades. But I think"
+"","00:37:36:22","00:37:39:05","they can combine. Yes, I think exactly right."
+"","00:37:39:05","00:37:41:19","So I mean, people have been talking about neural symbolic approaches for a long time. "
+"","00:37:41:19","00:37:49:00","And I think that that now these, that sort of style, if you like it."
+"","00:37:49:00","00:37:56:16","is one that could drive quite a lot of things because we're seeing these sort of"
+"","00:37:56:18","00:38:00:11","fairly significant limits on model elements are able"
+"","00:38:00:11","00:38:04:17","to do at the moment. And at the same time,"
+"","00:38:04:19","00:38:09:02","there's a lot of kind of enthusiasm from the, from the knowledge, "
+"","00:38:09:02","00:38:13:02","the symbolic AI community for, for offering up"
+"","00:38:13:02","00:38:15:07","their tools and techniques. And, you know, bear in mind"
+"","00:38:15:07","00:38:18:15","that the field of computational models of our community is much"
+"","00:38:18:15","00:38:21:00","broader than just the work within the NLP. Yeah."
+"","00:38:21:00","00:38:26:13","So you have, abstract argumentation systems, you have structured argumentation frameworks,"
+"","00:38:26:15","00:38:30:08","all of which offer mechanisms for doing automated reasoning"
+"","00:38:30:08","00:38:35:04","and for doing inference and so on. So, you know, even just within argumentation theory that"
+"","00:38:35:06","00:38:38:17","there's argumentation technology. So there's a lot of potential."
+"","00:38:38:19","00:38:42:19","And then as you, as you broaden outs to areas like a formal ontology and,"
+"","00:38:42:22","00:38:45:09","and automated. Yeah. And so on. And then"
+"","00:38:45:09","00:38:49:05","there's the mess. So much. Yeah. I was about to actually ask my"
+"","00:38:49:05","00:38:52:09","next question about that because, I think you kind of, pointed to a"
+"","00:38:52:09","00:38:57:00","limitation was how to combine the other components to overcome getting annotation."
+"","00:38:57:02","00:39:01:13","Can you some elaborate sort of tangible sort of some initial success case where"
+"","00:39:01:13","00:39:08:01","you sort of combine the augmentation technology into some deep learning or any AI system to see"
+"","00:39:08:01","00:39:14:01","that improvement? So I mean, combining the,"
+"","00:39:14:03","00:39:19:00","the LLM with any other AI techniques is always going"
+"","00:39:19:00","00:39:21:16","to be challenging. And it requires a lot"
+"","00:39:21:16","00:39:25:09","of, kind of rather dull engineering, right?"
+"","00:39:25:11","00:39:28:15","I mean, it's it's not all exciting. Yeah, yeah."
+"","00:39:28:17","00:39:34:10","Academic, design. Sometimes you just need to get down to gritty."
+"","00:39:34:12","00:39:37:10","And I think one of the,one of the areas in which we've"
+"","00:39:37:10","00:39:43:06","done that, at least to some extent, is to try and help the community of"
+"","00:39:43:06","00:39:47:02","people who work on the automatic recognition of reasoning structure in tech,"
+"","00:39:47:02","00:39:51:06","So this is the field of argument mining."
+"","00:39:51:08","00:39:53:22","There's been a huge amount of work in mining because"
+"","00:39:53:22","00:39:57:14","it's such a challenging task. And there have been a number of"
+"","00:39:57:14","00:40:00:06","kind of community efforts around kind of"
+"","00:40:00:06","00:40:05:14","shared tasks and data sets and so on. One of the things that we've tried to do, is"
+"","00:40:05:14","00:40:08:10","to push things forward with an open framework."
+"","00:40:08:10","00:40:13:03","Yeah. Because so many you need so many different components to"
+"","00:40:13:03","00:40:18:06","be able to solve the problem at large. So you have to be able to take the text in and"
+"","00:40:18:08","00:40:21:01","if there's dialogical interaction, you have to unpick that."
+"","00:40:21:06","00:40:24:18","You have to be able to do appropriate segmentation analysis, "
+"","00:40:24:18","00:40:27:13","argumentative discourse, unit segmentation, elementary discourse, "
+"","00:40:27:13","00:40:31:10","human segmentation. It's much more challenging. You then have to look for connections."
+"","00:40:31:10","00:40:34:14","You then have to type those connections. And then perhaps you have to figure out"
+"","00:40:34:14","00:40:37:02","what kinds of inferences or conflicts or whatever"
+"","00:40:37:02","00:40:40:17","there are there to you have to be able to fill in implicit material and on and"
+"","00:40:40:17","00:40:43:11","on and on. And what people have often done is to say,"
+"","00:40:43:11","00:40:47:10","rather than trying to solve everything, I'm going to focus on this, this chunk,"
+"","00:40:47:10","00:40:50:01","which makes a lot of sense, but then you need all the"
+"","00:40:50:01","00:40:54:08","other things to already be done in order to apply them to the"
+"","00:40:54:08","00:40:57:23","work at that one chunk. And so what we've done"
+"","00:40:57:23","00:41:00:20","is to produce a framework, the open argument mining"
+"","00:41:00:20","00:41:05:16","framework, RMF, which aims to provide an environment"
+"","00:41:05:16","00:41:11:14","in which you can effectively pipeline the different components to be able to"
+"","00:41:11:15","00:41:14:10","take advantage of whichever ones you want at a given moment."
+"","00:41:14:10","00:41:17:04","So if you're not interested in segmentation, you can just pull"
+"","00:41:17:04","00:41:20:15","one of the segmentation modules. Apply your thing to do."
+"","00:41:20:15","00:41:25:16","I don't know, connected connectedness. And then use an application that produces"
+"","00:41:25:19","00:41:29:14","cool pictures or whatever. Right. So there's "
+"","00:41:29:16","00:41:32:15","maybe almost 100 different modules in the framework,"
+"","00:41:32:20","00:41:36:20","some of them developed by my research group, some from elsewhere in the community."
+"","00:41:36:22","00:41:42:16","And you can actually with very little, programing expertise, essentially drag"
+"","00:41:42:16","00:41:45:20","and drop and build pipelines and press the go button and chuck your data in."
+"","00:41:45:22","00:41:54:00","So, this is a kind of, environment in which you have some modules that apply that completely or"
+"","00:41:54:00","00:41:57:06","very heavily dependent on the, on the neural"
+"","00:41:57:06","00:42:01:18","level kind, type of processing. You've got other elements that"
+"","00:42:01:18","00:42:06:07","are absolutely, completely symbolic, you know, either doing automated"
+"","00:42:06:07","00:42:08:18","reasoning or visualization or other kinds of hand processing."
+"","00:42:08:20","00:42:12:08"," And then you've got some the mixture of the"
+"","00:42:12:08","00:42:18:06","two. Right. So, so the idea is that, depending on your compute availability,"
+"","00:42:18:06","00:42:21:05","depending on the, task, the problems depending"
+"","00:42:21:05","00:42:23:19","on the complexity of the text, depending on what other algorithms"
+"","00:42:23:19","00:42:26:12","you've got to hand, you might choose different"
+"","00:42:26:12","00:42:31:05","combinations of different pipelines, but all within a common, language, a"
+"","00:42:31:05","00:42:36:10","common framework that is kind of open and extensible. So I think that's maybe,"
+"","00:42:36:12","00:42:42:10","an example, at least in approach, to being able to merge these two strategies."
+"","00:42:42:10","00:42:46:04","And I think that, applications that"
+"","00:42:46:04","00:42:48:05","do this and, you know, applications that go out"
+"","00:42:48:05","00:42:56:03","to the general public, are probably not far behind."
+"","00:42:56:05","00:42:59:03","Segueing to the next question, which is kind of how you can"
+"","00:42:59:03","00:43:03:20","sort of, the any further application of this or what we discussed, like"
+"","00:43:03:20","00:43:05:23","augmentation technology. You have been working on"
+"","00:43:05:23","00:43:11:19","some sectors, but looks like they're happy, some unconquered territory, like the, the"
+"","00:43:11:19","00:43:13:08","corporate decision making, and they're working with"
+"","00:43:13:08","00:43:15:17","you. I just wonder how you vision for"
+"","00:43:15:17","00:43:18:17","the future direction. Yeah, well, I mean, I"
+"","00:43:18:18","00:43:25:02","think there's lots it might happen next, but, I do think and I have thought for"
+"","00:43:25:02","00:43:32:10","a while that, how to put it important decision makingthat is to say, the making of decisions"
+"","00:43:32:10","00:43:38:15","that have significant consequences.I think that that's an area in which,"
+"","00:43:38:17","00:43:41:22","ultimate technology has a potentially huge"
+"","00:43:41:22","00:43:44:21","role to play. Yeah. Because for the decision"
+"","00:43:44:21","00:43:49:00","making, where, the conclusions don't much matter, you know?"
+"","00:43:49:02","00:43:51:06","No way no one's going to invest the time and effort."
+"","00:43:51:06","00:43:53:06","Right. So when you're arguing about"
+"","00:43:53:06","00:43:58:14","who's going to do the dishes. Yeah, I don't think like, but in,"
+"","00:43:58:15","00:44:02:24","in terms of, that the high stakes kind of stuff."
+"","00:44:02:24","00:44:05:20","So the corporate boardroom is a perfect example."
+"","00:44:05:20","00:44:09:13","But also, you know, I mentioned, intelligence,"
+"","00:44:09:15","00:44:15:11","analysis is is another example. And, I'm sure that that many"
+"","00:44:15:11","00:44:21:04","people, who might be watching this can think of applications in their own domains where,"
+"","00:44:21:04","00:44:24:01","you know, you've got those high stakes environments."
+"","00:44:24:03","00:44:29:06","And I think in any of those cases where people care about the quality of the decisions, then"
+"","00:44:29:06","00:44:34:04","there may be a willingness to invest in, technology supported processes"
+"","00:44:34:06","00:44:39:03","that enhance the quality right of those. Right, and of those decisions I see."
+"","00:44:39:04","00:44:44:14","And I think that, corporate decision making, is wide open for this."
+"","00:44:44:16","00:44:51:18","And one of the reasons is that I see, I mean, perhaps it's because I work in, primarily in"
+"","00:44:51:18","00:44:56:03","higher education, and therefore I see the, the kind of management in higher education,"
+"","00:44:56:03","00:45:03:06","which is often based more on, intuition gods."
+"","00:45:03:11","00:45:07:06"," agenda or it's a paradox that"
+"","00:45:07:06","00:45:13:04","these, on, the. Yeah. Raw data. Yeah."
+"","00:45:13:04","00:45:18:14","And my suspicion. Yeah. Is that those, weaknesses are quite common. Now, that's not to say that"
+"","00:45:18:14","00:45:22:02","intuition is not important in your height. To the contrary."
+"","00:45:22:02","00:45:26:12","Yeah. For for senior decision makers, that intuition is incredibly valuable."
+"","00:45:26:12","00:45:34:19","And, but being able to, to exploit the data to either corroborate or"
+"","00:45:34:19","00:45:43:11","dis confirm or, just explore. Is largely, I think, generally unexploited"
+"","00:45:43:14","00:45:46:00","or at least not exploited in a, in a principled way."
+"","00:45:46:02","00:45:48:16","And we might be able to develop tools and"
+"","00:45:48:16","00:45:53:16","techniques that, rapidly allow formore thorough exploration, decisions."
+"","00:45:53:20","00:45:57:06","And I think that that's"
+"","00:45:57:08","00:46:01:03","probably one of the most interesting."
+"","00:46:01:05","00:46:05:08","Kind of near term. That makes total sense because"
+"","00:46:05:08","00:46:07:20","we have, like, the content of the information."
+"","00:46:07:22","00:46:12:06","Sometimes our decisions may not be right. Basically kind of depend on that."
+"","00:46:12:06","00:46:16:14","And I think, you know, as you said, that decision maybe at the end of the"
+"","00:46:16:14","00:46:22:03","day may be kind of dependent on the intuition, but having sort of the common agreement, right,"
+"","00:46:22:05","00:46:24:18","that the decision was based on this assumption from the"
+"","00:46:24:18","00:46:30:01","intuition that seems to be kind of attractive area and even further intuition contributed."
+"","00:46:30:01","00:46:32:14","The decision works exactly. Is executive."
+"","00:46:32:18","00:46:35:11","Well, that that's right. I mean, yeah, you can start"
+"","00:46:35:11","00:46:42:15","to open up. All kinds of, very fine grained analysis and but at least"
+"","00:46:42:15","00:46:46:02","in my experience, there are times when, customers want to do that."
+"","00:46:46:02","00:46:49:14","Also times when they don't. I guess."
+"","00:46:49:16","00:46:52:17","Limit behavior. But yeah, but you're absolutely right."
+"","00:46:52:17","00:46:58:05","You know, as a, as an organization, you couldn't get insight into where the"
+"","00:46:58:05","00:47:01:19","decisions. Yes. Coming. Exactly. And, you know,"
+"","00:47:01:19","00:47:13:12","I think because there are so many gender and race and, other sort of practical"
+"","00:47:13:14","00:47:17:21","constraints, pressures, on how decisions are"
+"","00:47:17:21","00:47:20:24","reaching, you know, being able to serve."
+"","00:47:20:24","00:47:25:10","Yes. The fact that someone who is less, I don't know, less aggressive."
+"","00:47:25:14","00:47:28:12","Yeah. Who has spoke, he's actually the source"
+"","00:47:28:12","00:47:32:12","of the decisions being able to track that at the moment."
+"","00:47:32:12","00:47:36:13","It requires. Yeah. You know, astute. Yeah."
+"","00:47:36:15","00:47:40:12","Individuals with a lot of intuition about what's going on in these"
+"","00:47:40:12","00:47:42:22","kinds of environments. Whereas if technology"
+"","00:47:42:22","00:47:48:11","can support that surfacing, ofwhere the, where the value is coming from."
+"","00:47:48:11","00:47:54:21","Yeah. I mean, I would imagine exactly for most organizations exactly that kind of information."
+"","00:47:54:23","00:47:57:07","Absolutely. I mean, the more transparency"
+"","00:47:57:07","00:47:59:02","gives you, it makes the further improvement."
+"","00:47:59:02","00:48:04:05","And they're going to survive at the end and at, for now, some customers may not like it,"
+"","00:48:04:05","00:48:08:20","but if those kind of the companies are better at decision making, I think they're going."
+"","00:48:08:21","00:48:11:05","I mean, exactly. So it's kind of the human"
+"","00:48:11:05","00:48:14:01","behavior question, because that sort of"
+"","00:48:14:01","00:48:19:14","surfacing my argumentation, like objectively, for some people, they may be open to it,"
+"","00:48:19:17","00:48:22:05","but for some people they may keep it uncomfortable."
+"","00:48:22:05","00:48:24:15","I mean, augmentation behavior like this activity."
+"","00:48:24:15","00:48:28:21","So it's not a comfortable part of your life."
+"","00:48:28:23","00:48:34:03","Whereas most of the AI tools these days I'm kind of evolving, making you can be"
+"","00:48:34:03","00:48:38:07","it like removing what you're doing, whereas augmentation is kind of the"
+"","00:48:38:07","00:48:41:05","other way of the direction.I'm kind of agree."
+"","00:48:41:11","00:48:43:20","So projection, it's kind of betting against,"
+"","00:48:43:20","00:48:47:06","the current evolution of the industry."
+"","00:48:47:06","00:48:49:07","Yeah. What do you think about that? Sort of."
+"","00:48:49:07","00:48:51:21","And that's a lot. Yeah. That's a that's an"
+"","00:48:51:21","00:48:54:15","interesting challenge to be able to tackle."
+"","00:48:54:15","00:49:00:15","I mean, you know, for all of us, we have a kind of, on the one hand,"
+"","00:49:00:15","00:49:09:03","an instinct to, about the hard work being able to pay off, but at the same time, you know,"
+"","00:49:09:03","00:49:12:12","an inbuilt laziness I always want to avoid"
+"","00:49:12:12","00:49:19:02","it. Is that. We all see that.You know, gym membership attendance,"
+"","00:49:19:02","00:49:22:05","right. The the the membership thing is relatively straightforward."
+"","00:49:22:05","00:49:26:05","Yeah. The attendance requires a bit more, commitment."
+"","00:49:26:05","00:49:27:21","Yeah. But we know it's good for us."
+"","00:49:27:21","00:49:32:06","Yeah. So, you know, I do think that it"
+"","00:49:32:06","00:49:39:09","is more difficult to engage in than not to, but equally,"
+"","00:49:39:11","00:49:43:20","I think it's it's not just that people are intrinsically good at it."
+"","00:49:43:22","00:49:49:05","I think it's a defining part of what it is to be human, right, is to be able to"
+"","00:49:49:05","00:49:51:18","do this. And I think that we all do it."
+"","00:49:51:18","00:49:56:13","Yeah. Completely intuitive. Yeah. In any case, you know,"
+"","00:49:56:17","00:50:00:08","when we make a decision to turn left rather than right to avoid"
+"","00:50:00:08","00:50:03:18","the traffic jam, you know, that's a chain of reasoning."
+"","00:50:03:18","00:50:05:14","Yeah. It's just going on, you know, in an instant."
+"","00:50:05:14","00:50:08:19","And I think that being able to,"
+"","00:50:08:19","00:50:13:14","to surface it and have the confidence to be able to follow through those steps"
+"","00:50:13:14","00:50:17:19","and to articulate them, with the right kind of support"
+"","00:50:17:19","00:50:21:11","it can become not just a, a powerful skill,"
+"","00:50:21:11","00:50:27:03","but something that people, enjoy doing and that they get pride"
+"","00:50:27:03","00:50:30:23","from and that they're proud of and can, can"
+"","00:50:30:23","00:50:39:20","really invest in to be able to produce good quality, well-reasoned, arguments for their opinions."
+"","00:50:39:20","00:50:43:19"," And as a result, see their opinions picked up"
+"","00:50:43:19","00:50:48:11","and formed. So I think it's a little bit cultural,"
+"","00:50:48:11","00:50:54:15","for any organizations that, inculcate this expectation that this is"
+"","00:50:54:15","00:50:58:22","this is how decisions are made.I think it's a little bit personal."
+"","00:50:58:22","00:51:02:20","Understanding that both offering justified opinions"
+"","00:51:02:22","00:51:05:24","and in the tackling, the people's about justified"
+"","00:51:05:24","00:51:09:24","opinions is just a part of the process include decision making."
+"","00:51:09:24","00:51:13:24"," And I think it's partly technological and about having the kinds"
+"","00:51:13:24","00:51:17:11","of software and tools that are going to be able to"
+"","00:51:17:11","00:51:21:18","interact with.  complex, intellectual and emotional environment."
+"","00:51:21:20","00:51:28:02","So, you know, for all of these reasons, it is challenging, but the pay off could be huge"
+"","00:51:28:02","00:51:30:04","You know, you don't need your"
+"","00:51:30:04","00:51:35:03","decisions to be 100% better, right? If your decisions are just a few"
+"","00:51:35:03","00:51:39:06","percentage points better than they could otherwise have been, then you"
+"","00:51:39:06","00:51:42:00","know a company is going to transform its prospects."
+"","00:51:42:02","00:51:48:05","The problem is demonstrating ROI, right? Because you never yeah, you never have the"
+"","00:51:48:05","00:51:49:19","what would have happened if we hadn't made that decision."
+"","00:51:49:19","00:51:52:23"," Yeah. Yeah. So being able to sell"
+"","00:51:52:23","00:51:56:08","the ROI story in a way that customers can understand."
+"","00:51:56:08","00:51:59:07","Yeah, yeah. That's tricky. Yeah."
+"","00:51:59:09","00:52:05:22","But I think for, for those customers that can kind of see that, the potential"
+"","00:52:06:02","00:52:08:18","they can, they can see that, that improve their"
+"","00:52:08:19","00:52:11:23","decision making. Yeah. Is going to provide values."
+"","00:52:11:23","00:52:15:01","Then I think the value that's on the keys is"
+"","00:52:15:03","00:52:18:04","Yeah, indeed. So as you pointed out,"
+"","00:52:18:04","00:52:20:15","there are some roadblocks, but looks like listening"
+"","00:52:20:15","00:52:23:16","from what you were saying seems to be something some inevitable"
+"","00:52:23:16","00:52:27:21","route for humanity in general, because, you know, like, all the tedious when your"
+"","00:52:27:21","00:52:30:07","jobs are being replaced by machines. "
+"","00:52:30:08","00:52:32:06","At the end of the day, what the core function"
+"","00:52:32:06","00:52:36:06","of the human should be that call us out decision making is having"
+"","00:52:36:06","00:52:39:17","the machine to assist. That seems to be a viable approach. "
+"","00:52:39:17","00:52:41:24","That's right. And this I mean, you know, this this"
+"","00:52:41:24","00:52:54:16","kind of, sophisticated multi-party multi issue, decision making in complex information spaces."
+"","00:52:54:18","00:52:59:03","This has been the mainstay of, human activities since"
+"","00:52:59:03","00:53:02:18","before the enlightenment, right? I mean, you know, with whether"
+"","00:53:02:18","00:53:08:06","you're looking at the processes of government and parliament, whether you're looking at how"
+"","00:53:08:06","00:53:09:23","religion is defined, let me think of the"
+"","00:53:09:23","00:53:15:08","Council of Nicaea, 1800 years ago, they defined"
+"","00:53:15:08","00:53:19:24","what Christianity is. That defined its bounds."
+"","00:53:20:01","00:53:24:20","And then equally, looking at how science, what machines might science is basically"
+"","00:53:24:20","00:53:27:01","just the application of these techniques"
+"","00:53:27:01","00:53:29:22","and has been since, since before noon."
+"","00:53:29:22","00:53:32:06","So, you know, doesn't matter"
+"","00:53:32:06","00:53:39:11","where you look at these high standards of, well reasoned, well,"
+"","00:53:39:11","00:53:43:20","evidence, decision making, the the pinnacle."
+"","00:53:43:20","00:53:46:05","That's what we aspire. Yeah, absolutely."
+"","00:53:46:05","00:53:49:00","I definitely agree with you. And that's part of,"
+"","00:53:49:00","00:53:50:13","Our company Deep Skill is kind of pushing"
+"","00:53:50:13","00:53:55:18","for kind of nourishing the critical thinking skills for everybody, "
+"","00:53:55:18","00:53:59:12","kind of pushing our, very initial stage of the product, IQ there."
+"","00:53:59:13","00:54:02:22","And, I, I think you're seeing some similar movement as well."
+"","00:54:02:22","00:54:06:17","So can you comment on how those sort of the industry or movement."
+"","00:54:06:17","00:54:09:01","Your comment on that."
+"","00:54:09:07","00:54:17:18","Sure. So I mean I think that innovative companies like Deep Skill, are recognizing that"
+"","00:54:17:18","00:54:19:10"," that there's this moment in time."
+"","00:54:19:10","00:54:21:24","But I thought, you know, so with that, the technology"
+"","00:54:21:24","00:54:28:03","is kind of catching up. And I think it's happening"
+"","00:54:28:05","00:54:32:23","in, in support for, training the decision makers."
+"","00:54:32:23","00:54:36:03","Yeah, I think it's happening for in the moment, decision"
+"","00:54:36:03","00:54:42:22","making. I think it's happening for, customer, provider relations."
+"","00:54:42:22","00:54:46:17","I think it's happening, you know, in B to B to B and B to C, I think"
+"","00:54:46:17","00:54:52:12","in all of these situations, I also think, interestingly, that it's happening in, in,"
+"","00:54:52:14","00:54:54:15","government and government organizations as well."
+"","00:54:54:15","00:55:00:09","Yeah, that people are starting to realize that the documentations process of reasoning,"
+"","00:55:00:11","00:55:04:05","they're actually reasoning decision making is kind of"
+"","00:55:04:07","00:55:06:18","their bread and butter. It's it's what they rely upon."
+"","00:55:06:18","00:55:11:20","And so, so companies like Deep Skill that are able to say,"
+"","00:55:11:23","00:55:14:22","we can provide you with technology to"
+"","00:55:14:24","00:55:19:02","help you do that better. And I think that this is"
+"","00:55:19:02","00:55:24:04","going to change the landscape, in all of these different domains,"
+"","00:55:24:06","00:55:30:11","different flavors of argument technology, are introduced into either training."
+"","00:55:30:16","00:55:33:04","So decision making or multi-party decision making."
+"","00:55:33:04","00:55:39:22","And we're going to start to see, better decisions being, taken as a result."
+"","00:55:40:02","00:55:43:02","And I also predict I mean, obviously I'm somewhat biased."
+"","00:55:43:02","00:55:46:06","This is my area, but nonetheless, I do predict that we're going to"
+"","00:55:46:06","00:55:49:21","start to see a separation, right? That, you know, those, government"
+"","00:55:49:21","00:55:54:10","functions, those, areas of the, of the corporation,"
+"","00:55:54:12","00:55:57:22","that are using these technologies that have been trained in these ways,"
+"","00:55:57:22","00:56:01:07","that are developing these skills and taking them seriously, they're going"
+"","00:56:01:07","00:56:03:15","to start to get an edge. And, you know, that will"
+"","00:56:03:15","00:56:08:13","play out over in the marketplace or in other ways of measuring competition."
+"","00:56:08:13","00:56:14:00","You know that that decision making really is where everything lies,"
+"","00:56:14:00","00:56:17:22","right? That's where the value is. And if you take that seriously, yeah, then it's going to"
+"","00:56:17:23","00:56:19:15","it's going to change things. "
+"","00:56:19:17","00:56:21:22","I'm very glad that we are kind of having this journey together. "
+"","00:56:21:22","00:56:23:20","Yes. Thank you very much for"
+"","00:56:23:20","00:56:28:10","your insight and tremendously insightful.You guys have been fascinating discussion."
+"","00:56:28:16","00:56:32:06","Thank you, All right. As I did that, "
+"","00:56:32:06","00:56:33:18","I hopefully you found this discussion"
+"","00:56:33:18","00:56:37:09","quite insightful. We talked about like a fundamental limitation "
+"","00:56:37:09","00:56:42:20","of the element and how the, the field of argumentation technology can combine, can augment this limit,"
+"","00:56:42:23","00:56:46:10","kind of fill in this limitation. At the same time, in more broadly,"
+"","00:56:46:10","00:56:49:14","how it can sort of augment human function as a decision maker."
+"","00:56:49:14","00:56:51:17"," So hopefully, yeah, we can kind of"
+"","00:56:51:17","00:56:54:11","picture the future, the bright future together."
+"","00:56:54:13","00:56:54:22","Thank you."

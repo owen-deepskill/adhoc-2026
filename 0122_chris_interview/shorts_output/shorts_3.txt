@@ -1,0 +1,114 @@
+# shorts 3
+
+[00:19:14:12 - 00:19:19:08]
+EN: there are voices expressing some concern, particularly in the educational space, but
+KO: 하지만 교육계를 비롯한 여러 분야에서
+
+[00:19:19:10 - 00:19:25:08]
+EN: not only, in the, over, use of AI.
+KO: AI의 과도한 사용에 대한 우려의 목소리가 나오고 있습니다.
+
+[00:19:25:09 - 00:19:30:11]
+EN: has this tendency to dull things, those skills.
+KO: 이런 측면에 있어서 우리의 생각을 무디게 만드는 것 같아요.
+
+[00:19:30:11 - 00:19:33:04]
+EN: And that, we need we need to kind of rethink.
+KO: 이 부분을 다시 생각해 볼 필요가 있습니다.
+
+[00:19:33:04 - 00:19:36:05]
+EN: Reframe how are we using AI.
+KO: 우리가 AI를 사용하는 방식을 재정립해 보자는 거죠.
+
+[00:19:36:05 - 00:19:41:05]
+EN: And I find this fascinating because, AI is an amazing tool.
+KO: 저는 이것이 정말 고무적이라고 생각해요. 왜냐하면 AI는 정말 놀라운 도구니까요.
+
+[00:19:41:06 - 00:19:47:12]
+EN: I mean, modern LLM are an amazing tool for being able to, partner,
+KO: 제 말은, 현대 LLM은 전통적인 방식,
+
+[00:19:47:14 - 00:19:50:15]
+EN: the, the kind of traditional. Good old fashioned.
+KO: 그러니까 아주 오래된 방식과 협력할 수 있게 해주는 놀라운 도구라는 겁니다.
+
+[00:19:50:16 - 00:19:57:14]
+EN: reasoning techniques, with, with human performance.
+KO: 추론 기법, 인간의 수행 능력과 함께.
+
+[00:19:57:16 - 00:20:01:20]
+EN: And, there's a lot of kind of concern that AI is
+KO: 그리고 아시다시피, AI가 인간의 처리 능력을
+
+[00:20:01:20 - 00:20:06:14]
+EN: usurping, kind of pursuing human, processing.
+KO: 잠식하고 있다는 우려가 많습니다.
+
+[00:20:06:16 - 00:20:11:24]
+EN: And that just seems to me to be completely wrong, that we should be seeing this as a, as an
+KO: 제 생각에는 그건 완전히 틀린 생각인 것 같아요.
+
+[00:20:11:24 - 00:20:14:21]
+EN: opportunity for collaboration.
+KO: 우리는 이걸 협력의 기회로 봐야 합니다.
+
+[00:20:14:21 - 00:20:18:03]
+EN: And I'm particularly interested in that mean that these things
+KO: 저는 특히 이러한 것들이 다양한 분야에서 여러가지 용어로 불리는
+
+[00:20:18:03 - 00:20:23:19]
+EN: have various names in different domains, but human machine teaming or collaborative
+KO: 이 개념에 관심이 많습니다.
+
+[00:20:23:19 - 00:20:31:15]
+EN: working, human agent collectives. I've seen also where AI is basically
+KO: 인간-기계 협업, 공동 작업, 인간 에이전트 집단 등이 있죠.
+
+[00:20:31:15 - 00:20:36:06]
+EN: given a seat at the table. So in very many domains, if you're
+KO: AI가 의사결정 과정에 참여할 수 있게 된 사례도 많이 봤습니다.
+
+[00:20:36:06 - 00:20:40:14]
+EN: trying to come to a robust decision, you will have input from a number of
+KO: 따라서 많은 분야에서 견고한 의사결정을 내리려면
+
+[00:20:40:14 - 00:20:44:07]
+EN: different perspectives and departments or areas.
+KO: 다양한 관점과 부서, 분야의 의견을 수렴해야 합니다.
+
+[00:20:44:09 - 00:20:49:02]
+EN: And people will kind of thrash it out. Offering, contributions.
+KO: 그러면 사람들은 서로 의견을 주고받으며 해결책을 찾을 겁니다.
+
+[00:20:49:02 - 00:20:56:18]
+EN: Reasoning for that perspective. And I can provide one or perhaps more
+KO: 그러한 관점에 대한 근거를 제시하고, 누구나 목소리를 내고
+
+[00:20:56:18 - 00:21:02:08]
+EN: voices at that table, offering insight, offering critique, offering push back,
+KO: 통찰력, 비판, 반박, 지지를 제공하며
+
+[00:21:02:08 - 00:21:06:03]
+EN: offering support, basically leveling the playing field.
+KO: 공정한 경쟁의 장을 마련할 수 있습니다.
+
+[00:21:06:03 - 00:21:11:05]
+EN: Between humans and machines, and to be able to reduce as many
+KO: 인간과 기계 사이의 관계에 있어,
+
+[00:21:11:05 - 00:21:13:11]
+EN: different perspectives as possible to improve
+KO: 이질적인 관점을 접목하여 품질을 향상시키거나,
+
+[00:21:13:11 - 00:21:22:14]
+EN: the quality or so that that kind of shift from seeing, AI is either the enemy or a threat.
+KO: AI를 적이나 위협으로 보는 이분법적 시각에서 벗어나도록 하는 것이 중요합니다.
+
+[00:21:22:14 - 00:21:24:18]
+EN: To seeing it as part of the team.
+KO: 그것을 팀의 일부로 보는 것.
+
+[00:21:24:22 - 00:21:29:08]
+EN: As the, as the kind of collaborative environment. I think that's, that's going
+KO: 협업적인 환경이라는 점에서, 저는 그것이
+

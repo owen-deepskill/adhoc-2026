@@ -1,0 +1,559 @@
+
+================================================================================
+# shorts 1
+================================================================================
+
+[00:06:30:07 - 00:06:35:11]
+EN: So the problem is that, as of today, at the beginning of 2026,
+KO: 문제는 2026년 초인 오늘날에도
+
+[00:06:35:11 - 00:06:43:06]
+EN: the state of the art is still not able to cope with the sophistication
+KO: 최첨단 기술로는 논증 과정에 내재된 정교함, 미묘함, 그리고 인간 인지 능력에 대한
+
+[00:06:43:06 - 00:06:51:06]
+EN: and the nuance, and the kind of mastery of human cognition that is embodied
+KO: 숙련도를 제대로 표현할 수 없다는 점입니다.
+
+[00:06:51:06 - 00:06:55:06]
+EN: in the process of argumentation. So LLM is out of the box.
+KO: LLM은 기존의 틀을 벗어난 개념입니다.
+
+[00:06:55:06 - 00:07:02:05]
+EN: Are really so very poor at recognizing when people are giving, pieces of evidence
+KO: 우리는 사람들이 결론을 뒷받침하는 증거를 제시할 때,
+
+[00:07:02:05 - 00:07:06:00]
+EN: for their conclusions, how they, assemble
+KO: 즉 가설을 지지하거나 반증하기 위해
+
+[00:07:06:00 - 00:07:09:03]
+EN: the chains of reasoning to be able to support
+KO: 추론 과정을 어떻게 구성하는지
+
+[00:07:09:05 - 00:07:13:15]
+EN: or dis confirm hypotheses. So, we had a very
+KO: 제대로 파악하는 데 매우 서툴다는 것이죠.
+
+[00:07:13:15 - 00:07:18:20]
+EN: interesting, turning point. So, that as there is this
+KO: 그래서 우리는 매우 주목할 만한 전환점을 맞이한 셈입니다.
+
+[00:07:18:20 - 00:07:25:13]
+EN: kind of inexorable rise in the power and sophistication, of modern day,
+KO: 현대의, 특히 최근에는 대규모 추론 모델과 알고리즘의 힘과
+
+[00:07:25:14 - 00:07:28:12]
+EN: I say formally, And more latterly,
+KO: 동시에, 정교함이 끊임없이 증가함에 따라
+
+[00:07:28:14 - 00:07:34:14]
+EN: large reasoning models, algorithms. There is a fundamental limit.
+KO: AI의 근본적인 한계가 존재한다는 것을 강조하고 싶어요.
+
+[00:07:34:14 - 00:07:40:03]
+EN: It seems to, the ability of these AI systems on their own
+KO: 이러한 AI 시스템들이 스스로 이러한
+
+[00:07:40:03 - 00:07:43:06]
+EN: like that to be able to tackle.
+KO: 문제들을 해결할 수 있는 능력에 있어서 말이죠.
+
+[00:07:43:06 - 00:07:47:04]
+EN: So argumentation technology is, is now at this,
+KO: 그래서 논증 기술은 지금
+
+[00:07:47:04 - 00:07:52:08]
+EN: at this sort of fascinating, eye of the storm.
+KO: 이처럼 흥미로운 폭풍의 눈에 있습니다.
+
+[00:07:52:10 - 00:08:00:23]
+EN: In, in as much as, reasoning is being touted and seems indeed to be, of core importance and
+KO: 추론 능력이 강조되고 있고 실제로도 AI가 할 수 있는 일에 있어 핵심적이고
+
+[00:08:00:23 - 00:08:04:18]
+EN: fundamental importance to what AI is able to do.
+KO: 근본적인 중요성이 강조되는 만큼,
+
+[00:08:04:18 - 00:08:10:17]
+EN: And yet even just the ability to measure the sophistication and
+KO: 하지만 LLM이 요구하는 정교함과 역량을 측정하는 것조차 쉽지 않은데,
+
+[00:08:10:18 - 00:08:15:04]
+EN: capability that LLM requires all of this argumentation technology
+KO: 앞으로 몇 년 동안 우리가 진행할 논증 기술 관련 작업이
+
+[00:08:15:06 - 00:08:17:06]
+EN: work that we'll be doing over the next few years.
+KO: 그 모든 것을 필요로 합니다.
+
+[00:08:17:12 - 00:08:21:19]
+EN: So it's a very exciting moment in time to be working on presenting these things.
+KO: 그래서 지금 이 시기에 이러한 것들을 세상에 선보이는 것은 매우 신나는 일입니다.
+
+
+================================================================================
+# shorts 2
+================================================================================
+
+[00:48:49:07 - 00:48:54:15]
+EN: Yeah, that's an interesting challenge to be able to tackle.
+KO: 네, 그건 생각해 볼만한 문제입니다.
+
+[00:48:54:15 - 00:49:00:15]
+EN: I mean, you know, for all of us, we have a kind of, on the one hand,
+KO: 제 말은, 우리 모두에게는 한편으로는
+
+[00:49:00:15 - 00:49:09:03]
+EN: an instinct about the hard work being able to pay off, but at the same time,
+KO: 노력이 결실을 맺을 거라는 본능이 있지만,
+
+[00:49:09:03 - 00:49:19:02]
+EN: you know, an inbuilt laziness. We want to avoid it. We all see that in,
+KO: 동시에 내재된 게으름도 있죠.
+
+[00:49:19:02 - 00:49:22:05]
+EN: you know, gym membership and attendance. Right. The membership thing is
+KO: 우리 모두 헬스장 회원권에서 그런 모습을 봅니다.
+
+[00:49:22:05 - 00:49:26:05]
+EN: relatively straightforward. The attendance requires a bit more commitment,
+KO: 회원권 발급은 비교적 간단하지만,
+
+[00:49:26:05 - 00:49:32:06]
+EN: but we know it's good for us. So, you know, I do think that it is more
+KO: 꾸준한 운동에는 더 많은 헌신이 필요하죠.
+
+[00:49:32:06 - 00:49:39:09]
+EN: difficult to engage in argumentation than not to. But equally, I think it's
+KO: 하지만 우리는 그게 좋다는 걸 알고 있습니다.
+
+[00:49:39:11 - 00:49:43:20]
+EN: not just that people are intrinsically good at it. I think it's a defining
+KO: 마찬가지로 논증 능력을 키우는 건 어려운 일이죠.
+
+[00:49:43:22 - 00:49:49:05]
+EN: part of what it is to be human. Is to be able to do this.
+KO: 하지만 동시에 사람들이 선천적으로 잘하는 것만은 아니죠.
+
+[00:49:49:05 - 00:49:56:13]
+EN: And I think that we all do it completely intuitively. In any case,
+KO: 그러면서 이 논증 능력은 우리를 인간답게 정의하는 부분이라고 생각합니다.
+
+[00:49:56:17 - 00:50:00:08]
+EN: when we make a decision to turn left rather than right to avoid
+KO: 교통체증을 피하기 위해 우회전이 아닌 좌회전을
+
+[00:50:00:08 - 00:50:03:18]
+EN: the traffic jam, that's a chain of reasoning.
+KO: 결정할 때, 그건 일련의 추론 과정을 거치는 거잖아요.
+
+[00:50:03:18 - 00:50:05:14]
+EN: It's just going on, in an instant.
+KO: 일상에서의 사고 과정이죠.
+
+[00:50:05:14 - 00:50:08:19]
+EN: And I think that being able to,
+KO: 그리고 저는 그러한 능력을 드러내고,
+
+[00:50:08:19 - 00:50:13:14]
+EN: to surface it and have the confidence to be able to follow through those steps
+KO: 그 과정을 차근차근 밟아나가고,
+
+[00:50:13:14 - 00:50:17:19]
+EN: and to articulate them, with the right kind of support
+KO: 명확하게 표현할 수 있는 자신감을 갖게 된다면,
+
+[00:50:17:19 - 00:50:21:11]
+EN: it can become not just a, a powerful skill,
+KO: 적절한 기술적 지원만 있다면
+
+[00:50:21:11 - 00:50:27:03]
+EN: but something that people, enjoy doing and that they get pride
+KO: 그것은 강력한 기술이 될 뿐만 아니라
+
+[00:50:27:03 - 00:50:30:23]
+EN: from and that they're proud of and can, can
+KO: 사람들이 즐기고 자부심을 느끼며,
+
+[00:50:30:23 - 00:50:39:20]
+EN: really invest in to be able to produce good quality, well-reasoned, arguments for their opinions.
+KO: 자신의 의견에 대한 논리 정연한 주장을 펼칠 수 있는, 값진 능력이 되는 것이죠.
+
+
+================================================================================
+# shorts 3
+================================================================================
+
+[00:19:14:12 - 00:19:19:08]
+EN: there are voices expressing some concern, particularly in the educational space, but
+KO: 하지만 교육계를 비롯한 여러 분야에서
+
+[00:19:19:10 - 00:19:25:08]
+EN: not only, in the, over, use of AI.
+KO: AI의 과도한 사용에 대한 우려의 목소리가 나오고 있습니다.
+
+[00:19:25:09 - 00:19:30:11]
+EN: has this tendency to dull things, those skills.
+KO: 이런 측면에 있어서 우리의 생각을 무디게 만드는 것 같아요.
+
+[00:19:30:11 - 00:19:33:04]
+EN: And that, we need we need to kind of rethink.
+KO: 이 부분을 다시 생각해 볼 필요가 있습니다.
+
+[00:19:33:04 - 00:19:36:05]
+EN: Reframe how are we using AI.
+KO: 우리가 AI를 사용하는 방식을 재정립해 보자는 거죠.
+
+[00:19:36:05 - 00:19:41:05]
+EN: And I find this fascinating because, AI is an amazing tool.
+KO: 저는 이것이 정말 고무적이라고 생각해요. 왜냐하면 AI는 정말 놀라운 도구니까요.
+
+[00:19:41:06 - 00:19:47:12]
+EN: I mean, modern LLM are an amazing tool for being able to, partner,
+KO: 제 말은, 현대 LLM은 전통적인 방식,
+
+[00:19:47:14 - 00:19:50:15]
+EN: the, the kind of traditional. Good old fashioned.
+KO: 그러니까 아주 오래된 방식과 협력할 수 있게 해주는 놀라운 도구라는 겁니다.
+
+[00:19:50:16 - 00:19:57:14]
+EN: reasoning techniques, with, with human performance.
+KO: 추론 기법, 인간의 수행 능력과 함께.
+
+[00:19:57:16 - 00:20:01:20]
+EN: And, there's a lot of kind of concern that AI is
+KO: 그리고 아시다시피, AI가 인간의 처리 능력을
+
+[00:20:01:20 - 00:20:06:14]
+EN: usurping, kind of pursuing human, processing.
+KO: 잠식하고 있다는 우려가 많습니다.
+
+[00:20:06:16 - 00:20:11:24]
+EN: And that just seems to me to be completely wrong, that we should be seeing this as a, as an
+KO: 제 생각에는 그건 완전히 틀린 생각인 것 같아요.
+
+[00:20:11:24 - 00:20:14:21]
+EN: opportunity for collaboration.
+KO: 우리는 이걸 협력의 기회로 봐야 합니다.
+
+[00:20:14:21 - 00:20:18:03]
+EN: And I'm particularly interested in that mean that these things
+KO: 저는 특히 이러한 것들이 다양한 분야에서 여러가지 용어로 불리는
+
+[00:20:18:03 - 00:20:23:19]
+EN: have various names in different domains, but human machine teaming or collaborative
+KO: 이 개념에 관심이 많습니다.
+
+[00:20:23:19 - 00:20:31:15]
+EN: working, human agent collectives. I've seen also where AI is basically
+KO: 인간-기계 협업, 공동 작업, 인간 에이전트 집단 등이 있죠.
+
+[00:20:31:15 - 00:20:36:06]
+EN: given a seat at the table. So in very many domains, if you're
+KO: AI가 의사결정 과정에 참여할 수 있게 된 사례도 많이 봤습니다.
+
+[00:20:36:06 - 00:20:40:14]
+EN: trying to come to a robust decision, you will have input from a number of
+KO: 따라서 많은 분야에서 견고한 의사결정을 내리려면
+
+[00:20:40:14 - 00:20:44:07]
+EN: different perspectives and departments or areas.
+KO: 다양한 관점과 부서, 분야의 의견을 수렴해야 합니다.
+
+[00:20:44:09 - 00:20:49:02]
+EN: And people will kind of thrash it out. Offering, contributions.
+KO: 그러면 사람들은 서로 의견을 주고받으며 해결책을 찾을 겁니다.
+
+[00:20:49:02 - 00:20:56:18]
+EN: Reasoning for that perspective. And I can provide one or perhaps more
+KO: 그러한 관점에 대한 근거를 제시하고, 누구나 목소리를 내고
+
+[00:20:56:18 - 00:21:02:08]
+EN: voices at that table, offering insight, offering critique, offering push back,
+KO: 통찰력, 비판, 반박, 지지를 제공하며
+
+[00:21:02:08 - 00:21:06:03]
+EN: offering support, basically leveling the playing field.
+KO: 공정한 경쟁의 장을 마련할 수 있습니다.
+
+[00:21:06:03 - 00:21:11:05]
+EN: Between humans and machines, and to be able to reduce as many
+KO: 인간과 기계 사이의 관계에 있어,
+
+[00:21:11:05 - 00:21:13:11]
+EN: different perspectives as possible to improve
+KO: 이질적인 관점을 접목하여 품질을 향상시키거나,
+
+[00:21:13:11 - 00:21:22:14]
+EN: the quality or so that that kind of shift from seeing, AI is either the enemy or a threat.
+KO: AI를 적이나 위협으로 보는 이분법적 시각에서 벗어나도록 하는 것이 중요합니다.
+
+[00:21:22:14 - 00:21:24:18]
+EN: To seeing it as part of the team.
+KO: 그것을 팀의 일부로 보는 것.
+
+[00:21:24:22 - 00:21:29:08]
+EN: As the, as the kind of collaborative environment. I think that's, that's going
+KO: 협업적인 환경이라는 점에서, 저는 그것이
+
+
+================================================================================
+# shorts 4
+================================================================================
+
+[00:22:03:09 - 00:22:06:16]
+EN: way of, interaction. They are freely used to it.
+KO: 채용 전형 중에 AI를 자유롭게 사용할 수 있다고 합니다.
+
+[00:22:06:16 - 00:22:09:23]
+EN: Use the AI and get a lot of information from the AI.
+KO: 그러한 정보들을 바탕으로 해서 의사결정하되,
+
+[00:22:10:04 - 00:22:15:20]
+EN: But you need to sort of be critically assess what, what's coming from the AI that way and what
+KO: 하지만 AI가 무엇을 내놓는지,
+
+[00:22:15:20 - 00:22:17:16]
+EN: what they're especially looking at is kind of a
+KO: 특히 비선형적 사고를 기반으로
+
+[00:22:22:08 - 00:22:26:14]
+EN: to very straightforward thinking, whereas very non-linear kind of
+KO: 사고에는 매우 능숙하지만, 비선형적인 창의성은
+
+[00:22:29:11 - 00:22:33:14]
+EN: So that seems to be one picture of how AI human can elaborate.
+KO: 이것이 바로 AI와 인간과 소통하며 생각을 표현하는 방식의 한 가지 모습인 것 같습니다.
+
+[00:22:33:14 - 00:22:35:23]
+EN: I think that's I think that's a perfect example.
+KO: 제 생각엔 그게 바로 완벽한 예시인 것 같아요.
+
+[00:22:35:23 - 00:22:39:18]
+EN: And so, so encouraging the, the challenge or
+KO: 그래서 그 도전이나 시험, 평가 방식이 고무적인 것 같아요.
+
+[00:22:39:18 - 00:22:46:12]
+EN: the, the test or the evaluation candidate. To be not on reaching the decision, but,
+KO: 결정 자체에 집중하는 것이 아니라, 결정이 내려지는
+
+[00:23:02:08 - 00:23:08:03]
+EN: AI has kind of forced our hand. And I think that, encouraging
+KO: AI가 어쩔 수 없이 우리를 그렇게 만들었어요.
+
+[00:23:08:03 - 00:23:13:13]
+EN: that focus on the on the critiquing process, on the ability to assess and judge and
+KO: 그리고 비판적 사고 과정에 집중하고, 다른 관점을 평가하고 판단하고 통합하며,
+
+[00:23:13:13 - 00:23:18:14]
+EN: integrate other perspectives, and kind of challenge against
+KO: 이의를 제기하는 능력을 키우는 것이야말로
+
+[00:23:26:01 - 00:23:29:00]
+EN: Makes a lot of sense. And it seems to be kind of the
+KO: 네. 맞아요.
+
+[00:23:29:02 - 00:23:31:20]
+EN: kind of core skills needed for the future, I believe.
+KO: 그리고 미래에 필요한 핵심 역량이라고 생각합니다.
+
+[00:23:31:20 - 00:23:34:16]
+EN: absolutely. That makes sense.
+KO: 전적으로 동의합니다.
+
+
+================================================================================
+# shorts 5
+================================================================================
+
+[00:52:27:21 - 00:52:32:06]
+EN: manual jobs are being replaced by machines. Yeah. At the end of the day,
+KO: 왜냐하면 모든 지루한 수동 작업들이 기계로 대체되고 있으니까요.
+
+[00:52:32:06 - 00:52:36:06]
+EN: what the core function of the human should be, that sound decision making
+KO: 결국 인간의 핵심 기능은
+
+[00:52:36:06 - 00:52:39:17]
+EN: and having the machine to assist. That seems to be a viable approach.
+KO: 건전한 의사결정을 내리고 기계의 도움을 받는 것이어야 하겠죠.
+
+[00:52:39:17 - 00:52:41:24]
+EN: Yeah, yeah, that's right. And this, I mean, you know, this kind of sophisticated, multi party, multi.
+KO: 맞습니다. 그리고 이것은, 제 말은, 복잡한 다자간,
+
+[00:52:41:24 - 00:52:49:00]
+EN: Issue. Decision making in complex information spaces, this has been the mainstay
+KO: 다중 쟁점의 의사결정이죠. 복잡한 정보 공간에서의 의사결정은
+
+[00:52:49:00 - 00:52:54:16]
+EN: of human activities since before the Enlightenment.
+KO: 계몽주의 이전부터 인간 활동의 근간을 이루어 왔습니다.
+
+[00:52:54:18 - 00:53:02:18]
+EN: I mean, you know, whether you're looking at the processes of government and parliament, whether you're looking at how
+KO: 제 말은, 정부와 의회의 운영 방식을 보든,
+
+[00:53:02:18 - 00:53:08:06]
+EN: religion is defined, rather think of the Council of Nicaea which is 1800 years ago,
+KO: 종교가 어떻게 정의되는지를 보든, 1800년 전 니케아 공의회를 생각해보면,
+
+[00:53:08:06 - 00:53:15:08]
+EN: they defined what Christianity is. That defined its bounds.
+KO: 그들이 기독교가 무엇인지 정의했죠.
+
+[00:53:15:08 - 00:53:20:01]
+EN: And then equally looking at how science functions. Science is basically
+KO: 그 범위를 정의한 거죠. 그리고 마찬가지로 과학이 어떻게 작동하는지를 보면,
+
+[00:53:20:01 - 00:53:24:20]
+EN: just the application of these techniques and has been since before Newton.
+KO: 과학은 기본적으로 이러한 기법의 응용일 뿐이며,
+
+[00:53:24:20 - 00:53:29:22]
+EN: So it doesn't matter where you look, these high standards of well reasoned,
+KO: 뉴턴 이전부터 그래왔습니다.
+
+[00:53:29:22 - 00:53:39:11]
+EN: well evidenced decision making are the pinnacle. That's what we aspire.
+KO: 그러니까 어디를 보더라도, 논리 정연하고 증거에 입각한
+
+[00:53:39:11 - 00:53:46:05]
+EN: Absolutely.
+KO: 의사 결정의 높은 기준이 최고 수준입니다. 그게 바로 우리가 바라는 바입니다.
+
+
+================================================================================
+# shorts 6
+================================================================================
+
+[00:46:52:17 - 00:47:01:19]
+EN: decisions are coming from.
+KO: 어디서 나오는지 통찰력을 얻을 수 있습니다.
+
+[00:47:01:19 - 00:47:13:12]
+EN: I think because there are so many gender and race and, other sort of practical
+KO: 네. 맞습니다. 그리고 성별, 인종, 그리고 기타 여러 가지 현실적인 제약과 압력이
+
+[00:47:13:14 - 00:47:17:21]
+EN: constraints, pressures rather on how decisions are reached.
+KO: 의사결정이 어떻게 이루어지는지에 영향을 미칩니다.
+
+[00:47:17:21 - 00:47:20:24]
+EN: You know, being able to surface the fact that someone who is less, I don't know, less aggressive or less vocal
+KO: 덜 공격적이거나 덜 목소리를 내는 사람이
+
+[00:47:20:24 - 00:47:25:10]
+EN: is actually the source of the good decisions.
+KO: 실제로 좋은 결정의 원천이라는 사실을 드러낼 수 있다는 거죠.
+
+[00:47:25:14 - 00:47:28:12]
+EN: Being able to track that at the moment
+KO: 현재로서는 그런 것을 추적하려면
+
+[00:47:28:12 - 00:47:32:12]
+EN: it requires astute individuals with a lot of intuition about what's going on in these kinds of environments.
+KO: 이런 환경에서 무슨 일이 일어나고 있는지에 대한 직관력이 뛰어난 사람들이 필요합니다.
+
+[00:47:32:12 - 00:47:40:12]
+EN: Whereas if technology can support that surfacing of where the value is coming from,
+KO: 반면에 기술이 의사결정의 가치가 어디서 나오는지 드러낼 수 있다면,
+
+[00:47:40:12 - 00:47:48:11]
+EN: I would imagine, but for most organisations that kind of information would be like gold.
+KO: 대부분의 조직에서 그런 종류의 정보는 매우 값진 것이 될 거에요.
+
+[00:47:54:23 - 00:47:57:07]
+EN: Absolutely. I mean, the more transparency
+KO: 물론이죠. 투명성이 높을수록 더 나은 결과를 얻을 수 있으니까요.
+
+[00:47:57:07 - 00:47:59:02]
+EN: gives you room for the further improvement and they're going to survive at the end.
+KO: 더 나은 개선을 위한 여지를 제공하고, 결국에는 살아남을 겁니다.
+
+[00:47:59:02 - 00:48:04:05]
+EN: And for now, some customers may not like it,
+KO: 지금 당장은 일부 고객들이 좋아하지
+
+[00:48:04:05 - 00:48:08:20]
+EN: but if those kind of companies are better at decision making, I think they're going to win.
+KO: 않을 수도 있지만, 그런 회사들이 의사결정을 더 잘한다면 결국 경쟁력이 높아지겠죠.
+
+
+================================================================================
+# shorts 7
+================================================================================
+
+[00:54:09:07 - 00:54:17:18]
+EN: Sure. So I mean I think that innovative companies like DeepSkill are recognising
+KO: 네. 제 생각에는 딥스킬 같은 혁신적인 기업들이
+
+[00:54:17:18 - 00:54:21:24]
+EN: that there's this moment in time that I was talking about. So the technology
+KO: 제가 말한 바로 그 순간이 왔다는 것을 인식하고 있습니다.
+
+[00:54:21:24 - 00:54:28:03]
+EN: is kind of catching up with the vision and I think it's happening in support
+KO: 기술이 비전을 따라잡고 있고, 저는 이것이
+
+[00:54:28:05 - 00:54:32:23]
+EN: for training for decision makers. I think it's happening for in the moment
+KO: 의사결정권자들을 위한 훈련에서 일어나고 있다고 생각합니다.
+
+[00:55:00:11 - 00:55:04:05]
+EN: of reasoned interaction, reasoned decision making is kind of
+KO: 사람들이 논리적 상호작용과 논리적 의사결정의
+
+[00:55:04:07 - 00:55:06:18]
+EN: their bread and butter. It's what they rely upon.
+KO: 논증 과정이 그들의 핵심 역량이라는 것을 깨닫기 시작했습니다.
+
+[00:55:06:18 - 00:55:11:20]
+EN: And so companies like DeepSkill that are able to say we can provide you
+KO: 그들이 의존하는 부분이 바로 그것이니까요.
+
+[00:55:11:23 - 00:55:19:02]
+EN: with technology to help you do that better. And I think that this is going
+KO: 그래서 딥스킬과 같은 회사들이 더 잘할 수 있도록 도와주는 기술을
+
+[00:55:19:02 - 00:55:24:04]
+EN: to change the landscape in all of these different domains as different
+KO: 제공할 수 있다고 말할 수 있습니다.
+
+[00:55:24:06 - 00:55:30:11]
+EN: flavours of argument technology are introduced into either training or solo
+KO: 그리고 저는 이것이 모든 다양한 영역에서 판도를 바꿀 것이라고 생각합니다.
+
+[00:55:30:16 - 00:55:33:04]
+EN: decision making or multi party decision making and we're going to start
+KO: 다양한 형태의 논증 기술이 훈련이나 단독 의사결정,
+
+[00:55:33:04 - 00:55:39:22]
+EN: to see better decisions being taken as a result. And I also predict, I mean,
+KO: 또는 다자간 의사결정에 도입되면서
+
+[00:55:40:02 - 00:55:43:02]
+EN: obviously I'm somewhat biassed, this is my area, but nonetheless I do predict
+KO: 더 나은 결정들이 내려지는 것을 보게 될 것입니다.
+
+[00:55:49:21 - 00:55:54:10]
+EN: that are being trained in these ways, that are developing these skills
+KO: 차이가 벌어질 거라고 예상합니다. 이러한 기술을 사용하고,
+
+[00:55:54:12 - 00:55:57:22]
+EN: and taking them seriously, they're going to start to get an edge.
+KO: 이러한 방식으로 훈련받고, 이러한 기술을 개발하고
+
+[00:55:57:22 - 00:56:03:15]
+EN: And you know, that will play out either in the marketplace or in other ways
+KO: 진지하게 받아들이는 정부 기능이나 기업의 영역들이
+
+[00:56:03:15 - 00:56:08:13]
+EN: of measuring competition. You know, the, that decision making really is where
+KO: 경쟁 우위를 확보하게 될 겁니다.
+
+[00:56:19:17 - 00:56:21:22]
+EN: I'm very glad that we are kind of having this journey together.
+KO: 교수님과 이 여정을 함께하게 되어 정말 기쁩니다.
+

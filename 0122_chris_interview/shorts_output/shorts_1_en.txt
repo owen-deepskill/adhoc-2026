@@ -1,0 +1,24 @@
+# shorts 1
+
+So the problem is that, as of today, at the beginning of 2026,
+the state of the art is still not able to cope with the sophistication
+and the nuance, and the kind of mastery of human cognition that is embodied
+in the process of argumentation. So LLM is out of the box.
+Are really so very poor at recognizing when people are giving, pieces of evidence
+for their conclusions, how they, assemble
+the chains of reasoning to be able to support
+or dis confirm hypotheses. So, we had a very
+interesting, turning point. So, that as there is this
+kind of inexorable rise in the power and sophistication, of modern day,
+I say formally, And more latterly,
+large reasoning models, algorithms. There is a fundamental limit.
+It seems to, the ability of these AI systems on their own
+like that to be able to tackle.
+So argumentation technology is, is now at this,
+at this sort of fascinating, eye of the storm.
+In, in as much as, reasoning is being touted and seems indeed to be, of core importance and
+fundamental importance to what AI is able to do.
+And yet even just the ability to measure the sophistication and
+capability that LLM requires all of this argumentation technology
+work that we'll be doing over the next few years.
+So it's a very exciting moment in time to be working on presenting these things.

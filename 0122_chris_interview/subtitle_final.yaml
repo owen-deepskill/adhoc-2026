@@ -374,90 +374,112 @@
   end: 00:06:35:11
   text_en: So the problem is that, as of today, at the beginning of 2026,
   text_ko: 문제는 2026년 초인 오늘날에도
+  shorts: 1
 - start: 00:06:35:11
   end: 00:06:43:06
   text_en: the state of the art is still not able to cope with the sophistication
   text_ko: 최첨단 기술로는 논증 과정에 내재된 정교함, 미묘함, 그리고 인간 인지 능력에 대한
+  shorts: 1
 - start: 00:06:43:06
   end: 00:06:51:06
   text_en: and the nuance, and the kind of mastery of human cognition that is embodied
   text_ko: 숙련도를 제대로 표현할 수 없다는 점입니다.
+  shorts: 1
 - start: 00:06:51:06
   end: 00:06:55:06
   text_en: in the process of argumentation. So LLM is out of the box.
   text_ko: LLM은 기존의 틀을 벗어난 개념입니다.
+  shorts: 1
 - start: 00:06:55:06
   end: 00:07:02:05
   text_en: Are really so very poor at recognizing when people are giving, pieces of evidence
   text_ko: 우리는 사람들이 결론을 뒷받침하는 증거를 제시할 때,
+  shorts: 1
 - start: 00:07:02:05
   end: 00:07:06:00
   text_en: for their conclusions, how they, assemble
   text_ko: 즉 가설을 지지하거나 반증하기 위해
+  shorts: 1
 - start: 00:07:06:00
   end: 00:07:09:03
   text_en: the chains of reasoning to be able to support
   text_ko: 추론 과정을 어떻게 구성하는지
+  shorts: 1
 - start: 00:07:09:05
   end: 00:07:13:15
   text_en: or dis confirm hypotheses. So, we had a very
   text_ko: 제대로 파악하는 데 매우 서툴다는 것이죠.
+  shorts: 1
 - start: 00:07:13:15
   end: 00:07:18:20
   text_en: interesting, turning point. So, that as there is this
   text_ko: 그래서 우리는 매우 주목할 만한 전환점을 맞이한 셈입니다.
+  shorts: 1
 - start: 00:07:18:20
   end: 00:07:25:13
   text_en: kind of inexorable rise in the power and sophistication, of modern day,
   text_ko: 현대의, 특히 최근에는 대규모 추론 모델과 알고리즘의 힘과
+  shorts: 1
 - start: 00:07:25:14
   end: 00:07:28:12
   text_en: I say formally, And more latterly,
   text_ko: 동시에, 정교함이 끊임없이 증가함에 따라
+  shorts: 1
 - start: 00:07:28:14
   end: 00:07:34:14
   text_en: large reasoning models, algorithms. There is a fundamental limit.
   text_ko: AI의 근본적인 한계가 존재한다는 것을 강조하고 싶어요.
+  shorts: 1
 - start: 00:07:34:14
   end: 00:07:40:03
   text_en: It seems to, the ability of these AI systems on their own
   text_ko: 이러한 AI 시스템들이 스스로 이러한
+  shorts: 1
 - start: 00:07:40:03
   end: 00:07:43:06
   text_en: like that to be able to tackle.
   text_ko: 문제들을 해결할 수 있는 능력에 있어서 말이죠.
+  shorts: 1
 - start: 00:07:43:06
   end: 00:07:47:04
   text_en: So argumentation technology is, is now at this,
   text_ko: 그래서 논증 기술은 지금
+  shorts: 1
 - start: 00:07:47:04
   end: 00:07:52:08
   text_en: at this sort of fascinating, eye of the storm.
   text_ko: 이처럼 흥미로운 폭풍의 눈에 있습니다.
+  shorts: 1
 - start: 00:07:52:10
   end: 00:08:00:23
   text_en: In, in as much as, reasoning is being touted and seems indeed to be, of core importance and
   text_ko: 추론 능력이 강조되고 있고 실제로도 AI가 할 수 있는 일에 있어 핵심적이고
+  shorts: 1
 - start: 00:08:00:23
   end: 00:08:04:18
   text_en: fundamental importance to what AI is able to do.
   text_ko: 근본적인 중요성이 강조되는 만큼,
+  shorts: 1
 - start: 00:08:04:18
   end: 00:08:10:17
   text_en: And yet even just the ability to measure the sophistication and
   text_ko: 하지만 LLM이 요구하는 정교함과 역량을 측정하는 것조차 쉽지 않은데,
+  shorts: 1
 - start: 00:08:10:18
   end: 00:08:15:04
   text_en: capability that LLM requires all of this argumentation technology
   text_ko: 앞으로 몇 년 동안 우리가 진행할 논증 기술 관련 작업이
+  shorts: 1
 - start: 00:08:15:06
   end: 00:08:17:06
   text_en: work that we'll be doing over the next few years.
   text_ko: 그 모든 것을 필요로 합니다.
+  shorts: 1
 - start: 00:08:17:12
   end: 00:08:21:19
   text_en: So it's a very exciting moment in time to be working on presenting these things.
   text_ko: 그래서 지금 이 시기에 이러한 것들을 세상에 선보이는 것은 매우 신나는 일입니다.
+  shorts: 1
 - start: 00:08:22:00
   end: 00:08:24:12
   text_en: precisely. So before we kind of
@@ -698,27 +720,33 @@
 - start: 00:12:39:21
   end: 00:12:42:21
   text_en: How can we how can we get that to our audience?
-  text_ko: 어떻게 하면 그것을 우리 관객들에게 전달할 수 있을까요?
+  text_ko: 어떻게 하면 그것을 우리 시청자들에게 전달할 수 있을까요?
+  shorts: 8
 - start: 00:12:42:21
   end: 00:12:46:24
   text_en: How can we get that insight into understanding the discussion?
   text_ko: 어떻게 하면 그 토론을 이해하는 데 필요한 통찰력을 얻을 수 있을까요?
+  shorts: 8
 - start: 00:12:47:01
   end: 00:12:50:04
   text_en: And it's not just about, who's winning, but rather about
   text_ko: 그리고 중요한 것은 단순히 누가 이기느냐가 아니라,
+  shorts: 8
 - start: 00:12:50:04
   end: 00:12:53:11
   text_en: who's presenting arguments that are well defended.
   text_ko: 누가 논리를 잘 뒷받침하는 주장을 펼치느냐입니다.
+  shorts: 8
 - start: 00:12:53:11
   end: 00:12:59:16
   text_en: And who's able to to dig down the position, and defend it against all comers as opposed
   text_ko: 그리고 누가 그 입장을 확고히 하고, 설복되는 대신 모든 도전자로부터
+  shorts: 8
 - start: 00:12:59:16
   end: 00:13:03:09
   text_en: to capitulate or indeed, who's got the best brass
   text_ko: 그것을 지켜낼 수 있을까요?
+  shorts: 8
 - start: 00:13:03:10
   end: 00:13:07:21
   text_en: or in these kinds of rather soft, notions?
@@ -791,62 +819,77 @@
   end: 00:14:29:21
   text_en: Where we worked with BBC, School Report and this was
   text_ko: 저희는 BBC, School Report와
+  shorts: 9
 - start: 00:14:29:21
   end: 00:14:34:00
   text_en: and they have a mission to kind of improve
   text_ko: 협력했는데, School Report는
+  shorts: 9
 - start: 00:14:34:00
   end: 00:14:40:01
   text_en: media literacy. And in that year. I think it was 2018,
   text_ko: 미디어 리터러시를 향상시키는 것을 목표로 하는 단체였습니다.
+  shorts: 9
 - start: 00:14:40:01
   end: 00:14:44:08
   text_en: if I remember correctly. We were commissioned to
   text_ko: 제 기억이 맞다면 2018년 경이었는데,
+  shorts: 9
 - start: 00:14:44:08
   end: 00:14:50:04
   text_en: produce software that would help schoolchildren, identify fake news.
   text_ko: 그때 학생들이 가짜 뉴스를 식별하는 데 도움이 되는 소프트웨어를 개발해 달라는 의뢰를 받았습니다.
+  shorts: 9
 - start: 00:14:50:06
   end: 00:14:55:12
   text_en: And the idea that I was to look and exploit the similarity between,
   text_ko: 제 아이디어는 한편으로는 질이 떨어지는 저널리즘과
+  shorts: 9
 - start: 00:14:55:12
   end: 00:14:58:04
   text_en: on the one hand, poor quality journalism
   text_ko: 다른 한편으로는 질이 떨어지는 추론 사이의
+  shorts: 9
 - start: 00:14:58:06
   end: 00:15:00:14
   text_en: and on the other hand, poor quality reasoning
   text_ko: 유사점을 찾아내고, 같은 도구를 사용하여
+  shorts: 9
 - start: 00:15:00:16
   end: 00:15:06:13
   text_en: and use the same tools and to be able to uncover those weaknesses that suggest,
   text_ko: 제가 접하는 일부 보도가 가짜일 가능성을 시사하는
+  shorts: 9
 - start: 00:15:06:13
   end: 00:15:11:24
   text_en: like maybe some reporting I see is fake. And this was deployed into,
   text_ko: 약점을 밝혀내는 것이었습니다.
+  shorts: 9
 - start: 00:15:11:24
   end: 00:15:14:21
   text_en: Every secondary school in the UK.
   text_ko: 그리고 이 프로그램은 영국의 모든 중고등학교에 도입되었습니다.
+  shorts: 9
 - start: 00:15:14:21
   end: 00:15:18:23
   text_en: And it was a tough user group? This 16 to 18 year olds.
   text_ko: 학생들은 꽤 까다로운 이용자입니다. 16세에서 18세 사이의 청소년들이잖아요.
+  shorts: 9
 - start: 00:15:19:02
   end: 00:15:24:17
   text_en: And yet we had incredibly positive feedback.
   text_ko: 그런데도 피드백은 엄청나게 긍정적이었어요.
+  shorts: 9
 - start: 00:15:24:17
   end: 00:15:27:17
   text_en: So more than two thirds of the kids said it really did help
   text_ko: 그래서 아이들의 3분의 2 이상이 이 프로그램이
+  shorts: 9
 - start: 00:15:27:17
   end: 00:15:34:11
   text_en: them to identify fake news at a while. So this was extremely positive again in a kind of.
   text_ko: 가짜 뉴스를 구별하는 데 실제로 도움이 되었다고 답했습니다. 이는 여러모로 매우 긍정적인 결과였습니다.
+  shorts: 9
 - start: 00:15:34:11
   end: 00:15:42:03
   text_en: Educational arena. And has I suppose spurred us on to
@@ -955,10 +998,12 @@
   end: 00:17:36:23
   text_en: When I was kind of describing your BBC project,
   text_ko: 교수님께서 BBC 프로젝트에 대해 설명할 때,
+  shorts: 8
 - start: 00:17:36:23
   end: 00:17:45:02
   text_en: I was picturing, like, playing sports game highlights.
   text_ko: 저는 마치 스포츠 경기 하이라이트를 보여주는 것 같은 장면을 떠올렸어요.
+  shorts: 8
 - start: 00:17:45:02
   end: 00:17:47:11
   text_en: But that's exactly And I think it's I find it
@@ -967,42 +1012,52 @@
   end: 00:17:50:23
   text_en: interesting that, we've become very accustomed
   text_ko: 스포츠 경기에 대한 데이터 기반 분석에 이미
+  shorts: 8
 - start: 00:17:51:00
   end: 00:17:55:03
   text_en: to that kind of data driven, analysis of sports games.
   text_ko: 익숙해졌다는 점이 재미있는 것 같아요.
+  shorts: 8
 - start: 00:17:55:05
   end: 00:17:56:17
   text_en: In fact, we would kind of feel
   text_ko: 그렇죠? 사실, 그런 정보가 없으면
+  shorts: 8
 - start: 00:17:56:17
   end: 00:17:59:20
   text_en: almost cheated if it were absent. You know, we want the batting
   text_ko: 뭔가 속은 기분이 들 것 같아요.
+  shorts: 8
 - start: 00:17:59:20
   end: 00:18:02:00
   text_en: averages and everything else? We want we want to be able to have
   text_ko: 타율 같은 것도 알고 싶고, 모든 정보를 손쉽게 얻을 수 있으면 좋잖아요.
+  shorts: 8
 - start: 00:18:02:00
   end: 00:18:05:19
   text_en: that information at our fingertips. And it's fun. It it it kind of empowers us.
   text_ko: 재밌기도 하고, 우리에게 많은 정보를 주죠.
+  shorts: 8
 - start: 00:18:05:19
   end: 00:18:11:10
   text_en: And yet so things that I don't no matter even more, who's going to
   text_ko: 그와 반면에 누가 대통령이 되느냐 같은 것들에 대해서는,
+  shorts: 8
 - start: 00:18:11:10
   end: 00:18:17:06
   text_en: be the president and or whatever. We kind of don't have that expectation.
   text_ko: 보통 그런 기대를 별로 하지 않아요.
+  shorts: 8
 - start: 00:18:17:06
   end: 00:18:20:01
   text_en: We're just accustomed to punditry
   text_ko: 이런 주제에 대해선 우리가 데이터 기반 접근보다는
+  shorts: 8
 - start: 00:18:20:01
   end: 00:18:23:15
   text_en: Rather than have data driven.
   text_ko: 전문가들의 의견에 익숙해져 있는 것 같아요.
+  shorts: 8
 - start: 00:18:23:15
   end: 00:18:26:24
   text_en: Kind of this is what actually happens.
@@ -1064,114 +1119,142 @@
   end: 00:19:19:08
   text_en: there are voices expressing some concern, particularly in the educational space, but
   text_ko: 하지만 교육계를 비롯한 여러 분야에서
+  shorts: 3
 - start: 00:19:19:10
   end: 00:19:25:08
   text_en: not only, in the, over, use of AI.
   text_ko: AI의 과도한 사용에 대한 우려의 목소리가 나오고 있습니다.
+  shorts: 3
 - start: 00:19:25:09
   end: 00:19:30:11
   text_en: has this tendency to dull things, those skills.
   text_ko: 이런 측면에 있어서 우리의 생각을 무디게 만드는 것 같아요.
+  shorts: 3
 - start: 00:19:30:11
   end: 00:19:33:04
   text_en: And that, we need we need to kind of rethink.
   text_ko: 이 부분을 다시 생각해 볼 필요가 있습니다.
+  shorts: 3
 - start: 00:19:33:04
   end: 00:19:36:05
   text_en: Reframe how are we using AI.
   text_ko: 우리가 AI를 사용하는 방식을 재정립해 보자는 거죠.
+  shorts: 3
 - start: 00:19:36:05
   end: 00:19:41:05
   text_en: And I find this fascinating because, AI is an amazing tool.
   text_ko: 저는 이것이 정말 고무적이라고 생각해요. 왜냐하면 AI는 정말 놀라운 도구니까요.
+  shorts: 3
 - start: 00:19:41:06
   end: 00:19:47:12
   text_en: I mean, modern LLM are an amazing tool for being able to, partner,
   text_ko: 제 말은, 현대 LLM은 전통적인 방식,
+  shorts: 3
 - start: 00:19:47:14
   end: 00:19:50:15
   text_en: the, the kind of traditional. Good old fashioned.
   text_ko: 그러니까 아주 오래된 방식과 협력할 수 있게 해주는 놀라운 도구라는 겁니다.
+  shorts: 3
 - start: 00:19:50:16
   end: 00:19:57:14
   text_en: reasoning techniques, with, with human performance.
   text_ko: 추론 기법, 인간의 수행 능력과 함께.
+  shorts: 3
 - start: 00:19:57:16
   end: 00:20:01:20
   text_en: And, there's a lot of kind of concern that AI is
   text_ko: 그리고 아시다시피, AI가 인간의 처리 능력을
+  shorts: 3
 - start: 00:20:01:20
   end: 00:20:06:14
   text_en: usurping, kind of pursuing human, processing.
   text_ko: 잠식하고 있다는 우려가 많습니다.
+  shorts: 3
 - start: 00:20:06:16
   end: 00:20:11:24
   text_en: And that just seems to me to be completely wrong, that we should be seeing this as a, as an
   text_ko: 제 생각에는 그건 완전히 틀린 생각인 것 같아요.
+  shorts: 3
 - start: 00:20:11:24
   end: 00:20:14:21
   text_en: opportunity for collaboration.
   text_ko: 우리는 이걸 협력의 기회로 봐야 합니다.
+  shorts: 3
 - start: 00:20:14:21
   end: 00:20:18:03
   text_en: And I'm particularly interested in that mean that these things
   text_ko: 저는 특히 이러한 것들이 다양한 분야에서 여러가지 용어로 불리는
+  shorts: 3
 - start: 00:20:18:03
   end: 00:20:23:19
   text_en: have various names in different domains, but human machine teaming or collaborative
   text_ko: 이 개념에 관심이 많습니다.
+  shorts: 3
 - start: 00:20:23:19
   end: 00:20:31:15
   text_en: working, human agent collectives. I've seen also where AI is basically
   text_ko: 인간-기계 협업, 공동 작업, 인간 에이전트 집단 등이 있죠.
+  shorts: 3
 - start: 00:20:31:15
   end: 00:20:36:06
   text_en: given a seat at the table. So in very many domains, if you're
   text_ko: AI가 의사결정 과정에 참여할 수 있게 된 사례도 많이 봤습니다.
+  shorts: 3
 - start: 00:20:36:06
   end: 00:20:40:14
   text_en: trying to come to a robust decision, you will have input from a number of
   text_ko: 따라서 많은 분야에서 견고한 의사결정을 내리려면
+  shorts: 3
 - start: 00:20:40:14
   end: 00:20:44:07
   text_en: different perspectives and departments or areas.
   text_ko: 다양한 관점과 부서, 분야의 의견을 수렴해야 합니다.
+  shorts: 3
 - start: 00:20:44:09
   end: 00:20:49:02
   text_en: And people will kind of thrash it out. Offering, contributions.
   text_ko: 그러면 사람들은 서로 의견을 주고받으며 해결책을 찾을 겁니다.
+  shorts: 3
 - start: 00:20:49:02
   end: 00:20:56:18
   text_en: Reasoning for that perspective. And I can provide one or perhaps more
   text_ko: 그러한 관점에 대한 근거를 제시하고, 누구나 목소리를 내고
+  shorts: 3
 - start: 00:20:56:18
   end: 00:21:02:08
   text_en: voices at that table, offering insight, offering critique, offering push back,
   text_ko: 통찰력, 비판, 반박, 지지를 제공하며
+  shorts: 3
 - start: 00:21:02:08
   end: 00:21:06:03
   text_en: offering support, basically leveling the playing field.
   text_ko: 공정한 경쟁의 장을 마련할 수 있습니다.
+  shorts: 3
 - start: 00:21:06:03
   end: 00:21:11:05
   text_en: Between humans and machines, and to be able to reduce as many
   text_ko: 인간과 기계 사이의 관계에 있어,
+  shorts: 3
 - start: 00:21:11:05
   end: 00:21:13:11
   text_en: different perspectives as possible to improve
   text_ko: 이질적인 관점을 접목하여 품질을 향상시키거나,
+  shorts: 3
 - start: 00:21:13:11
   end: 00:21:22:14
   text_en: the quality or so that that kind of shift from seeing, AI is either the enemy or a threat.
   text_ko: AI를 적이나 위협으로 보는 이분법적 시각에서 벗어나도록 하는 것이 중요합니다.
+  shorts: 3
 - start: 00:21:22:14
   end: 00:21:24:18
   text_en: To seeing it as part of the team.
   text_ko: 그것을 팀의 일부로 보는 것.
+  shorts: 3
 - start: 00:21:24:22
   end: 00:21:29:08
   text_en: As the, as the kind of collaborative environment. I think that's, that's going
   text_ko: 협업적인 환경이라는 점에서, 저는 그것이
+  shorts: 3
 - start: 00:21:29:08
   end: 00:21:31:21
   text_en: to be a really cool opportunity.
@@ -1184,10 +1267,12 @@
   end: 00:21:37:05
   text_en: it reminds of a recent article by the Harvard Business Review.
   text_ko: 하버드 비즈니스 리뷰에 실린 기사가 생각나네요.
+  shorts: 4
 - start: 00:21:37:05
   end: 00:21:40:15
   text_en: they interviewed the boss of McKinsey & Company.
   text_ko: 그들이 맥킨지 & 컴퍼니의 최고 경영자를 인터뷰했습니다.
+  shorts: 4
 - start: 00:21:40:17
   end: 00:21:45:15
   text_en: So they said they change the way they
@@ -1216,18 +1301,22 @@
   end: 00:22:06:16
   text_en: way of, interaction. They are freely used to it.
   text_ko: 채용 전형 중에 AI를 자유롭게 사용할 수 있다고 합니다.
+  shorts: 4
 - start: 00:22:06:16
   end: 00:22:09:23
   text_en: Use the AI and get a lot of information from the AI.
   text_ko: 그러한 정보들을 바탕으로 해서 의사결정하되,
+  shorts: 4
 - start: 00:22:10:04
   end: 00:22:15:20
   text_en: But you need to sort of be critically assess what, what's coming from the AI that way and what
   text_ko: 하지만 AI가 무엇을 내놓는지,
+  shorts: 4
 - start: 00:22:15:20
   end: 00:22:17:16
   text_en: what they're especially looking at is kind of a
   text_ko: 특히 비선형적 사고를 기반으로
+  shorts: 4
 - start: 00:22:17:16
   end: 00:22:22:08
   text_en: non-linear thinking because, AI is kind of they're very good at linear
@@ -1236,6 +1325,7 @@
   end: 00:22:26:14
   text_en: to very straightforward thinking, whereas very non-linear kind of
   text_ko: 사고에는 매우 능숙하지만, 비선형적인 창의성은
+  shorts: 4
 - start: 00:22:26:14
   end: 00:22:29:10
   text_en: creativity that's not easily coming from the AI.
@@ -1244,18 +1334,22 @@
   end: 00:22:33:14
   text_en: So that seems to be one picture of how AI human can elaborate.
   text_ko: 이것이 바로 AI와 인간과 소통하며 생각을 표현하는 방식의 한 가지 모습인 것 같습니다.
+  shorts: 4
 - start: 00:22:33:14
   end: 00:22:35:23
   text_en: I think that's I think that's a perfect example.
   text_ko: 제 생각엔 그게 바로 완벽한 예시인 것 같아요.
+  shorts: 4
 - start: 00:22:35:23
   end: 00:22:39:18
   text_en: And so, so encouraging the, the challenge or
   text_ko: 그래서 그 도전이나 시험, 평가 방식이 고무적인 것 같아요.
+  shorts: 4
 - start: 00:22:39:18
   end: 00:22:46:12
   text_en: the, the test or the evaluation candidate. To be not on reaching the decision, but,
   text_ko: 결정 자체에 집중하는 것이 아니라, 결정이 내려지는
+  shorts: 4
 - start: 00:22:46:14
   end: 00:22:53:19
   text_en: effectively the process by which the decision is, it arrived at I think that's crucial in
@@ -1274,14 +1368,17 @@
   end: 00:23:08:03
   text_en: AI has kind of forced our hand. And I think that, encouraging
   text_ko: AI가 어쩔 수 없이 우리를 그렇게 만들었어요.
+  shorts: 4
 - start: 00:23:08:03
   end: 00:23:13:13
   text_en: that focus on the on the critiquing process, on the ability to assess and judge and
   text_ko: 그리고 비판적 사고 과정에 집중하고, 다른 관점을 평가하고 판단하고 통합하며,
+  shorts: 4
 - start: 00:23:13:13
   end: 00:23:18:14
   text_en: integrate other perspectives, and kind of challenge against
   text_ko: 이의를 제기하는 능력을 키우는 것이야말로
+  shorts: 4
 - start: 00:23:18:16
   end: 00:23:26:01
   text_en: I think that's, uniquely encouraging these critical thinkers.
@@ -1290,14 +1387,17 @@
   end: 00:23:29:00
   text_en: Makes a lot of sense. And it seems to be kind of the
   text_ko: 네. 맞아요.
+  shorts: 4
 - start: 00:23:29:02
   end: 00:23:31:20
   text_en: kind of core skills needed for the future, I believe.
   text_ko: 그리고 미래에 필요한 핵심 역량이라고 생각합니다.
+  shorts: 4
 - start: 00:23:31:20
   end: 00:23:34:16
   text_en: absolutely. That makes sense.
   text_ko: 전적으로 동의합니다.
+  shorts: 4
 - start: 00:23:34:16
   end: 00:23:37:01
   text_en: Now so you mentioned, like a limitation of the LLM.
@@ -2614,10 +2714,12 @@
   end: 00:46:30:01
   text_en: intuition, that seems to be kind of attractive area. And even further, like whose intuition contributed the decision exactly?
   text_ko: 그리고 더 나아가서, 정확히 누구의 직관이 결정에 기여했는지도 중요하죠.
+  shorts: 8
 - start: 00:46:30:01
   end: 00:46:32:14
   text_en: This executive contribution.
   text_ko: 경영진의 기여 말이죠.
+  shorts: 8
 - start: 00:46:32:18
   end: 00:46:35:11
   text_en: Well, that that's I mean, you can start
@@ -2642,54 +2744,67 @@
   end: 00:47:01:19
   text_en: decisions are coming from.
   text_ko: 어디서 나오는지 통찰력을 얻을 수 있습니다.
+  shorts: 6
 - start: 00:47:01:19
   end: 00:47:13:12
   text_en: I think because there are so many gender and race and, other sort of practical
   text_ko: 네. 맞습니다. 그리고 성별, 인종, 그리고 기타 여러 가지 현실적인 제약과 압력이
+  shorts: 6
 - start: 00:47:13:14
   end: 00:47:17:21
   text_en: constraints, pressures rather on how decisions are reached.
   text_ko: 의사결정이 어떻게 이루어지는지에 영향을 미칩니다.
+  shorts: 6
 - start: 00:47:17:21
   end: 00:47:20:24
   text_en: You know, being able to surface the fact that someone who is less, I don't know, less aggressive or less vocal
   text_ko: 덜 공격적이거나 덜 목소리를 내는 사람이
+  shorts: 6
 - start: 00:47:20:24
   end: 00:47:25:10
   text_en: is actually the source of the good decisions.
   text_ko: 실제로 좋은 결정의 원천이라는 사실을 드러낼 수 있다는 거죠.
+  shorts: 6
 - start: 00:47:25:14
   end: 00:47:28:12
   text_en: Being able to track that at the moment
   text_ko: 현재로서는 그런 것을 추적하려면
+  shorts: 6
 - start: 00:47:28:12
   end: 00:47:32:12
   text_en: it requires astute individuals with a lot of intuition about what's going on in these kinds of environments.
   text_ko: 이런 환경에서 무슨 일이 일어나고 있는지에 대한 직관력이 뛰어난 사람들이 필요합니다.
+  shorts: 6
 - start: 00:47:32:12
   end: 00:47:40:12
   text_en: Whereas if technology can support that surfacing of where the value is coming from,
   text_ko: 반면에 기술이 의사결정의 가치가 어디서 나오는지 드러낼 수 있다면,
+  shorts: 6
 - start: 00:47:40:12
   end: 00:47:48:11
   text_en: I would imagine, but for most organisations that kind of information would be like gold.
   text_ko: 대부분의 조직에서 그런 종류의 정보는 매우 값진 것이 될 거에요.
+  shorts: 6
 - start: 00:47:54:23
   end: 00:47:57:07
   text_en: Absolutely. I mean, the more transparency
   text_ko: 물론이죠. 투명성이 높을수록 더 나은 결과를 얻을 수 있으니까요.
+  shorts: 6
 - start: 00:47:57:07
   end: 00:47:59:02
   text_en: gives you room for the further improvement and they're going to survive at the end.
   text_ko: 더 나은 개선을 위한 여지를 제공하고, 결국에는 살아남을 겁니다.
+  shorts: 6
 - start: 00:47:59:02
   end: 00:48:04:05
   text_en: And for now, some customers may not like it,
   text_ko: 지금 당장은 일부 고객들이 좋아하지
+  shorts: 6
 - start: 00:48:04:05
   end: 00:48:08:20
   text_en: but if those kind of companies are better at decision making, I think they're going to win.
   text_ko: 않을 수도 있지만, 그런 회사들이 의사결정을 더 잘한다면 결국 경쟁력이 높아지겠죠.
+  shorts: 6
 - start: 00:48:08:21
   end: 00:48:11:05
   text_en: So it's kind of the human
@@ -2735,86 +2850,107 @@
   end: 00:48:54:15
   text_en: Yeah, that's an interesting challenge to be able to tackle.
   text_ko: 네, 그건 생각해 볼만한 문제입니다.
+  shorts: 2
 - start: 00:48:54:15
   end: 00:49:00:15
   text_en: I mean, you know, for all of us, we have a kind of, on the one hand,
   text_ko: 제 말은, 우리 모두에게는 한편으로는
+  shorts: 2
 - start: 00:49:00:15
   end: 00:49:09:03
   text_en: an instinct about the hard work being able to pay off, but at the same time,
   text_ko: 노력이 결실을 맺을 거라는 본능이 있지만,
+  shorts: 2
 - start: 00:49:09:03
   end: 00:49:19:02
   text_en: you know, an inbuilt laziness. We want to avoid it. We all see that in,
   text_ko: 동시에 내재된 게으름도 있죠.
+  shorts: 2
 - start: 00:49:19:02
   end: 00:49:22:05
   text_en: you know, gym membership and attendance. Right. The membership thing is
   text_ko: 우리 모두 헬스장 회원권에서 그런 모습을 봅니다.
+  shorts: 2
 - start: 00:49:22:05
   end: 00:49:26:05
   text_en: relatively straightforward. The attendance requires a bit more commitment,
   text_ko: 회원권 발급은 비교적 간단하지만,
+  shorts: 2
 - start: 00:49:26:05
   end: 00:49:32:06
   text_en: but we know it's good for us. So, you know, I do think that it is more
   text_ko: 꾸준한 운동에는 더 많은 헌신이 필요하죠.
+  shorts: 2
 - start: 00:49:32:06
   end: 00:49:39:09
   text_en: difficult to engage in argumentation than not to. But equally, I think it's
   text_ko: 하지만 우리는 그게 좋다는 걸 알고 있습니다.
+  shorts: 2
 - start: 00:49:39:11
   end: 00:49:43:20
   text_en: not just that people are intrinsically good at it. I think it's a defining
   text_ko: 마찬가지로 논증 능력을 키우는 건 어려운 일이죠.
+  shorts: 2
 - start: 00:49:43:22
   end: 00:49:49:05
   text_en: part of what it is to be human. Is to be able to do this.
   text_ko: 하지만 동시에 사람들이 선천적으로 잘하는 것만은 아니죠.
+  shorts: 2
 - start: 00:49:49:05
   end: 00:49:56:13
   text_en: And I think that we all do it completely intuitively. In any case,
   text_ko: 그러면서 이 논증 능력은 우리를 인간답게 정의하는 부분이라고 생각합니다.
+  shorts: 2
 - start: 00:49:56:17
   end: 00:50:00:08
   text_en: when we make a decision to turn left rather than right to avoid
   text_ko: 교통체증을 피하기 위해 우회전이 아닌 좌회전을
+  shorts: 2
 - start: 00:50:00:08
   end: 00:50:03:18
   text_en: the traffic jam, that's a chain of reasoning.
   text_ko: 결정할 때, 그건 일련의 추론 과정을 거치는 거잖아요.
+  shorts: 2
 - start: 00:50:03:18
   end: 00:50:05:14
   text_en: It's just going on, in an instant.
   text_ko: 일상에서의 사고 과정이죠.
+  shorts: 2
 - start: 00:50:05:14
   end: 00:50:08:19
   text_en: And I think that being able to,
   text_ko: 그리고 저는 그러한 능력을 드러내고,
+  shorts: 2
 - start: 00:50:08:19
   end: 00:50:13:14
   text_en: to surface it and have the confidence to be able to follow through those steps
   text_ko: 그 과정을 차근차근 밟아나가고,
+  shorts: 2
 - start: 00:50:13:14
   end: 00:50:17:19
   text_en: and to articulate them, with the right kind of support
   text_ko: 명확하게 표현할 수 있는 자신감을 갖게 된다면,
+  shorts: 2
 - start: 00:50:17:19
   end: 00:50:21:11
   text_en: it can become not just a, a powerful skill,
   text_ko: 적절한 기술적 지원만 있다면
+  shorts: 2
 - start: 00:50:21:11
   end: 00:50:27:03
   text_en: but something that people, enjoy doing and that they get pride
   text_ko: 그것은 강력한 기술이 될 뿐만 아니라
+  shorts: 2
 - start: 00:50:27:03
   end: 00:50:30:23
   text_en: from and that they're proud of and can, can
   text_ko: 사람들이 즐기고 자부심을 느끼며,
+  shorts: 2
 - start: 00:50:30:23
   end: 00:50:39:20
   text_en: really invest in to be able to produce good quality, well-reasoned, arguments for their opinions.
   text_ko: 자신의 의견에 대한 논리 정연한 주장을 펼칠 수 있는, 값진 능력이 되는 것이죠.
+  shorts: 2
 - start: 00:50:39:20
   end: 00:50:43:19
   text_en: And as a result, see their opinions picked up
@@ -2907,58 +3043,72 @@
   end: 00:52:32:06
   text_en: manual jobs are being replaced by machines. Yeah. At the end of the day,
   text_ko: 왜냐하면 모든 지루한 수동 작업들이 기계로 대체되고 있으니까요.
+  shorts: 5
 - start: 00:52:32:06
   end: 00:52:36:06
   text_en: what the core function of the human should be, that sound decision making
   text_ko: 결국 인간의 핵심 기능은
+  shorts: 5
 - start: 00:52:36:06
   end: 00:52:39:17
   text_en: and having the machine to assist. That seems to be a viable approach.
   text_ko: 건전한 의사결정을 내리고 기계의 도움을 받는 것이어야 하겠죠.
+  shorts: 5
 - start: 00:52:39:17
   end: 00:52:41:24
   text_en: Yeah, yeah, that's right. And this, I mean, you know, this kind of sophisticated, multi party, multi.
   text_ko: 맞습니다. 그리고 이것은, 제 말은, 복잡한 다자간,
+  shorts: 5
 - start: 00:52:41:24
   end: 00:52:49:00
   text_en: Issue. Decision making in complex information spaces, this has been the mainstay
   text_ko: 다중 쟁점의 의사결정이죠. 복잡한 정보 공간에서의 의사결정은
+  shorts: 5
 - start: 00:52:49:00
   end: 00:52:54:16
   text_en: of human activities since before the Enlightenment.
   text_ko: 계몽주의 이전부터 인간 활동의 근간을 이루어 왔습니다.
+  shorts: 5
 - start: 00:52:54:18
   end: 00:53:02:18
   text_en: I mean, you know, whether you're looking at the processes of government and parliament, whether you're looking at how
   text_ko: 제 말은, 정부와 의회의 운영 방식을 보든,
+  shorts: 5
 - start: 00:53:02:18
   end: 00:53:08:06
   text_en: religion is defined, rather think of the Council of Nicaea which is 1800 years ago,
   text_ko: 종교가 어떻게 정의되는지를 보든, 1800년 전 니케아 공의회를 생각해보면,
+  shorts: 5
 - start: 00:53:08:06
   end: 00:53:15:08
   text_en: they defined what Christianity is. That defined its bounds.
   text_ko: 그들이 기독교가 무엇인지 정의했죠.
+  shorts: 5
 - start: 00:53:15:08
   end: 00:53:20:01
   text_en: And then equally looking at how science functions. Science is basically
   text_ko: 그 범위를 정의한 거죠. 그리고 마찬가지로 과학이 어떻게 작동하는지를 보면,
+  shorts: 5
 - start: 00:53:20:01
   end: 00:53:24:20
   text_en: just the application of these techniques and has been since before Newton.
   text_ko: 과학은 기본적으로 이러한 기법의 응용일 뿐이며,
+  shorts: 5
 - start: 00:53:24:20
   end: 00:53:29:22
   text_en: So it doesn't matter where you look, these high standards of well reasoned,
   text_ko: 뉴턴 이전부터 그래왔습니다.
+  shorts: 5
 - start: 00:53:29:22
   end: 00:53:39:11
   text_en: well evidenced decision making are the pinnacle. That's what we aspire.
   text_ko: 그러니까 어디를 보더라도, 논리 정연하고 증거에 입각한
+  shorts: 5
 - start: 00:53:39:11
   end: 00:53:46:05
   text_en: Absolutely.
   text_ko: 의사 결정의 높은 기준이 최고 수준입니다. 그게 바로 우리가 바라는 바입니다.
+  shorts: 5
 - start: 00:53:46:05
   end: 00:53:49:00
   text_en: I definitely agree with you. And that's part of our company DeepSkill
@@ -2984,18 +3134,22 @@
   end: 00:54:17:18
   text_en: Sure. So I mean I think that innovative companies like DeepSkill are recognising
   text_ko: 네. 제 생각에는 딥스킬 같은 혁신적인 기업들이
+  shorts: 7
 - start: 00:54:17:18
   end: 00:54:21:24
   text_en: that there's this moment in time that I was talking about. So the technology
   text_ko: 제가 말한 바로 그 순간이 왔다는 것을 인식하고 있습니다.
+  shorts: 7
 - start: 00:54:21:24
   end: 00:54:28:03
   text_en: is kind of catching up with the vision and I think it's happening in support
   text_ko: 기술이 비전을 따라잡고 있고, 저는 이것이
+  shorts: 7
 - start: 00:54:28:05
   end: 00:54:32:23
   text_en: for training for decision makers. I think it's happening for in the moment
   text_ko: 의사결정권자들을 위한 훈련에서 일어나고 있다고 생각합니다.
+  shorts: 7
 - start: 00:54:32:23
   end: 00:54:36:03
   text_en: decision making. I think it's happening for customer provider relations.
@@ -3016,38 +3170,47 @@
   end: 00:55:04:05
   text_en: of reasoned interaction, reasoned decision making is kind of
   text_ko: 사람들이 논리적 상호작용과 논리적 의사결정의
+  shorts: 7
 - start: 00:55:04:07
   end: 00:55:06:18
   text_en: their bread and butter. It's what they rely upon.
   text_ko: 논증 과정이 그들의 핵심 역량이라는 것을 깨닫기 시작했습니다.
+  shorts: 7
 - start: 00:55:06:18
   end: 00:55:11:20
   text_en: And so companies like DeepSkill that are able to say we can provide you
   text_ko: 그들이 의존하는 부분이 바로 그것이니까요.
+  shorts: 7
 - start: 00:55:11:23
   end: 00:55:19:02
   text_en: with technology to help you do that better. And I think that this is going
   text_ko: 그래서 딥스킬과 같은 회사들이 더 잘할 수 있도록 도와주는 기술을
+  shorts: 7
 - start: 00:55:19:02
   end: 00:55:24:04
   text_en: to change the landscape in all of these different domains as different
   text_ko: 제공할 수 있다고 말할 수 있습니다.
+  shorts: 7
 - start: 00:55:24:06
   end: 00:55:30:11
   text_en: flavours of argument technology are introduced into either training or solo
   text_ko: 그리고 저는 이것이 모든 다양한 영역에서 판도를 바꿀 것이라고 생각합니다.
+  shorts: 7
 - start: 00:55:30:16
   end: 00:55:33:04
   text_en: decision making or multi party decision making and we're going to start
   text_ko: 다양한 형태의 논증 기술이 훈련이나 단독 의사결정,
+  shorts: 7
 - start: 00:55:33:04
   end: 00:55:39:22
   text_en: to see better decisions being taken as a result. And I also predict, I mean,
   text_ko: 또는 다자간 의사결정에 도입되면서
+  shorts: 7
 - start: 00:55:40:02
   end: 00:55:43:02
   text_en: obviously I'm somewhat biassed, this is my area, but nonetheless I do predict
   text_ko: 더 나은 결정들이 내려지는 것을 보게 될 것입니다.
+  shorts: 7
 - start: 00:55:43:02
   end: 00:55:46:06
   text_en: that we're going to start to see a separation that, you know, those government
@@ -3060,18 +3223,22 @@
   end: 00:55:54:10
   text_en: that are being trained in these ways, that are developing these skills
   text_ko: 차이가 벌어질 거라고 예상합니다. 이러한 기술을 사용하고,
+  shorts: 7
 - start: 00:55:54:12
   end: 00:55:57:22
   text_en: and taking them seriously, they're going to start to get an edge.
   text_ko: 이러한 방식으로 훈련받고, 이러한 기술을 개발하고
+  shorts: 7
 - start: 00:55:57:22
   end: 00:56:03:15
   text_en: And you know, that will play out either in the marketplace or in other ways
   text_ko: 진지하게 받아들이는 정부 기능이나 기업의 영역들이
+  shorts: 7
 - start: 00:56:03:15
   end: 00:56:08:13
   text_en: of measuring competition. You know, the, that decision making really is where
   text_ko: 경쟁 우위를 확보하게 될 겁니다.
+  shorts: 7
 - start: 00:56:08:13
   end: 00:56:14:00
   text_en: everything lies, that's where the value is. And if you take that seriously,
@@ -3088,6 +3255,7 @@
   end: 00:56:21:22
   text_en: I'm very glad that we are kind of having this journey together.
   text_ko: 교수님과 이 여정을 함께하게 되어 정말 기쁩니다.
+  shorts: 7
 - start: 00:56:21:22
   end: 00:56:23:20
   text_en: Thank you very much for

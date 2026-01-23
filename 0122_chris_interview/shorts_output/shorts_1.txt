@@ -1,0 +1,90 @@
+# shorts 1
+
+[00:06:30:07 - 00:06:35:11]
+EN: So the problem is that, as of today, at the beginning of 2026,
+KO: 문제는 2026년 초인 오늘날에도
+
+[00:06:35:11 - 00:06:43:06]
+EN: the state of the art is still not able to cope with the sophistication
+KO: 최첨단 기술로는 논증 과정에 내재된 정교함, 미묘함, 그리고 인간 인지 능력에 대한
+
+[00:06:43:06 - 00:06:51:06]
+EN: and the nuance, and the kind of mastery of human cognition that is embodied
+KO: 숙련도를 제대로 표현할 수 없다는 점입니다.
+
+[00:06:51:06 - 00:06:55:06]
+EN: in the process of argumentation. So LLM is out of the box.
+KO: LLM은 기존의 틀을 벗어난 개념입니다.
+
+[00:06:55:06 - 00:07:02:05]
+EN: Are really so very poor at recognizing when people are giving, pieces of evidence
+KO: 우리는 사람들이 결론을 뒷받침하는 증거를 제시할 때,
+
+[00:07:02:05 - 00:07:06:00]
+EN: for their conclusions, how they, assemble
+KO: 즉 가설을 지지하거나 반증하기 위해
+
+[00:07:06:00 - 00:07:09:03]
+EN: the chains of reasoning to be able to support
+KO: 추론 과정을 어떻게 구성하는지
+
+[00:07:09:05 - 00:07:13:15]
+EN: or dis confirm hypotheses. So, we had a very
+KO: 제대로 파악하는 데 매우 서툴다는 것이죠.
+
+[00:07:13:15 - 00:07:18:20]
+EN: interesting, turning point. So, that as there is this
+KO: 그래서 우리는 매우 주목할 만한 전환점을 맞이한 셈입니다.
+
+[00:07:18:20 - 00:07:25:13]
+EN: kind of inexorable rise in the power and sophistication, of modern day,
+KO: 현대의, 특히 최근에는 대규모 추론 모델과 알고리즘의 힘과
+
+[00:07:25:14 - 00:07:28:12]
+EN: I say formally, And more latterly,
+KO: 동시에, 정교함이 끊임없이 증가함에 따라
+
+[00:07:28:14 - 00:07:34:14]
+EN: large reasoning models, algorithms. There is a fundamental limit.
+KO: AI의 근본적인 한계가 존재한다는 것을 강조하고 싶어요.
+
+[00:07:34:14 - 00:07:40:03]
+EN: It seems to, the ability of these AI systems on their own
+KO: 이러한 AI 시스템들이 스스로 이러한
+
+[00:07:40:03 - 00:07:43:06]
+EN: like that to be able to tackle.
+KO: 문제들을 해결할 수 있는 능력에 있어서 말이죠.
+
+[00:07:43:06 - 00:07:47:04]
+EN: So argumentation technology is, is now at this,
+KO: 그래서 논증 기술은 지금
+
+[00:07:47:04 - 00:07:52:08]
+EN: at this sort of fascinating, eye of the storm.
+KO: 이처럼 흥미로운 폭풍의 눈에 있습니다.
+
+[00:07:52:10 - 00:08:00:23]
+EN: In, in as much as, reasoning is being touted and seems indeed to be, of core importance and
+KO: 추론 능력이 강조되고 있고 실제로도 AI가 할 수 있는 일에 있어 핵심적이고
+
+[00:08:00:23 - 00:08:04:18]
+EN: fundamental importance to what AI is able to do.
+KO: 근본적인 중요성이 강조되는 만큼,
+
+[00:08:04:18 - 00:08:10:17]
+EN: And yet even just the ability to measure the sophistication and
+KO: 하지만 LLM이 요구하는 정교함과 역량을 측정하는 것조차 쉽지 않은데,
+
+[00:08:10:18 - 00:08:15:04]
+EN: capability that LLM requires all of this argumentation technology
+KO: 앞으로 몇 년 동안 우리가 진행할 논증 기술 관련 작업이
+
+[00:08:15:06 - 00:08:17:06]
+EN: work that we'll be doing over the next few years.
+KO: 그 모든 것을 필요로 합니다.
+
+[00:08:17:12 - 00:08:21:19]
+EN: So it's a very exciting moment in time to be working on presenting these things.
+KO: 그래서 지금 이 시기에 이러한 것들을 세상에 선보이는 것은 매우 신나는 일입니다.
+

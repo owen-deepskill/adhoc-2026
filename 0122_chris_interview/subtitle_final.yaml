@@ -19,7 +19,7 @@
   end: 00:00:19:01
   text_en: What is changing. But maybe it's more important to
   text_ko: 어쩌면 변하지 않는 것이 무엇인지 묻는 것이 더 중요할지도 모릅니다.
-  edit: What is changing 이후 부터 시작
+  edit: But maybe 부터 시작
 - start: 00:00:19:01
   end: 00:00:26:02
   text_en: ask what is not changing. As a human, We have used our rules of the logic
@@ -27,19 +27,19 @@
 - start: 00:00:26:02
   end: 00:00:29:14
   text_en: to persuade and to make a decision
-  text_ko: 사용하여 사람들을 설득하고 결정을 내려왔습니다.
+  text_ko: 사용하여 다른 사람들을 설득하고 결정을 내려왔습니다.
 - start: 00:00:29:14
   end: 00:00:32:00
   text_en: with a group of people. So we have been following
-  text_ko: 우리는 지난 2000년 동안 이러한 논리적 규칙을 따라왔습니다.
+  text_ko: 우리는 지난 2000년 동안 이러한 논리적 규칙을 따라왔죠.
 - start: 00:00:32:00
   end: 00:00:36:04
   text_en: these rules, rules of the logic, for last,
-  text_ko: 그리고 저는 바로 이 두 가지 철학적 접근
+  text_ko: 그리고 저는 바로 이 두 가지
 - start: 00:00:36:04
   end: 00:00:40:03
   text_en: last 2000 years. And I found that there is exactly at the intersection
-  text_ko: 방식이 교차하는 지점에 기술적 접근 방식이 있다는 것을 발견했습니다.
+  text_ko: 접근 방식이 교차하는 지점의 연구를 찾게 되었습니다.
 - start: 00:00:40:03
   end: 00:00:42:20
   text_en: of these two philosophical and the technological approach.
@@ -51,11 +51,11 @@
 - start: 00:00:44:18
   end: 00:00:49:09
   text_en: called argumentation technology. And today we have the visionary,
-  text_ko: 논증 기술(Argumentation Technology)이라 하는데요. 그리고 오늘 우리는 이 분야의 선구적인 학자를
+  text_ko: 논증 기술(Argumentation Technology)이라 하는데요. 그리고 오늘 우리는 이 분야의 선구적인 학자를 만나,
 - start: 00:00:49:11
   end: 00:00:53:18
   text_en: scholar in this field of research who is kind of researching into this,
-  text_ko: 만나 이 분야, 즉 여러 학문의 교차점을 연구하는 그의 비전을 살펴보았습니다.
+  text_ko: 이 분야에서 여러 학문의 교차점을 연구하는 그의 비전을 살펴보았습니다.
 - start: 00:00:53:18
   end: 00:00:58:11
   text_en: into this intersection. So his vision is to kind of provoke people's thoughts
@@ -79,11 +79,12 @@
 - start: 00:01:15:11
   end: 00:01:20:05
   text_en: Thank you very much for that warm introduction, and thank you for welcoming me here to
-  text_ko: 따뜻한 소개 말씀 정말 감사합니다. 그리고 이곳에
+  text_ko: 따뜻한 소개 말씀 정말 감사합니다.
+  caption: Chris Reed (ArgTech, University of Dundee) / 크리스 리드 (논증 기술 연구소장, 던디대학교)
 - start: 00:01:20:07
   end: 00:01:23:04
   text_en: to join you.
-  text_ko: 함께할 수 있도록 초대해 주셔서 감사합니다.
+  text_ko: 그리고 이곳에 함께할 수 있도록 초대해 주셔서 감사합니다.
 - start: 00:01:23:06
   end: 00:01:25:11
   text_en: Perhaps we can start with your introduction.
@@ -91,19 +92,19 @@
 - start: 00:01:25:12
   end: 00:01:27:12
   text_en: Just a brief introduction. What you have been working on
-  text_ko: 간단한 설명이 도움이 될 것 같아요. 어떤 연구를 해오셨고, 연구 관심 분야는
+  text_ko: 간단한 설명이 도움이 될 것 같아요. 어떤 연구를 해오셨고,
 - start: 00:01:27:12
   end: 00:01:32:14
   text_en: what you have in your research interest and why it matters these days.
-  text_ko: 무엇이며, 그 분야가 왜 오늘날 중요할까요?
+  text_ko: 그 분야가 왜 오늘날 중요할까요?
 - start: 00:01:32:16
   end: 00:01:36:24
   text_en: So, for the past three decades, actually,
-  text_ko: 사실 저는 지난 30년 동안 인공지능
+  text_ko: 사실 저는 지난 30년 동안 AI 모델링,
 - start: 00:01:36:24
   end: 00:01:43:05
   text_en: I've been working on AI modeling with a specific focus on
-  text_ko: 모델링, 특히 논증과 인간의 추론에 초점을 맞춰 연구해 왔습니다.
+  text_ko: 특히 논증과 인간의 추론에 초점을 맞춰 연구해 왔습니다.
 - start: 00:01:43:05
   end: 00:01:48:08
   text_en: argumentation and human reasoning. So trying to understand the ways
@@ -135,11 +136,11 @@
 - start: 00:02:26:14
   end: 00:02:31:13
   text_en: So you have to integrate the the kind of face work
-  text_ko: 그러므로 체면치레와 예의, 그리고 모든 사회적
+  text_ko: 이 과정에서 체면치레와 예의, 그리고
 - start: 00:02:31:13
   end: 00:02:34:09
   text_en: and the politeness and all the social interaction material,
-  text_ko: 상호작용 요소를 통합해야 합니다.
+  text_ko: 모든 사회적 상호작용 요소를 통합해야 합니다.
 - start: 00:02:34:09
   end: 00:02:35:17
   text_en: because conflict is hard
@@ -151,11 +152,11 @@
 - start: 00:02:37:18
   end: 00:02:44:07
   text_en: With, the need for evidence for scrutiny. And so a kind of objectivity,
-  text_ko: 증거를 통해 검증해야 할 필요성이 대두됩니다. 따라서 객관성, 신뢰성 등의 요소가 세상과
+  text_ko: 바로 이 때, 증거를 통해 검증해야 하는 것이죠. 따라서 객관성, 신뢰성 등의 요소가
 - start: 00:02:44:13
   end: 00:02:49:09
   text_en: reliability, and all of that then interacts with the rest of the world and the evidence
-  text_ko: 상호작용하고, 기존의 증거들, 검증 여부,
+  text_ko: 세상과 상호작용하고, 기존의 증거들, 검증 여부,
 - start: 00:02:49:09
   end: 00:02:53:16
   text_en: that's out there and the ability to test or not testing to refine
@@ -183,11 +184,12 @@
 - start: 00:03:15:01
   end: 00:03:18:15
   text_en: And there has been a lot to do.
-  text_ko: 할 일이 많았습니다.
+  text_ko: 그러기 위해 할 게 많았어요.
 - start: 00:03:18:17
   end: 00:03:23:20
   text_en: So, so so first of all, I mean, one of the initial problems
-  text_ko: 네, 우선, 우리가 직면한 초기 문제 중
+  text_ko: 우선, 우리가 직면한 초기 문제 중
+  caption: Genesis of ArgTech / 논증 기술의 초창기 연구
 - start: 00:03:23:20
   end: 00:03:26:21
   text_en: that we have is that although as you alluded to in your introduction,
@@ -203,7 +205,7 @@
 - start: 00:03:34:18
   end: 00:03:40:20
   text_en: to Aristotle and beyond. But there's not a lot of what,
-  text_ko: 넘는 역사를 가지고 있음에도 불구하고, 현대 인공지능 연구자들이 데이터라고
+  text_ko: 넘는 역사를 가지고 있음에도 불구하고, 현대 AI 연구자들이 데이터라고
 - start: 00:03:40:20
   end: 00:03:44:22
   text_en: in the modern world, AI researchers would call data.
@@ -235,11 +237,11 @@
 - start: 00:04:09:17
   end: 00:04:14:01
   text_en: And that empirical term, is really only very, very recent.
-  text_ko: 그리고 그 경험적 용어는 사실 아주 최근에 생긴 개념입니다.
+  text_ko: 그래서 이 경험적 용어는 사실 아주 최근에 생긴 개념입니다.
 - start: 00:04:14:01
   end: 00:04:16:04
   text_en: And so one of the things that
-  text_ko: 그래서 우리가 해야 했던 일 중 하나는 사람들이 어떻게
+  text_ko: 우리가 해야 했던 일 중 하나는 사람들이 어떻게
 - start: 00:04:16:04
   end: 00:04:19:06
   text_en: we had to do, beyond was to go look at
@@ -351,11 +353,11 @@
 - start: 00:06:01:19
   end: 00:06:06:18
   text_en: And then about ten years ago, what happened was that we realized that
-  text_ko: 그러다가 약 10년 전, 새로운 AI의
+  text_ko: 그러다가 약 10년 전, 새로운 AI의 등장과
 - start: 00:06:06:18
   end: 00:06:10:23
   text_en: with the advent of new AI and subsequently, not long subsequently,
-  text_ko: 등장과 그 직후 대규모 언어 모델의 등장으로
+  text_ko: 그 직후 대규모 언어 모델의 등장으로
 - start: 00:06:10:23
   end: 00:06:18:18
   text_en: with large language models, that we start to have the techniques for being able to automatically recognize the
@@ -387,11 +389,11 @@
 - start: 00:06:55:06
   end: 00:07:02:05
   text_en: Are really so very poor at recognizing when people are giving, pieces of evidence
-  text_ko: 우리는 사람들이 결론을 뒷받침하는 증거를 제시할 때, 즉 가설을
+  text_ko: 우리는 사람들이 결론을 뒷받침하는 증거를 제시할 때,
 - start: 00:07:02:05
   end: 00:07:06:00
   text_en: for their conclusions, how they, assemble
-  text_ko: 지지하거나 반증하기 위해
+  text_ko: 즉 가설을 지지하거나 반증하기 위해
 - start: 00:07:06:00
   end: 00:07:09:03
   text_en: the chains of reasoning to be able to support
@@ -403,7 +405,7 @@
 - start: 00:07:13:15
   end: 00:07:18:20
   text_en: interesting, turning point. So, that as there is this
-  text_ko: 그래서 우리는 매우 흥미로운 전환점을 맞이한 것이죠.
+  text_ko: 그래서 우리는 매우 주목할 만한 전환점을 맞이한 셈입니다.
 - start: 00:07:18:20
   end: 00:07:25:13
   text_en: kind of inexorable rise in the power and sophistication, of modern day,
@@ -415,7 +417,7 @@
 - start: 00:07:28:14
   end: 00:07:34:14
   text_en: large reasoning models, algorithms. There is a fundamental limit.
-  text_ko: 근본적인 한계가 존재한다는 것을 강조하고 싶어요.
+  text_ko: AI의 근본적인 한계가 존재한다는 것을 강조하고 싶어요.
 - start: 00:07:34:14
   end: 00:07:40:03
   text_en: It seems to, the ability of these AI systems on their own
@@ -423,7 +425,7 @@
 - start: 00:07:40:03
   end: 00:07:43:06
   text_en: like that to be able to tackle.
-  text_ko: 문제들을 해결할 수 있는 능력을 갖춘 것 같습니다.
+  text_ko: 문제들을 해결할 수 있는 능력에 있어서 말이죠.
 - start: 00:07:43:06
   end: 00:07:47:04
   text_en: So argumentation technology is, is now at this,
@@ -435,7 +437,7 @@
 - start: 00:07:52:10
   end: 00:08:00:23
   text_en: In, in as much as, reasoning is being touted and seems indeed to be, of core importance and
-  text_ko: 추론 능력이 강조되고 있고 실제로도 인공지능이 할 수 있는 일에 있어 핵심적이고
+  text_ko: 추론 능력이 강조되고 있고 실제로도 AI가 할 수 있는 일에 있어 핵심적이고
 - start: 00:08:00:23
   end: 00:08:04:18
   text_en: fundamental importance to what AI is able to do.
@@ -455,11 +457,11 @@
 - start: 00:08:17:12
   end: 00:08:21:19
   text_en: So it's a very exciting moment in time to be working on presenting these things.
-  text_ko: 그래서 지금 이 시기에 이러한 것들을 발표하는 작업을 하는 것은 매우 흥미로운 일입니다.
+  text_ko: 그래서 지금 이 시기에 이러한 것들을 세상에 선보이는 것은 매우 신나는 일입니다.
 - start: 00:08:22:00
   end: 00:08:24:12
   text_en: precisely. So before we kind of
-  text_ko: 네, 맞습니다. 네. 좀 더 기술적인 세부 사항으로 들어가기 전에,
+  text_ko: 네, 좋습니다. 좀 더 기술적인 세부 사항으로 들어가기 전에,
 - start: 00:08:24:12
   end: 00:08:28:14
   text_en: diving into a bit more technical details, I just wonder, you mentioned briefly mentioned
@@ -467,19 +469,19 @@
 - start: 00:08:28:14
   end: 00:08:31:20
   text_en: about your work. Just wonder how your work
-  text_ko: 이제까지 작업해오신 부분들에 대해 궁금한 점이 있습니다.
+  text_ko: 이제까지 작업해오신 내용들이 궁금한데요.
 - start: 00:08:31:20
   end: 00:08:37:09
   text_en: have been applied to the different projects like in public sector or any other sectors.
-  text_ko: 당신의 연구가 공공 부문이나 다른 분야의 다양한 프로젝트에 어떻게 적용되었는지 궁금합니다.
+  text_ko: 당신의 연구가 공공 부문이나 다른 분야의 다양한 프로젝트에 어떻게 적용되었을까요?
 - start: 00:08:37:11
   end: 00:08:42:09
   text_en: And based on that in my sort of final question is why it matters,
-  text_ko: 그리고 그것을 바탕으로 제가 마지막으로 드리고 싶은 질문은
+  text_ko: 그리고 그것을 바탕으로 제가 이어서 드리고 싶은 질문은
 - start: 00:08:42:09
   end: 00:08:45:03
   text_en: to the human. So that's I mean,
-  text_ko: 그것이 인간에게 왜 중요한가 하는 것입니다. 제 생각에는
+  text_ko: 그것이 인간에게 왜 중요한가 하는 것입니다.
 - start: 00:08:45:03
   end: 00:08:47:13
   text_en: I think that those two questions naturally go.
@@ -488,10 +490,11 @@
   end: 00:08:51:22
   text_en: So one of the things that I've been particularly interested in, is
   text_ko: 제가 특히 관심을 가져온 것 중 하나는,
+  caption: Applications of Argumentation Technology / 논증 기술의 응용
 - start: 00:08:51:22
   end: 00:08:57:19
   text_en: how we can take, AI research into this kind of ubiquitous,
-  text_ko: 인공지능 연구를 통해 이처럼 보편적인 현상인 논쟁에 접근하고,
+  text_ko: AI 연구를 통해 이처럼 보편적인 현상인 논쟁에 접근하고,
 - start: 00:08:57:21
   end: 00:09:04:16
   text_en: phenomenon of argumentation and apply it in different domains to have some kind of impact.
@@ -587,7 +590,7 @@
 - start: 00:10:55:13
   end: 00:11:01:17
   text_en: be able to annotate, and as we built up the data set,
-  text_ko: 주석을 달 수 있다는 것이 무엇을 의미하는지 이해하려고 노력했습니다.
+  text_ko: 주석을 어떻게 달아야 하는지 고안해야했죠.
 - start: 00:11:01:17
   end: 00:11:07:02
   text_en: we started to get fascinating insights into the ways in which the dynamics
@@ -595,7 +598,7 @@
 - start: 00:11:07:02
   end: 00:11:13:13
   text_en: of this kind of drive, are structured. So, for example, we were looking at the,
-  text_ko: 어떻게 구조화되는지에 대한 흥미로운 통찰력을 얻기 시작했습니다.
+  text_ko: 어떻게 구조화되는지에 대한 인상적인 통찰력을 얻기 시작했습니다.
 - start: 00:11:13:14
   end: 00:11:17:05
   text_en: the ways in which, turn taking interacts
@@ -663,11 +666,11 @@
 - start: 00:12:06:24
   end: 00:12:12:03
   text_en: series of analytics that give you insight into that abstraction through different
-  text_ko: 추상적인 개념에 대한 통찰력을 제공하는 일련의
+  text_ko: 추상적인 개념에 대한 통찰력을 제공하는
 - start: 00:12:12:03
   end: 00:12:17:16
   text_en: kind of abstraction mechanisms. And so being able to show,
-  text_ko: 분석 도구를 개발하기 시작했습니다.
+  text_ko: 일련의 분석 도구를 개발하기 시작했습니다.
 - start: 00:12:17:16
   end: 00:12:19:23
   text_en: for example, where there are kind of conflict
@@ -691,7 +694,7 @@
 - start: 00:12:35:16
   end: 00:12:39:21
   text_en: observations about what's going on. And they said, that's cool.
-  text_ko: 그랬더니 제작팀에서 "좋은 생각이네요."라고 했어요.
+  text_ko: 그랬더니 제작팀에서 좋은 생각이라고 해주셨어요.
 - start: 00:12:39:21
   end: 00:12:42:21
   text_en: How can we how can we get that to our audience?
@@ -711,7 +714,7 @@
 - start: 00:12:53:11
   end: 00:12:59:16
   text_en: And who's able to to dig down the position, and defend it against all comers as opposed
-  text_ko: 그리고 누가 그 입장을 확고히 하고, 항복하는 대신 모든 도전자로부터
+  text_ko: 그리고 누가 그 입장을 확고히 하고, 설복되는 대신 모든 도전자로부터
 - start: 00:12:59:16
   end: 00:13:03:09
   text_en: to capitulate or indeed, who's got the best brass
@@ -775,7 +778,7 @@
 - start: 00:14:09:11
   end: 00:14:16:01
   text_en: And that was kind of fascinating. So to be able to to give people that sort of insight,
-  text_ko: 그건 정말 흥미로운 경험이었어요. 사람들에게 그런 통찰력을 줄 수 있었다는 것도 좋았지만,
+  text_ko: 그건 정말 인상 깊은 경험이었어요. 사람들에게 그런 통찰력을 줄 수 있었다는 것도 좋았지만,
 - start: 00:14:16:01
   end: 00:14:22:12
   text_en: but it also laid the foundation for then subsequently further work with the BBC,
@@ -799,7 +802,7 @@
 - start: 00:14:40:01
   end: 00:14:44:08
   text_en: if I remember correctly. We were commissioned to
-  text_ko: 제 기억이 맞다면 2018년이었는데,
+  text_ko: 제 기억이 맞다면 2018년 경이었는데,
 - start: 00:14:44:08
   end: 00:14:50:04
   text_en: produce software that would help schoolchildren, identify fake news.
@@ -815,11 +818,11 @@
 - start: 00:14:58:06
   end: 00:15:00:14
   text_en: and on the other hand, poor quality reasoning
-  text_ko: 유사점을 찾아내고, 같은 도구를 사용하여 제가
+  text_ko: 유사점을 찾아내고, 같은 도구를 사용하여
 - start: 00:15:00:16
   end: 00:15:06:13
   text_en: and use the same tools and to be able to uncover those weaknesses that suggest,
-  text_ko: 접하는 일부 보도가 가짜일 가능성을 시사하는
+  text_ko: 제가 접하는 일부 보도가 가짜일 가능성을 시사하는
 - start: 00:15:06:13
   end: 00:15:11:24
   text_en: like maybe some reporting I see is fake. And this was deployed into,
@@ -827,7 +830,7 @@
 - start: 00:15:11:24
   end: 00:15:14:21
   text_en: Every secondary school in the UK.
-  text_ko: 그리고 이 프로그램은 영국의 모든 중등학교에 도입되었습니다.
+  text_ko: 그리고 이 프로그램은 영국의 모든 중고등학교에 도입되었습니다.
 - start: 00:15:14:21
   end: 00:15:18:23
   text_en: And it was a tough user group? This 16 to 18 year olds.
@@ -919,7 +922,7 @@
 - start: 00:16:57:22
   end: 00:17:00:10
   text_en: reframing, which it turns out plays
-  text_ko: 그 과정에서 핵심 기법 중 하나인 '프레이밍'에 대해 많은 것을 배웠는데,
+  text_ko: 그 과정에서 핵심 기법 중 하나인 '재구조화'에 대해 많은 것을 배웠는데,
 - start: 00:17:00:10
   end: 00:17:02:10
   text_en: a critical role in all kinds of argumentation
@@ -963,11 +966,11 @@
 - start: 00:17:47:11
   end: 00:17:50:23
   text_en: interesting that, we've become very accustomed
-  text_ko: 스포츠 경기에 대한 데이터 기반 분석에 너무
+  text_ko: 스포츠 경기에 대한 데이터 기반 분석에 이미
 - start: 00:17:51:00
   end: 00:17:55:03
   text_en: to that kind of data driven, analysis of sports games.
-  text_ko: 익숙해졌다는 점이 흥미롭다고 생각합니다.
+  text_ko: 익숙해졌다는 점이 재미있는 것 같아요.
 - start: 00:17:55:05
   end: 00:17:56:17
   text_en: In fact, we would kind of feel
@@ -983,7 +986,7 @@
 - start: 00:18:02:00
   end: 00:18:05:19
   text_en: that information at our fingertips. And it's fun. It it it kind of empowers us.
-  text_ko: 재밌기도 하고, 우리에게 힘을 실어주는 것 같아요.
+  text_ko: 재밌기도 하고, 우리에게 많은 정보를 주죠.
 - start: 00:18:05:19
   end: 00:18:11:10
   text_en: And yet so things that I don't no matter even more, who's going to
@@ -991,15 +994,15 @@
 - start: 00:18:11:10
   end: 00:18:17:06
   text_en: be the president and or whatever. We kind of don't have that expectation.
-  text_ko: 우리는 그런 기대를 하지 않아요.
+  text_ko: 보통 그런 기대를 별로 하지 않아요.
 - start: 00:18:17:06
   end: 00:18:20:01
   text_en: We're just accustomed to punditry
-  text_ko: 우리는 데이터 기반 접근보다는 전문가들의
+  text_ko: 이런 주제에 대해선 우리가 데이터 기반 접근보다는
 - start: 00:18:20:01
   end: 00:18:23:15
   text_en: Rather than have data driven.
-  text_ko: 의견에 익숙해져 있는 것 같아요.
+  text_ko: 전문가들의 의견에 익숙해져 있는 것 같아요.
 - start: 00:18:23:15
   end: 00:18:26:24
   text_en: Kind of this is what actually happens.
@@ -1008,6 +1011,7 @@
   end: 00:18:30:22
   text_en: And I think that perfectly answers my previous second question,
   text_ko: 방금 말씀은 제가 앞서 던졌던 두 번째 질문, 즉 왜 중요한지에 대한
+  caption: Critical Thinking in the AI Era / AI 시대의 비판적 사고
 - start: 00:18:30:22
   end: 00:18:33:17
   text_en: which is why it matters. These days we're seeing
@@ -1019,7 +1023,7 @@
 - start: 00:18:35:23
   end: 00:18:40:07
   text_en: And, even more important, having our own gut, to decide
-  text_ko: 그리고 더욱 중요한 것은, 우리 자신의 판단에 따라라
+  text_ko: 그리고 더욱 중요한 것은, 우리 자신의 판단에 따라
 - start: 00:18:40:07
   end: 00:18:43:18
   text_en: based on that last examination is your thought might be sort
@@ -1043,27 +1047,27 @@
 - start: 00:18:57:03
   end: 00:19:04:17
   text_en: As people start to, understand some of the challenges of modern I, and
-  text_ko: 사람들이 현대 인공지능의 여러 가지 어려움을 이해하기 시작하면서, 특히 인공지능은
+  text_ko: 사람들이 현대 AI의 여러 가지 어려움을 이해하기 시작하면서,
 - start: 00:19:04:17
   end: 00:19:08:07
   text_en: in particular, I mean, it's hugely powerful and hugely
-  text_ko: 엄청난 힘을 가지고 있고 우리 모두에게 매우
+  text_ko: 특히 AI는 엄청난 힘을 가지고 있고 우리 모두에게
 - start: 00:19:08:07
   end: 00:19:11:07
   text_en: appealing to all of us? I mean, we all use AI in one way
-  text_ko: 매력적이죠. 우리 모두 어떤 식으로든
+  text_ko: 매우 매력적이죠. 우리 모두 어떤 식으로든
 - start: 00:19:11:07
   end: 00:19:14:12
   text_en: or the other. And and yet there are,
-  text_ko: 인공지능을 사용하고 있으니까요.
+  text_ko: AI를 사용하고 있으니까요.
 - start: 00:19:14:12
   end: 00:19:19:08
   text_en: there are voices expressing some concern, particularly in the educational space, but
-  text_ko: 하지만 교육계를 비롯한 여러 분야에서 인공지능의
+  text_ko: 하지만 교육계를 비롯한 여러 분야에서
 - start: 00:19:19:10
   end: 00:19:25:08
   text_en: not only, in the, over, use of AI.
-  text_ko: 과도한 사용에 대한 우려의 목소리가 나오고 있습니다.
+  text_ko: AI의 과도한 사용에 대한 우려의 목소리가 나오고 있습니다.
 - start: 00:19:25:09
   end: 00:19:30:11
   text_en: has this tendency to dull things, those skills.
@@ -1071,23 +1075,23 @@
 - start: 00:19:30:11
   end: 00:19:33:04
   text_en: And that, we need we need to kind of rethink.
-  text_ko: 우리는 이 부분을 다시 생각해 볼 필요가 있습니다.
+  text_ko: 이 부분을 다시 생각해 볼 필요가 있습니다.
 - start: 00:19:33:04
   end: 00:19:36:05
   text_en: Reframe how are we using AI.
-  text_ko: 우리가 인공지능을 사용하는 방식을 재정립해 보자는 거죠.
+  text_ko: 우리가 AI를 사용하는 방식을 재정립해 보자는 거죠.
 - start: 00:19:36:05
   end: 00:19:41:05
   text_en: And I find this fascinating because, AI is an amazing tool.
-  text_ko: 저는 이것이 정말 흥미롭다고 생각해요. 왜냐하면 인공지능은 정말 놀라운 도구니까요.
+  text_ko: 저는 이것이 정말 고무적이라고 생각해요. 왜냐하면 AI는 정말 놀라운 도구니까요.
 - start: 00:19:41:06
   end: 00:19:47:12
   text_en: I mean, modern LLM are an amazing tool for being able to, partner,
-  text_ko: 제 말은, 현대 LLM은 전통적인 방식, 그러니까
+  text_ko: 제 말은, 현대 LLM은 전통적인 방식,
 - start: 00:19:47:14
   end: 00:19:50:15
   text_en: the, the kind of traditional. Good old fashioned.
-  text_ko: 아주 오래된 방식과 협력할 수 있게 해주는 놀라운 도구라는 겁니다.
+  text_ko: 그러니까 아주 오래된 방식과 협력할 수 있게 해주는 놀라운 도구라는 겁니다.
 - start: 00:19:50:16
   end: 00:19:57:14
   text_en: reasoning techniques, with, with human performance.
@@ -1095,11 +1099,11 @@
 - start: 00:19:57:16
   end: 00:20:01:20
   text_en: And, there's a lot of kind of concern that AI is
-  text_ko: 그리고 아시다시피, AI가 인간의 처리
+  text_ko: 그리고 아시다시피, AI가 인간의 처리 능력을
 - start: 00:20:01:20
   end: 00:20:06:14
   text_en: usurping, kind of pursuing human, processing.
-  text_ko: 능력을 잠식하고 있다는 우려가 많습니다.
+  text_ko: 잠식하고 있다는 우려가 많습니다.
 - start: 00:20:06:16
   end: 00:20:11:24
   text_en: And that just seems to me to be completely wrong, that we should be seeing this as a, as an
@@ -1123,7 +1127,7 @@
 - start: 00:20:31:15
   end: 00:20:36:06
   text_en: given a seat at the table. So in very many domains, if you're
-  text_ko: 인공지능이 의사결정 과정에 참여할 수 있게 된 사례도 많이 봤습니다.
+  text_ko: AI가 의사결정 과정에 참여할 수 있게 된 사례도 많이 봤습니다.
 - start: 00:20:36:06
   end: 00:20:40:14
   text_en: trying to come to a robust decision, you will have input from a number of
@@ -1143,23 +1147,23 @@
 - start: 00:20:56:18
   end: 00:21:02:08
   text_en: voices at that table, offering insight, offering critique, offering push back,
-  text_ko: 통찰력, 비판, 반박, 지지를
+  text_ko: 통찰력, 비판, 반박, 지지를 제공하며
 - start: 00:21:02:08
   end: 00:21:06:03
   text_en: offering support, basically leveling the playing field.
-  text_ko: 제공하며 공정한 경쟁의 장을 마련할 수 있습니다.
+  text_ko: 공정한 경쟁의 장을 마련할 수 있습니다.
 - start: 00:21:06:03
   end: 00:21:11:05
   text_en: Between humans and machines, and to be able to reduce as many
-  text_ko: 인간과 기계 사이의 관계에 있어, 다양한
+  text_ko: 인간과 기계 사이의 관계에 있어,
 - start: 00:21:11:05
   end: 00:21:13:11
   text_en: different perspectives as possible to improve
-  text_ko: 관점을 최대한 줄여 품질을 향상시키거나,
+  text_ko: 이질적인 관점을 접목하여 품질을 향상시키거나,
 - start: 00:21:13:11
   end: 00:21:22:14
   text_en: the quality or so that that kind of shift from seeing, AI is either the enemy or a threat.
-  text_ko: 인공지능을 적으로 보거나 위협으로 보는 이분법적 시각에서 벗어나도록 하는 것이 중요합니다.
+  text_ko: AI를 적이나 위협으로 보는 이분법적 시각에서 벗어나도록 하는 것이 중요합니다.
 - start: 00:21:22:14
   end: 00:21:24:18
   text_en: To seeing it as part of the team.
@@ -1167,15 +1171,15 @@
 - start: 00:21:24:22
   end: 00:21:29:08
   text_en: As the, as the kind of collaborative environment. I think that's, that's going
-  text_ko: 협업적인 환경이라는 점에서, 저는 그것이 정말
+  text_ko: 협업적인 환경이라는 점에서, 저는 그것이
 - start: 00:21:29:08
   end: 00:21:31:21
   text_en: to be a really cool opportunity.
-  text_ko: 멋진 기회가 될 거라고 생각합니다.
+  text_ko: 정말 멋진 기회가 될 거라고 생각합니다.
 - start: 00:21:31:23
   end: 00:21:34:07
   text_en: Very soon. I definitely. Agree. And actually,
-  text_ko: 곧 그렇게 될 겁니다. 저도 전적으로 동의합니다. 그리고 실제로 최근
+  text_ko: 저도 전적으로 동의합니다. 그리고 실제로 최근
 - start: 00:21:34:07
   end: 00:21:37:05
   text_en: it reminds of a recent article by the Harvard Business Review.
@@ -1195,7 +1199,7 @@
 - start: 00:21:50:00
   end: 00:21:55:20
   text_en: Candidates sort of structure, thinking
-  text_ko: 지원자들이 어떻게 하면 올바른 논리적 구조를
+  text_ko: 원래는 지원자들이 어떻게 하면 올바른 논리적 구조를
 - start: 00:21:55:20
   end: 00:21:57:23
   text_en: how to come up with the right logical structure.
@@ -1227,7 +1231,7 @@
 - start: 00:22:17:16
   end: 00:22:22:08
   text_en: non-linear thinking because, AI is kind of they're very good at linear
-  text_ko: 비판적으로 평가해야 합니다. 왜냐하면 인공지능은 선형적이고 직관적인
+  text_ko: 비판적으로 평가해야 합니다. 왜냐하면 AI는 선형적이고 직관적인
 - start: 00:22:22:08
   end: 00:22:26:14
   text_en: to very straightforward thinking, whereas very non-linear kind of
@@ -1235,7 +1239,7 @@
 - start: 00:22:26:14
   end: 00:22:29:10
   text_en: creativity that's not easily coming from the AI.
-  text_ko: 인공지능에서 쉽게 나오지 않기 때문입니다.
+  text_ko: AI에서 쉽게 나오지 않기 때문입니다.
 - start: 00:22:29:11
   end: 00:22:33:14
   text_en: So that seems to be one picture of how AI human can elaborate.
@@ -1247,7 +1251,7 @@
 - start: 00:22:35:23
   end: 00:22:39:18
   text_en: And so, so encouraging the, the challenge or
-  text_ko: 그래서 그 도전이나 시험, 평가 자체가 고무적인 것 같아요.
+  text_ko: 그래서 그 도전이나 시험, 평가 방식이 고무적인 것 같아요.
 - start: 00:22:39:18
   end: 00:22:46:12
   text_en: the, the test or the evaluation candidate. To be not on reaching the decision, but,
@@ -1269,7 +1273,7 @@
 - start: 00:23:02:08
   end: 00:23:08:03
   text_en: AI has kind of forced our hand. And I think that, encouraging
-  text_ko: 인공지능이 어쩔 수 없이 우리를 그렇게 만들었어요.
+  text_ko: AI가 어쩔 수 없이 우리를 그렇게 만들었어요.
 - start: 00:23:08:03
   end: 00:23:13:13
   text_en: that focus on the on the critiquing process, on the ability to assess and judge and
@@ -1298,6 +1302,7 @@
   end: 00:23:37:01
   text_en: Now so you mentioned, like a limitation of the LLM.
   text_ko: LLM의 한계를 언급하셨는데요.
+  caption: Limitations of LLM / LLM의 한계
 - start: 00:23:37:01
   end: 00:23:41:15
   text_en: Just wanted to elaborate further.
@@ -1329,11 +1334,11 @@
 - start: 00:24:05:07
   end: 00:24:10:09
   text_en: But it's this is definitely where everything that is exciting, in AI,
-  text_ko: 하지만 인공지능에서 흥미로운 모든 것은 바로 이
+  text_ko: 하지만 AI에서 주목할 만한 모든 것은
 - start: 00:24:10:09
   end: 00:24:12:04
   text_en: a lot of it is sitting around these questions
-  text_ko: 추론이라는 질문과 관련되어 있습니다.
+  text_ko: 바로 이 추론이라는 질문과 관련되어 있습니다.
 - start: 00:24:12:04
   end: 00:24:14:18
   text_en: of reasoning and of course, trying to define
@@ -1421,7 +1426,7 @@
 - start: 00:25:26:05
   end: 00:25:29:04
   text_en: it used to be the case, as I say, about 18 months ago, that if you,
-  text_ko:  제가 이 자료들이 어떻게 활용되는지 훈련 데이터를 전부 다 살펴볼 수는 없지만,
+  text_ko: 제가 이 자료들이 어떻게 활용되는지 훈련 데이터를 전부 다 살펴볼 수는 없지만,
 - start: 00:25:29:04
   end: 00:25:35:21
   text_en: if you asked, GPT 4, you've got a seven liter jug and
@@ -1437,7 +1442,7 @@
 - start: 00:25:44:10
   end: 00:25:47:18
   text_en: you fill a five liter jockey, pour the five liter dog into the 72 jug.
-  text_ko: 물을 채우고, 그 5리터짜리를 7리터 주전자에 부으면 되지."
+  text_ko: 물을 채우고, 그 5리터짜리를 7리터 주전자에 부으면 되지.
 - start: 00:25:47:18
   end: 00:25:49:21
   text_en: You brother, five liter again. And then you pull that in and then you're
@@ -1445,7 +1450,7 @@
 - start: 00:25:49:21
   end: 00:25:52:17
   text_en: left with three and you empty this one. You pull this and it's like
-  text_ko: 이 통을 비우고 등등등
+  text_ko: 이 통을 비우고" 등등등
 - start: 00:25:52:17
   end: 00:25:54:24
   text_en: that's not the right answer.
@@ -1469,11 +1474,11 @@
 - start: 00:26:06:06
   end: 00:26:09:00
   text_en: face speaks precisely to the fact that
-  text_ko: 이 질문에 대한 쉬운 답이 있다는
+  text_ko: 이 질문에 대한 쉬운 답이 있다는 것을
 - start: 00:26:09:00
   end: 00:26:12:18
   text_en: there is an easy answer to this question. So so the machine wasn't
-  text_ko: 것을 보여주고 있습니다.
+  text_ko: 보여주고 있습니다.
 - start: 00:26:12:18
   end: 00:26:15:21
   text_en: really providing an answer, wasn't really reasoning was
@@ -1529,23 +1534,23 @@
 - start: 00:27:12:03
   end: 00:27:15:06
   text_en: Or The chain of reasoning
-  text_ko: 네, 맞습니다. 결론에 이르는 추론 과정이 답과 일치하지
+  text_ko: 네, 맞습니다. 결론에 이르는 추론 과정이 답과 일치하지 않거나,
 - start: 00:27:15:06
   end: 00:27:18:13
   text_en: that leads you to the conclusion is inconsistent with the answer,
-  text_ko: 않거나, 결론에 이르는 사고 과정 자체가 모순되거나,
+  text_ko: 결론에 이르는 사고 과정 자체가 모순되거나,
 - start: 00:27:18:15
   end: 00:27:21:11
   text_en: or the chain of thought that leads to a conclusion
-  text_ko: ''
+  text_ko: 그 외에도 여러 가지 방식으로
 - start: 00:27:21:11
   end: 00:27:24:24
   text_en: is in itself inconsistent, or any other number of ways
-  text_ko: 그 외에도 여러 가지 방식으로 진정한 추론이 아닌 경우가
+  text_ko: 진정한 추론이 아닌 경우가 있습니다.
 - start: 00:27:24:24
   end: 00:27:30:10
   text_en: in which we're not seeing real reasoning. So chain of thought, is very often not a
-  text_ko: 있습니다. 따라서 사고의 연쇄라는 것은 실제로는 연쇄가
+  text_ko: 따라서 사고의 연쇄(Chain of Thought)라는 것은 실제로는 연쇄가
 - start: 00:27:30:10
   end: 00:27:33:00
   text_en: chain and certainly not thought.
@@ -1553,7 +1558,7 @@
 - start: 00:27:33:00
   end: 00:27:39:04
   text_en: So I don't think it's a very good phrase. But is it, basically a prompting technique?
-  text_ko: 그래서 저는 그 표현이 그다지 좋다고 생각하지는 않지만, 기본적으로 일종의 유도 기법이라고 할 수 있겠죠?
+  text_ko: 그래서 저는 그 표현이 그다지 좋다고 생각하지는 않지만, 기본적으로 일종의 유도 프롬프팅 기법이라고 할 수 있겠죠?
 - start: 00:27:39:04
   end: 00:27:41:21
   text_en: It does improve the quality of answers.
@@ -1589,11 +1594,11 @@
 - start: 00:28:12:22
   end: 00:28:19:15
   text_en: neat idea and a smart insight. So the neat idea, was rooted in
-  text_ko: 훌륭한 아이디어와 뛰어난 통찰력을 가지고 있었습니다. 그 훌륭한 아이디어는 바로 예전부터 사용해 온 인공지능(AI)을
+  text_ko: 훌륭한 아이디어와 뛰어난 통찰력을 가지고 있었습니다. 그 훌륭한 아이디어는 바로 예전부터 사용해 온
 - start: 00:28:19:15
   end: 00:28:23:06
   text_en: go find good old fashioned AI. So he, he used to work and so
-  text_ko: 활용하는 데서 비롯되었습니다. 그는 기획 분야에서 일해
+  text_ko: AI를 활용하는 데서 비롯되었습니다. 그는 기획 분야에서 일해
 - start: 00:28:23:07
   end: 00:28:25:22
   text_en: does work, in an area known as planning.
@@ -1601,15 +1606,15 @@
 - start: 00:28:25:22
   end: 00:28:28:17
   text_en: And planning has been a part of
-  text_ko: 계획 수립은 1960년대부터 인공지능의 한
+  text_ko: 계획 수립은 1960년대부터 AI의 한 부분으로,
 - start: 00:28:28:17
   end: 00:28:36:04
   text_en: AI since the 60s, as a way of, trying to kind of challenge a particular kind
-  text_ko: 부분으로, 특정 유형의 추론 방식에 도전하려는 시도였습니다. 그리고 이것은 일종의 행동 지향적 추론이라고 할 수
+  text_ko: 특정 유형의 추론 방식에 도전하려는 시도였습니다.
 - start: 00:28:36:04
   end: 00:28:39:08
   text_en: of reasoning. And this is sort of action directed reasoning.
-  text_ko: 있습니다.
+  text_ko: 그리고 이것은 일종의 행동 지향적 추론이라고 할 수 있습니다.
 - start: 00:28:39:09
   end: 00:28:42:09
   text_en: A lot of it was done in a sort of
@@ -1685,7 +1690,7 @@
 - start: 00:29:38:22
   end: 00:29:41:14
   text_en: And there were around 600 in this sort of standard set.
-  text_ko: 이런 표준 세트에는 대략 600개 정도가 있었습니다.
+  text_ko: 이런 표준 세트에는 대략 600개 정도가 있었죠.
 - start: 00:29:41:14
   end: 00:29:45:08
   text_en: And so if you come up with a new planner, you can run it against these problems and see
@@ -1693,11 +1698,11 @@
 - start: 00:29:45:08
   end: 00:29:54:09
   text_en: whether it beats in the current school. And so Rao's kind of neat idea was I wonder
-  text_ko: 보고 현재 이론보다 나은지 확인할 수 있습니다. 그렇죠. 그래서 라오의 기발한 아이디어는 LLM이
+  text_ko: 보고 현재 이론보다 나은지 확인할 수 있습니다. 그렇죠. 그래서 라오의 기발한 아이디어는
 - start: 00:29:54:09
   end: 00:29:59:06
   text_en: how the LLM do it. And so he just chopped the 600,.
-  text_ko: 어떻게 하는지 궁금했던 겁니다. 그래서 그는 600 문제를 활용했죠.
+  text_ko: LLM이 어떻게 하는지 궁금했던 겁니다. 그래서 그는 600 문제를 활용했죠.
 - start: 00:29:59:08
   end: 00:30:01:19
   text_en: I forget which one it was. Maybe Claude.
@@ -1745,7 +1750,7 @@
 - start: 00:30:31:15
   end: 00:30:33:24
   text_en: In the core. And then you just said
-  text_ko: 핵심이죠. 맞아요. 그리고 방금 색깔 블록에 대해 이야기하는 대신
+  text_ko: 핵심이죠. 맞아요.
 - start: 00:30:33:24
   end: 00:30:39:06
   text_en: rather than talking about coloured blocks, you talk about, I forget, animals with particular
@@ -1797,11 +1802,11 @@
 - start: 00:31:26:09
   end: 00:31:28:22
   text_en: It was actually to nothing.
-  text_ko: 완전히 제로로 떨어진 거죠.
+  text_ko: 완전히 0점으로 떨어진 거죠.
 - start: 00:31:29:02
   end: 00:31:31:20
   text_en: And I found that absolutely fascinating.
-  text_ko: 정말 흥미로웠어요.
+  text_ko: 정말 인상적이었어요.
 - start: 00:31:31:20
   end: 00:31:35:09
   text_en: Now Raoul proposes a number of ways of tackling this.
@@ -1817,7 +1822,7 @@
 - start: 00:31:41:17
   end: 00:31:44:20
   text_en: fascinating as a way
-  text_ko: 흥미롭습니다. 이것이 얼마나 심각한
+  text_ko: 주목할 만합니다. 이것이 얼마나 심각한
 - start: 00:31:44:20
   end: 00:31:49:04
   text_en: of understanding that this is a very serious problem.
@@ -1865,11 +1870,11 @@
 - start: 00:32:37:12
   end: 00:32:41:02
   text_en: where you, you've got, I don't know, you've got a white house, a blue house,
-  text_ko: 예를 들어, 하얀 집, 파란 집, 빨간 집, 초록 집 이렇게 네 채가 있는
+  text_ko: 예를 들어, 하얀 집, 파란 집, 빨간 집, 초록 집
 - start: 00:32:41:02
   end: 00:32:42:22
   text_en: a red house, green house. You've got four.
-  text_ko: 거죠.
+  text_ko: 이렇게 네 채가 있는 거죠.
 - start: 00:32:42:22
   end: 00:32:48:07
   text_en: you've got five scientists, you've got Einstein owns a dog.
@@ -1889,7 +1894,7 @@
 - start: 00:33:01:20
   end: 00:33:04:17
   text_en: you to be able to solve this. What are interesting about this is that
-  text_ko: 제공됩니다. 흥미로운 점은 이러한 문제의 난이도를
+  text_ko: 제공됩니다. 주목할 점은 이러한 문제의 난이도를
 - start: 00:33:04:17
   end: 00:33:09:00
   text_en: you can very precisely calibrate, the challenge of these problems.
@@ -1929,7 +1934,7 @@
 - start: 00:33:46:01
   end: 00:33:48:06
   text_en: to basically say, okay, so we've got all of this
-  text_ko: 기본적으로 이렇게 말하는 거죠. 좋아요, 우리가 가진 모든
+  text_ko: 기본적으로 이렇게 말하는 거죠. 우리가 가진 모든
 - start: 00:33:48:06
   end: 00:33:52:24
   text_en: argumentation structure and the data sets that I mentioned. So let's
@@ -1953,7 +1958,7 @@
 - start: 00:34:09:24
   end: 00:34:12:04
   text_en: Here's a final conclusion, what's going to.
-  text_ko: 여기 최종 결론이 있습니다. 무엇이 들어갈까요?
+  text_ko: 여기 최종 결론이 있습니다. 중간에 무엇이 들어갈까요?
 - start: 00:34:12:04
   end: 00:34:16:12
   text_en: And then, and then we pick a set of things, including the actual intermediate composition,
@@ -2005,11 +2010,12 @@
 - start: 00:35:09:06
   end: 00:35:12:16
   text_en: I get that, yeah. So that limitation is quite
-  text_ko: 네, 이해합니다. 그래서 그 한계점은 상당히 의미
+  text_ko: 네, 이해합니다. 그래서 그 한계점은 상당히
+  caption: AI-human collaboration / AI와 인간의 협력 가능성
 - start: 00:35:12:16
   end: 00:35:18:05
   text_en: a meaningful finding because that gives kind of room for how to the AI and the
-  text_ko: 있는 발견입니다. 왜냐하면 인공지능과 인간이 어떻게
+  text_ko: 의미 있는 발견입니다. 왜냐하면 AI과 인간이 어떻게
 - start: 00:35:18:05
   end: 00:35:20:20
   text_en: human need to collaborate.
@@ -2061,11 +2067,11 @@
 - start: 00:36:21:18
   end: 00:36:25:16
   text_en: new frontiers to be opened up. And I think that reasoning is a
-  text_ko: 그리고 제 생각에는 추론이 바로 완벽한 예라고 생각합니다. 왜냐하면
+  text_ko: 그리고 제 생각에는 추론이 바로 완벽한 예라고 생각합니다.
 - start: 00:36:25:16
   end: 00:36:29:13
   text_en: perfect example. Because so much work in
-  text_ko: 대부분이 추론 모델 개발이나,
+  text_ko: 왜냐하면 대부분이 추론 모델 개발이나,
 - start: 00:36:29:13
   end: 00:36:33:15
   text_en: AI, prior to 2017, had been focused on
@@ -2085,11 +2091,11 @@
 - start: 00:36:50:01
   end: 00:36:56:01
   text_en: And so being able to find ways to have LLMs interact
-  text_ko: 그래서 LLM이 지식 표현 방식, 지식 공학, 이러한 지식 구조에 대한 추론
+  text_ko: 그래서 LLM이 지식 표현 방식, 지식 공학, 이러한 지식 구조에 대한
 - start: 00:36:56:03
   end: 00:36:59:24
   text_en: with these other technologies of how you do knowledge representation, knowledge
-  text_ko: 방식 등 다른 기술들과 상호 작용할 수
+  text_ko: 추론 방식 등 다른 기술들과 상호 작용할 수
 - start: 00:36:59:24
   end: 00:37:02:12
   text_en: engineering, how you do inferencing
@@ -2097,11 +2103,11 @@
 - start: 00:37:02:12
   end: 00:37:07:07
   text_en: these knowledge structures, and building these kind
-  text_ko: 이러한 지식 구조에 대한 추론을 수행하고, 이러한 심층적인
+  text_ko: 이러한 지식 구조에 대한 추론을 수행하고,
 - start: 00:37:07:07
   end: 00:37:11:06
   text_en: of deep connections between LLMs and LRMs on the one hand
-  text_ko: 연결을 구축하는 것이 중요합니다. 한편으로는 LLM과 LRM 사이에,
+  text_ko: 이러한 심층적인 연결을 구축하는 것이 중요합니다. 한편으로는 LLM과 LRM 사이에,
 - start: 00:37:11:06
   end: 00:37:13:24
   text_en: and these other technologies on the other.
@@ -2129,11 +2135,11 @@
 - start: 00:37:33:18
   end: 00:37:36:22
   text_en: Kind of conflicting each other for decades. But I think
-  text_ko: 수십 년 동안 서로 충돌해 왔지만, 저는
+  text_ko: 수십 년 동안 서로 충돌해 왔지만,
 - start: 00:37:36:22
   end: 00:37:39:05
   text_en: they can sort of combine.
-  text_ko: 둘이 결합할 수 있다고 생각해요.
+  text_ko: 저는 둘이 결합할 수 있다고 생각해요.
 - start: 00:37:39:05
   end: 00:37:41:19
   text_en: So I mean, people have been talking about neurosymbolic approaches for a long time.
@@ -2209,27 +2215,27 @@
 - start: 00:39:01:13
   end: 00:39:08:01
   text_en: you sort of combine the argumentation technology into this typical LLM or any AI system to see
-  text_ko: 다른 AI 시스템에 결합하여 개선 효과를 확인할 수 있는 구체적이고 실질적인 초기 성공
+  text_ko: 다른 AI 시스템에 결합하여 개선 효과를 확인할 수 있는 구체적이고 실질적인
 - start: 00:39:08:01
   end: 00:39:14:01
   text_en: that improvement? So I mean, combining the,
-  text_ko: 사례를 제시해 주실 수 있나요? LLM을
+  text_ko: 초기 성공 사례를 제시해 주실 수 있나요?
 - start: 00:39:14:03
   end: 00:39:19:00
   text_en: the LLM with any other AI techniques is always going
-  text_ko: 다른 AI 기술과 결합하는 것은 항상
+  text_ko: LLM을 다른 AI 기술과 결합하는 것은
 - start: 00:39:19:00
   end: 00:39:21:16
   text_en: to be challenging. And it requires a lot
-  text_ko: 어려운 과제이며, 다소 지루한 엔지니어링
+  text_ko: 항상 어려운 과제이며, 다소 지난한
 - start: 00:39:21:16
   end: 00:39:25:09
   text_en: of, kind of rather dull engineering?
-  text_ko: 작업이 많이 필요하잖아요?
+  text_ko: 엔지니어링 작업이 많이 필요하잖아요?
 - start: 00:39:25:11
   end: 00:39:28:15
   text_en: It's not all exciting academic design work.
-  text_ko: 모두 흥미진진한 학문적 디자인 작업만 있는 건 아니죠.
+  text_ko: 모두 설레는 학문적 디자인 작업만 있는 건 아니죠.
 - start: 00:39:28:17
   end: 00:39:34:10
   text_en: There's sometimes you just need to get down to the nitty gritty.
@@ -2237,11 +2243,11 @@
 - start: 00:39:34:12
   end: 00:39:37:10
   text_en: And I think one of the, one of the areas in which we've
-  text_ko: 그리고 제가 생각하기에 저희가 적어도 어느 정도는 그렇게
+  text_ko: 그리고 제가 생각하기에 저희가 적어도 어느 정도는
 - start: 00:39:37:10
   end: 00:39:43:06
   text_en: done that, at least to some extent, is to try and help the community of
-  text_ko: 해온 분야 중 하나는 기술 분야에서 추론 구조를 자동으로
+  text_ko: 그렇게 해온 분야 중 하나는 기술 분야에서 추론 구조를 자동으로
 - start: 00:39:43:06
   end: 00:39:47:02
   text_en: people who work on the automatic recognition of reasoning structure in text.
@@ -2250,26 +2256,27 @@
   end: 00:39:51:06
   text_en: And this is the field of argument mining.
   text_ko: 이것이 바로 논증 마이닝 분야입니다.
+  caption: Open Argument Mining Framework (oAMF) / 공개 논증 마이닝 프레임워크 (oAMF)
 - start: 00:39:51:08
   end: 00:39:53:22
   text_en: There's been a huge amount of work in argument mining because
-  text_ko: 논증 마이닝은 매우 어려운 작업이기 때문에 엄청난 노력이
+  text_ko: 논증 마이닝은 매우 어려운 작업이기 때문에
 - start: 00:39:53:22
   end: 00:39:57:14
   text_en: it's such a challenging task. And there have been a number of
-  text_ko: 필요했습니다. 그리고 공유 작업이나 데이터 세트 등을
+  text_ko: 엄청난 노력이 필요했습니다.
 - start: 00:39:57:14
   end: 00:40:00:06
   text_en: kind of community efforts around kind of
-  text_ko: ''
+  text_ko: 그리고 공유 작업이나 데이터 세트 등을
 - start: 00:40:00:06
   end: 00:40:05:14
   text_en: shared tasks and data sets and so on. One of the things that we've tried to do, is
-  text_ko: 중심으로 다양한 커뮤니티 활동이 진행되어 왔습니다. 저희는 이러한 노력을 더욱 발전시키기 위해 개방형 프레임워크를 구축하고자
+  text_ko: 중심으로 다양한 커뮤니티 활동이 진행되어 왔습니다. 저희는 이러한 노력을 더욱 발전시키기 위해
 - start: 00:40:05:14
   end: 00:40:08:10
   text_en: to push things forward with an open framework.
-  text_ko: 했습니다.
+  text_ko: 개방형 프레임워크를 구축하고자 했습니다.
 - start: 00:40:08:10
   end: 00:40:13:03
   text_en: Because so many you need so many different components to
@@ -2277,11 +2284,11 @@
 - start: 00:40:13:03
   end: 00:40:18:06
   text_en: be able to solve the problem at large. So you have to be able to take the text in and
-  text_ko: 여러 가지 구성 요소가 필요하거든요. 텍스트를 입력받아야
+  text_ko: 여러 가지 구성 요소가 필요하거든요. 텍스트를 입력받아야 하고,
 - start: 00:40:18:08
   end: 00:40:21:01
   text_en: if there's dialogical interaction, you have to unpick that.
-  text_ko: 하고, 대화형 상호작용이 있다면 그걸 분석해야 하죠.
+  text_ko: 대화형 상호작용이 있다면 그걸 분석해야 하죠.
 - start: 00:40:21:06
   end: 00:40:24:18
   text_en: You have to be able to do appropriate segmentation.
@@ -2297,35 +2304,35 @@
 - start: 00:40:31:10
   end: 00:40:34:14
   text_en: You then have to type those connections. And then perhaps you have to figure out
-  text_ko: 그다음에는 그러한 연결들을 입력해야 합니다. 그리고 나서
+  text_ko: 그다음에는 그러한 연결들을 입력해야 합니다.
 - start: 00:40:34:14
   end: 00:40:37:02
   text_en: what kinds of inferences or conflicts or whatever
-  text_ko: ''
+  text_ko: 그리고 나서 추론이나 충돌 등
 - start: 00:40:37:02
   end: 00:40:40:17
   text_en: there are there to you have to be able to fill in implicit material and on and
-  text_ko: 추론이나 충돌 등 어떤 종류의 요소들이 있는지 파악하고, 암묵적인
+  text_ko: 어떤 종류의 요소들이 있는지 파악하고,
 - start: 00:40:40:17
   end: 00:40:43:11
   text_en: on and on. And what people have often done is to say,
-  text_ko: 내용을 채워 넣어야 하는 등 계속해서 작업을 진행해야 합니다.
+  text_ko: 암묵적인 내용을 채워 넣어야 하는 등 계속해서 작업을 진행해야 합니다.
 - start: 00:40:43:11
   end: 00:40:47:10
   text_en: rather than trying to solve everything, I'm going to focus on this, this chunk,
-  text_ko: 사람들은 흔히 모든 것을 해결하려고 하기보다는, 이 부분에
+  text_ko: 사람들은 흔히 모든 것을 해결하려고 하기보다는,
 - start: 00:40:47:10
   end: 00:40:50:01
   text_en: which makes a lot of sense, but then you need all the
-  text_ko: 집중하는 방식을 택하는데, 이는 타당성이 높지만, 그러려면
+  text_ko: 이 부분에 집중하는 방식을 택하는데, 이는 타당성이 높지만,
 - start: 00:40:50:01
   end: 00:40:54:08
   text_en: other things to already be done in order to apply the work of that one chunk.
-  text_ko: 다른 모든 작업이 이미 완료되어 있어야만 해당 부분의 작업을 적용할 수
+  text_ko: 그러려면 다른 모든 작업이 이미 완료되어 있어야만 해당 부분의 작업을 적용할 수 있습니다.
 - start: 00:40:54:08
   end: 00:41:00:20
-  text_en: And so what we've done is to produce a framework called the Open Argument Mining Framework oamf,
-  text_ko: 있습니다. 그래서 저희는 Open Argument Mining Framework(oAMF)라는 프레임워크를 개발했습니다.
+  text_en: And so what we've done is to produce a framework called the Open Argument Mining Framework (oAMF),
+  text_ko: 그래서 저희는 Open Argument Mining Framework(oAMF)라는 프레임워크를 개발했습니다.
 - start: 00:41:00:20
   end: 00:41:05:16
   text_en: which aims to provide an environment
@@ -2333,11 +2340,11 @@
 - start: 00:41:05:16
   end: 00:41:11:14
   text_en: in which you can effectively pipeline the different components to be able to
-  text_ko: 파이프라인 방식으로 연결하여, 주어진 순간에 원하는 구성
+  text_ko: 파이프라인 방식으로 연결하여, 주어진 순간에 원하는 구성 요소를
 - start: 00:41:11:15
   end: 00:41:14:10
   text_en: take advantage of whichever ones you want at a given moment.
-  text_ko: 요소를 활용할 수 있는 환경을 제공하는 것을 목표로 합니다.
+  text_ko: 활용할 수 있는 환경을 제공하는 것을 목표로 합니다.
 - start: 00:41:14:10
   end: 00:41:17:04
   text_en: So if you're not interested in segmentation, you can just pull
@@ -2409,27 +2416,27 @@
 - start: 00:42:26:12
   end: 00:42:31:05
   text_en: combinations of different pipelines, but all within a common, language, a
-  text_ko: 선택할 수 있다는 겁니다. 하지만 이 모든 것은 개방적이고 확장 가능한 공통 언어와 프레임워크
+  text_ko: 하지만 이 모든 것은 개방적이고 확장 가능한 공통 언어와 프레임워크 내에서 이루어집니다.
 - start: 00:42:31:05
   end: 00:42:36:10
   text_en: common framework that is kind of open and extensible. So I think that's maybe,
-  text_ko: 내에서 이루어집니다. 이것이 바로 두 가지 전략을
+  text_ko: 이것이 바로 두 가지 전략을
 - start: 00:42:36:12
   end: 00:42:42:10
   text_en: an example, at least in approach, to being able to merge these two strategies.
-  text_ko: 결합하는 한 가지 예시, 적어도 접근 방식이라고 할 수 있겠네요.
+  text_ko: 결합하는 한 가지 예시라고 할 수 있겠네요.
 - start: 00:42:42:10
   end: 00:42:46:04
   text_en: And I think that applications that do this and you know, applications that go out
-  text_ko: 그리고 제 생각에는 이런 기능을 하는 적용 분야, 즉
+  text_ko: 그리고 제 생각에는 이런 기능을 하는 적용 분야,
 - start: 00:42:46:04
   end: 00:42:56:03
   text_en: to the general public, are probably not far behind as a result of that.
-  text_ko: 일반 대중에게 제공되는 분야에도 그 결과로 머지않아 나올 것 같습니다.
+  text_ko: 즉 일반 대중에게 제공되는 분야에도 그 결과로 머지않아 나올 것 같습니다.
 - start: 00:42:56:05
   end: 00:42:59:03
   text_en: Segueing to the next question, which is kind of how you can
-  text_ko: 다음 질문으로 넘어가서,
+  text_ko: 다음 질문으로 연결될 것 같은데요.
 - start: 00:42:59:03
   end: 00:43:03:20
   text_en: sort of, the any further application of this or what we discussed, like
@@ -2442,6 +2449,7 @@
   end: 00:43:11:19
   text_en: You have been working on some sectors, but looks like they're happy, some unconquered territory, like the, the
   text_ko: 이미 여러 분야에서 연구를 진행해 오셨지만, 기업 의사 결정과 같은
+  caption: "Future Applications: Corporate Decision Making / 미래 응용: 기업 의사결정"
 - start: 00:43:11:19
   end: 00:43:13:08
   text_en: corporate decision making, and they're working with
@@ -2501,7 +2509,7 @@
 - start: 00:44:09:15
   end: 00:44:15:11
   text_en: analysis is is another example. And, I'm sure that that many
-  text_ko: 정보 분석도 또 다른 예입니다. 이 영상을을 시청하시는
+  text_ko: 정보 분석도 또 다른 예입니다. 이 영상을 시청하시는
 - start: 00:44:15:11
   end: 00:44:21:04
   text_en: people, who might be watching this can think of applications in their own domains where,
@@ -2513,11 +2521,11 @@
 - start: 00:44:24:03
   end: 00:44:29:06
   text_en: And I think in any of those cases where people care about the quality of the decisions, then
-  text_ko: 그리고 저는 사람들이 의사결정의 질을 중요하게
+  text_ko: 그리고 저는 사람들이 의사결정의 질을 생각하는 모든 경우에,
 - start: 00:44:29:06
   end: 00:44:34:04
   text_en: there may be a willingness to invest in, technology supported processes
-  text_ko: 생각하는 모든 경우에, 의사결정의 질을 향상시키는
+  text_ko: 의사결정의 질을 향상시키는
 - start: 00:44:34:06
   end: 00:44:39:03
   text_en: that enhance the quality of those decisions.
@@ -2533,11 +2541,11 @@
 - start: 00:44:51:18
   end: 00:44:56:03
   text_en: higher education, and therefore I see the, the kind of management in higher education,
-  text_ko: 고등 교육 기관의 경영 방식이 직관에
+  text_ko: 고등 교육 기관의 경영 방식이
 - start: 00:44:56:03
   end: 00:45:13:04
   text_en: which is often based more on intuition and gut or agenda or whatever than it is on the raw data.
-  text_ko: 직관과 감에 의존하거나 의제에 따라 결정하는 경우가 가공되지 않은 데이터에 기반하는 경우보다 많다는 것을 알기 때문일 것입니다.
+  text_ko: 직관과 감에 의존하거나 의제에 따라 결정하는 경우가 가공되지 않은 데이터에 기반하는 경우보다 많다는 것을 알기 때문이에요.
 - start: 00:45:13:04
   end: 00:45:18:14
   text_en: And my suspicion is that those weaknesses are quite common. Now that's not to say that
@@ -2553,11 +2561,11 @@
 - start: 00:45:26:12
   end: 00:45:34:19
   text_en: And, but being able to, to exploit the data to either corroborate or
-  text_ko: 하지만 데이터를 활용하여 사실을 확인하거나 반증하거나, 혹은 단순히
+  text_ko: 하지만 데이터를 활용하여 사실을 확인하거나 반증하거나,
 - start: 00:45:34:19
   end: 00:45:43:11
   text_en: disconfirm or just explore is largely, I think, unexploited
-  text_ko: 탐색하는 것은 대체로 활용되지 않거나,
+  text_ko: 혹은 단순히 탐색하는 것은 대체로 활용되지 않거나,
 - start: 00:45:43:14
   end: 00:45:46:00
   text_en: or at least not exploited in a principled way.
@@ -2577,7 +2585,7 @@
 - start: 00:45:57:08
   end: 00:46:01:03
   text_en: probably one of the most interesting kind of near term applications of argument.
-  text_ko: 논증 기술의 단기적 응용 분야 중 가장 흥미로운 것 중 하나일 거예요.
+  text_ko: 논증 기술의 단기적 응용 분야 중 가장 주목할 만한 것 중 하나일 거예요.
 - start: 00:46:01:05
   end: 00:46:05:08
   text_en: Technology that makes total sense because we have like abundant of the information
@@ -2597,11 +2605,11 @@
 - start: 00:46:16:14
   end: 00:46:22:03
   text_en: day, may be kind of dependent on the intuition, but having sort of the common agreement
-  text_ko: 있을 수도 있겠지만, 그 결정이 직관에 기반한 가정에 근거했다는 공통된 합의가
+  text_ko: 있을 수도 있겠지만, 그 결정이 직관에 기반한 가정에 근거했다는
 - start: 00:46:22:05
   end: 00:46:24:18
   text_en: that the decision was based on this assumption from the
-  text_ko: 있다는 것은 매우 매력적인 영역이라고 생각합니다.
+  text_ko: 공통된 합의가 있다는 것은 매우 매력적인 영역이라고 생각합니다.
 - start: 00:46:24:18
   end: 00:46:30:01
   text_en: intuition, that seems to be kind of attractive area. And even further, like whose intuition contributed the decision exactly?
@@ -2637,19 +2645,19 @@
 - start: 00:47:01:19
   end: 00:47:13:12
   text_en: I think because there are so many gender and race and, other sort of practical
-  text_ko: 네. 맞습니다. 그리고 성별, 인종, 그리고 기타 여러 가지 현실적인 제약과 압력 때문에 의사결정이 제대로
+  text_ko: 네. 맞습니다. 그리고 성별, 인종, 그리고 기타 여러 가지 현실적인 제약과 압력이
 - start: 00:47:13:14
   end: 00:47:17:21
   text_en: constraints, pressures rather on how decisions are reached.
-  text_ko: 제약과 압력이 의사결정이 어떻게 이루어지는지에 영향을 미칩니다.
+  text_ko: 의사결정이 어떻게 이루어지는지에 영향을 미칩니다.
 - start: 00:47:17:21
   end: 00:47:20:24
   text_en: You know, being able to surface the fact that someone who is less, I don't know, less aggressive or less vocal
-  text_ko: 덜 공격적이거나 덜 목소리를 내는 사람이 실제로 좋은 결정의 원천이라는 사실을 드러낼 수 있다는 거죠.
+  text_ko: 덜 공격적이거나 덜 목소리를 내는 사람이
 - start: 00:47:20:24
   end: 00:47:25:10
   text_en: is actually the source of the good decisions.
-  text_ko: 
+  text_ko: 실제로 좋은 결정의 원천이라는 사실을 드러낼 수 있다는 거죠.
 - start: 00:47:25:14
   end: 00:47:28:12
   text_en: Being able to track that at the moment
@@ -2686,6 +2694,7 @@
   end: 00:48:11:05
   text_en: So it's kind of the human
   text_ko: 또다른 질문으로,
+  caption: Human Behavior and Argumentation / 인간 행동과 논증
 - start: 00:48:11:05
   end: 00:48:14:01
   text_en: behaviour question, because that's sort of
@@ -2741,7 +2750,7 @@
 - start: 00:49:19:02
   end: 00:49:22:05
   text_en: you know, gym membership and attendance. Right. The membership thing is
-  text_ko: 우리 모두 헬스장 회원권과 출석에서 그런 모습을 봅니다.
+  text_ko: 우리 모두 헬스장 회원권에서 그런 모습을 봅니다.
 - start: 00:49:22:05
   end: 00:49:26:05
   text_en: relatively straightforward. The attendance requires a bit more commitment,
@@ -2757,7 +2766,7 @@
 - start: 00:49:39:11
   end: 00:49:43:20
   text_en: not just that people are intrinsically good at it. I think it's a defining
-  text_ko: 마찬가지로 논증 능력을 키우는 것 어려운 일이죠.
+  text_ko: 마찬가지로 논증 능력을 키우는 건 어려운 일이죠.
 - start: 00:49:43:22
   end: 00:49:49:05
   text_en: part of what it is to be human. Is to be able to do this.
@@ -2954,6 +2963,7 @@
   end: 00:53:49:00
   text_en: I definitely agree with you. And that's part of our company DeepSkill
   text_ko: 저도 전적으로 동의합니다. 그리고 저희 회사 딥스킬은
+  caption: Industry Movement & Closing / 산업 동향과 마무리
 - start: 00:53:49:00
   end: 00:53:55:18
   text_en: is kind of pushing forward kind of in nourishing the critical thinking skill for everybody.
@@ -3001,7 +3011,7 @@
 - start: 00:54:52:14
   end: 00:55:00:09
   text_en: organisations as well that people are starting to realise that argumentation process
-  text_ko: 흥미롭게도 정부와 정부 기관에서도 일어나고 있습니다.
+  text_ko: 주목할 만하게도 정부와 정부 기관에서도 일어나고 있습니다.
 - start: 00:55:00:11
   end: 00:55:04:05
   text_en: of reasoned interaction, reasoned decision making is kind of
@@ -3085,7 +3095,7 @@
 - start: 00:56:23:20
   end: 00:56:28:10
   text_en: your insight and tremendously insightful. You guys have been fascinating discussion.
-  text_ko: 정말 흥미로운 토론이었습니다.
+  text_ko: 정말 유익한 토론이었습니다.
 - start: 00:56:28:16
   end: 00:56:32:06
   text_en: Thank you, All As I did that,
